@@ -3,7 +3,6 @@
 ---
 
 
-# No fue grave, porque Dios cuidó a todos 
 
 >Todos sabemos que en el tránsito hay que estar atentos porque un descuido puede ser muy peligroso 
 
