@@ -24,7 +24,7 @@ Así que cómo estaba lloviendo y ya era su hora de salir, bajé de la camioneta
 
 ## ¿Y la camioneta?
 
-Cuando salí no vi la camioneta donde la dejé!!! Pero me costó reaccionar que la deje sin el freno puesto!!
+Cuando volví no vi la camioneta donde la dejé!!! Pero me costó reaccionar que la deje sin el freno puesto!!
 La camioneta decide andar sola por Bulevar España, cruzar Palmar una calle peligrosa y frenar contra un camión del otro lado de la calle 
 
 Que fuera muy temprano 8 de la mañana y lunes de Carnaval, jugó a mi favor.. porque pudo ser un desastre.
