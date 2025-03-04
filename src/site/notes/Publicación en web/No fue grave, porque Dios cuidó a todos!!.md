@@ -57,3 +57,6 @@ Pues hacer que esos trabajadores estacionaran ese camión en un lugar indebido. 
 Que no cruzara nadie, ninguna personas mayor o algún niño, es sorprendente. Que todo termine en un simple gasto menor, también es sorprendente.
 
 Aunque me he quedado mal, y me sigo sintiendo mal, porque soy humano y acepto mis errores y los asumo con responsabilidad desde siempre. También entiendo que Dios nos cuide a todos. Y con ese accidente fue asombro que no sucediera nada más grave [Salmo 46:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/46#v=19:46:8)
+
+
+
