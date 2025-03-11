@@ -15,4 +15,4 @@ Dando su vida por sus amigos [Juan 15:13](https://wol.jw.org/es/wol/bc/r4/lp-s/1
 - lo hacía porque se compadeció profundamente, porque literalmente le dolía ver a las personas sufrir 
 - siempre dispuesto a perdonar [Lucas 23:14](https://wol.jw.org/es/wol/bc/r4/lp-s/1102002054/18/0) ejemplo notable con Pedro que lo negó 3 veces [Lucas 21:15-17](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/43/21#v=43:21:15-43:21:17)  
 
-La [[Personal/Libros temas bíblicos/¡Disfrute de la vida para siempre! Curso interactivo de la Bibli/Biblia\|Biblia]] nos invita a [[Conocer\|Conocer]] el [[Publicación en web/Amor\|Amor]] de [[Cristo\|Cristo]] [Efesios 3:19](https://wol.jw.org/es/wol/bc/r4/lp-s/1102002054/24/0) 
+La [[Publicación en web/Biblia\|Biblia]] nos invita a [[Publicación en web/Conocer\|Conocer]] el [[Publicación en web/Amor\|Amor]] de [[Cristo\|Cristo]] [Efesios 3:19](https://wol.jw.org/es/wol/bc/r4/lp-s/1102002054/24/0) 
