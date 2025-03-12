@@ -25,7 +25,6 @@ Los hermanos me visitaron a principios de Año y aunque les manifesté que no te
 
 Pero hace unos días tuve una experiencia que me dejó muy apenado, porque tuve una distracción que pudo haber terminado muy mal y la verdad no quiero repetirla ni olvidarla por éso la escribo por aquí
 
-
 Si tienes curiosidad de saber que fue, puedes leer [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]] y la escribí al día siguiente.
 
 
