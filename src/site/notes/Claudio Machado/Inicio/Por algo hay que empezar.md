@@ -11,14 +11,23 @@
 
 ---
 
->Aquí iré compartiendo [[Claudio Machado/Conceptos/Pensamientos\|Pensamientos]], [[Claudio Machado/Conceptos/Reflexiones\|Reflexiones]], experiencias y mucho de investigación personal sobre la Biblia 
+>Aquí iré compartiendo [[Claudio Machado/Conceptos/Pensamientos\|Pensamientos]], [[Claudio Machado/Conceptos/Reflexiones\|Reflexiones]], [[Claudio Machado/Experiencias/Experiencias\|Experiencias]] y mucho de [[Investigación\|Investigación]] [[Claudio Machado/Experiencias/Personal\|Personal]] sobre la [[Claudio Machado/Conceptos/Biblia\|Biblia]] 
 
-pero con un gran amor por la espiritualidad y muchísima fe en Dios que sigue creciendo, debido a que sigo leyendo y aprendió en de la biblia.
+Nací en Rivera en 1966, desde 1976 vivo en Solymar, lugar donde conocí a los testigos de Jehová y a mi primer esposa Marcia, una persona increíble que no se mereció toda la tristeza que le cause 
 
-Soy bautizado como testigo de Jehová y estoy muy activo dedicando tiempo a compartir con otros lo que estoy aprendiendo desdé hace más de 50 años 
+En 1985 me bautice y en 1987 me casé por primera vez,  un matrimonio que duró 27 años, hasta que por inmoralidad de mi parte, me divorcie y fuí expulsado en 2014. En esa etapa conozco a Patricia con quién me case por segunda vez en 2017.
+
+Para ese entonces Patricia ya había comenzado a estudiar la Biblia. Entonces quise enderezar mis asuntos con [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]] y en 2019 escribí y hablé con la congregación para ser readmitido, pero no fue el tiempo para volver. Después vino la pandemia del COVID y mi interés en volver disminuye. 
+
+En el Año 2014 las congregación recibe nueva información del [[Claudio Machado/Conceptos/Cuerpo Gobernante\|Cuerpo Gobernante]] para ayudar a que vuelvan las personas que estaban en mi misma condición espiritual. 
+
+Los hermanos me visitaron a principios de Año y aunque les manifesté que no tenía intenciones de volver, igual acepte la ayuda que me ofrecieron de parte de [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]]. Y para Mayo de 2024 ya estaba restablecida mi relación con la congregación y a la siguiente semana el 26 de Mayo de 2024,  Patricia hace público su dedicación a Jehová. Desde ése momento hasta el día de hoy nos hemos mantenido unidos y activos dentro de la congregación. 
+
+Pero hace unos días tuve una experiencia que me dejó muy apenado, porque tuve una distracción que pudo haber terminado muy mal y la verdad no quiero repetirla ni olvidarla por éso la escribo por aquí
 
 
+Si tienes curiosidad de saber que fue, puedes leer [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]] y la escribí al día siguiente.
 
-Les recomiendo leer [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]] Fue la nota que impuso que hiciera este sitio. Contando que me sucedió ayer 
+
  
 
