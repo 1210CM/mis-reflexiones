@@ -13,7 +13,7 @@
 
 >Aquí iré compartiendo [[Claudio Machado/Conceptos/Pensamientos\|Pensamientos]], [[Claudio Machado/Conceptos/Reflexiones\|Reflexiones]], [[Claudio Machado/Experiencias/Experiencias\|Experiencias]] y mucho de [[Investigación\|Investigación]] [[Claudio Machado/Experiencias/Personal\|Personal]] sobre la [[Claudio Machado/Conceptos/Biblia\|Biblia]] 
 
-Nací en Rivera en 1966, desde 1976 vivo en Solymar, lugar donde conocí a los testigos de Jehová y a mi primer esposa Marcia, una persona increíble que no se mereció toda la tristeza que le cause 
+Nací en Rivera en 1966, desde 1976 vivo en Solymar, lugar donde conocí a los [[Claudio Machado/Conceptos/Testigos de Jehová\|Testigos de Jehová]] y a mi primer esposa Marcia, una persona increíble que no se mereció toda la tristeza que le cause 
 
 En 1985 me bautice y en 1987 me casé por primera vez,  un matrimonio que duró 27 años, hasta que por inmoralidad de mi parte, me divorcie y fuí expulsado en 2014. En esa etapa conozco a Patricia con quién me case por segunda vez en 2017.
 
