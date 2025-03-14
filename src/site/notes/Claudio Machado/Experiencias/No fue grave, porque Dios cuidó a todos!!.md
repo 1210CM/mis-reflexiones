@@ -58,5 +58,6 @@ Que no cruzara nadie, ninguna personas mayor o algún niño, es sorprendente. Qu
 
 Aunque me he quedado mal, y me sigo sintiendo mal, porque soy humano y acepto mis errores y los asumo con responsabilidad desde siempre. También entiendo que Dios nos cuide a todos. Y con ese accidente fue asombro que no sucediera nada más grave [Salmo 46:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/46#v=19:46:8)
 
-
+Lo próximo es Reparando 
+## [[Claudio Machado/Experiencias/Reparando la camioneta\|Reparando la camioneta]]
 
