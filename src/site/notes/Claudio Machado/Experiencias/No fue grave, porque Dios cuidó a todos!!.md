@@ -56,7 +56,7 @@ Pues hacer que esos trabajadores estacionaran ese camión en un lugar indebido. 
 
 Que no cruzara nadie, ninguna personas mayor o algún niño, es sorprendente. Que todo termine en un simple gasto menor, también es sorprendente.
 
-Aunque me he quedado mal, y me sigo sintiendo mal, porque soy humano y acepto mis errores y los asumo con responsabilidad desde siempre. También entiendo que Dios nos cuide a todos. Y con ese accidente fue asombro que no sucediera nada más grave [Salmo 46:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/46#v=19:46:8)
+Aunque me he quedado mal, y me sigo sintiendo mal, porque soy humano y acepto mis errores y los asumo con responsabilidad desde siempre. También entiendo que Dios nos cuide a todos. Este accidente quedará como una anécdota sólo gracias al poder de Jehová que no permitió que sucediera nada más grave  [Salmo 46:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/46#v=19:46:8)
 
 ## [[Claudio Machado/Experiencias/Reparando la camioneta\|Reparando la camioneta]]
 
