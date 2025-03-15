@@ -4,10 +4,11 @@
 
 Una vez que llegue del [[Claudio Machado/Experiencias/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]] lleve la camioneta al [[Claudio Machado/Experiencias/taller de Javier\|taller de Javier]] que nos conocemos de hace años, con el que estoy muy conforme con todos los trabajos que me ha hecho. Cómo por ejemplo [[Claudio Machado/Experiencias/Careta del Cruze\|Careta del Cruze]] Aunque para ser honestos ésta vez le llevaba algo muy grande. Antes fueron, pequeñas abolladura o roces, pero está fue un golpe muy grande [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]].
 
-La realidad fue que me dijo: "Tuviste mucha suerte, no se lastimó nadie, no rompiste nada ajeno, incluso los plásticos y las ópticas de tu camioneta quedaron intactas, ¿sabes lo que sale conseguir ésos repuestos?"
+>"Tuviste mucha suerte, no se lastimó nadie, no rompiste nada ajeno, incluso los plásticos y las ópticas de tu camioneta quedaron intactas, ¿sabes lo que sale conseguir ésos repuestos?" Javier el chapista 
 
-Javier el chapista me pregunto: "Porque no usaste el seguro?".  Le respondí que no me pareció en principio que era tan grave la reparación, y cómo no hubo nadie lastimado, y el camión no se hizo nada, no quise demorar a los trabajadores al hacer la denuncia y esperar al papeleo, dije hagamos esto rápido yo asumo mi culpa y listo.
+Javier me pregunto "Porque no usaste el seguro?".  Es que no hubo lastimado, el otro vehículo no se hizo nada y la verdad no me pareció que era tan grave la reparación, entonces, no quise demorar a los trabajadores al hacer la denuncia y esperar al papeleo, dije yo asumo mi culpa y listo.
 
+## Fue tan simple la reparación 
 Aquí les muestro en detalle con lo que se encontró Javier al empezar el desarme, mucho de la estructura de la camioneta se torció.
 
 ![Desarme del guardabarros izquierdo.jpg](/img/user/Personal/Im%C3%A1genes/Desarme%20del%20guardabarros%20izquierdo.jpg)
