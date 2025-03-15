@@ -8,7 +8,7 @@ Una vez que llegue del [[Claudio Machado/Experiencias/Viaje en auto a Bombinhas\
 
 Javier me pregunto "Porque no usaste el seguro?".
 
->Es que no hubo lastimado, el otro vehículo no se hizo nada y la verdad no me pareció que era tan grave la reparación, entonces, no quise demorar a los trabajadores al hacer la denuncia y esperar al papeleo, dije yo asumo mi culpa y listo.
+>Es que no hubo lastimado, el otro vehículo no se hizo nada y la verdad no me pareció que era tan grave la reparación, entonces, no quise demorar a los trabajadores al hacer la denuncia y esperar al papeleo, yo asumo mi culpa y listo.
 
 ## Fue tan simple la reparación 
 Aquí les muestro en detalle con lo que se encontró Javier al empezar el desarme, mucho de la estructura de la camioneta se torció.
