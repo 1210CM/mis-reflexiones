@@ -2,7 +2,7 @@
 {"dg-publish":true,"Fecha":"2025-03-14","permalink":"/claudio-machado/experiencias/reparando-la-camioneta/","dgPassFrontmatter":true}
 ---
 
-Una vez que llegue del [[Claudio Machado/Experiencias/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]] lleve la camioneta al chapista que nos conocemos de hace años, con el que estoy muy conforme con todos los trabajos que me ha hecho. Cómo por ejemplo [[Claudio Machado/Experiencias/Careta del Cruze\|Careta del Cruze]] Aunque para ser honestos ésta vez le llevaba algo muy grande. Antes fueron, pequeñas abolladura o roces, pero está fue un golpe muy grande [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]].
+Una vez que llegue del [[Claudio Machado/Experiencias/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]] lleve la camioneta al [[Claudio Machado/Experiencias/taller de Javier\|taller de Javier]] que nos conocemos de hace años, con el que estoy muy conforme con todos los trabajos que me ha hecho. Aunque para ser honestos ésta vez le llevaba algo muy grande. Antes fueron, pequeñas abolladura o roces, pero está fue un golpe muy grande. [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]]
 
 La realidad fue que me dijo: "Tuviste mucha suerte, no se lastimó nadie, no rompiste nada ajeno, incluso los plásticos y las ópticas de tu camioneta quedaron intactas, ¿sabes lo que sale conseguir ésos repuestos?"
 
