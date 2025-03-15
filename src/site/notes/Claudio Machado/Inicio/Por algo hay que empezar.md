@@ -33,9 +33,7 @@ Y para Mayo de 2024 ya había recuperado mi relación y mi lugar cómo un testig
 Y una semana más tarde, del anuncio público que volví a ser Testigo, Patricia hace público su dedicación a Jehová mediante el [[Claudio Machado/Experiencias/Bautismo 2024-05-26\|Bautismo 2024-05-26]]. Desde ése momento hasta el día de hoy nos hemos mantenido unidos y activos dentro de la congregación. 
 
 ## Una distracción me pudo cambiar la vida 
-Hace unos días tuve una experiencia que me dejó muy apenado, tuve una distracción que pudo haber terminado muy mal y la verdad no quiero repetirla ni olvidarla por éso la escribo por aquí
-
-Si tienes curiosidad de saber que fue, puedes leer [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]] y la escribí al día siguiente que la viví.
+Hace unos días tuve una experiencia que me dejó muy apenado, tuve una distracción que pudo haber terminado muy mal y la verdad no quiero repetirla ni olvidarla por éso la escribo por aquí [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]] 
 
 
  
