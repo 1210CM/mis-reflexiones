@@ -19,7 +19,7 @@ En 1985 me bautice y dos años después me casé con Marcia, un [[Claudio Machad
 
 Para ese entonces Patricia ya había comenzado a [[Claudio Machado/Conceptos/Estudiar la Biblia\|Estudiar la Biblia]]. Entonces quise enderezar mis asuntos con [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]] y en 2019 escribí y hablé con la congregación para ser readmitido, pero no fue el tiempo para volver. Después vino la pandemia del [COVID](https://www.jw.org/es/noticias/region/internacionales/jw-informacion-coronavirus/) y mi interés en volver se enfrió. 
 
-En el Año 2014 la [[Claudio Machado/Conceptos/Congregación\|Congregación]] recibe nueva información del [[Claudio Machado/Conceptos/Cuerpo Gobernante\|Cuerpo Gobernante]] para ayudar a las personas que estaban alejadas y apartadas de la adoración y quisieran volver, pudier
+En el Año 2014 la [[Claudio Machado/Conceptos/Congregación\|Congregación]] recibe nueva información del [[Claudio Machado/Conceptos/Cuerpo Gobernante\|Cuerpo Gobernante]] para ayudar a las personas que estaban alejadas y apartadas de la adoración y quisieran volver.
 
 Los hermanos me visitaron a principios de Año y aunque les manifesté que no tenía intenciones de volver, igual acepte la ayuda que me ofrecieron de parte de [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]]. Y para Mayo de 2024 ya estaba restablecida mi relación con la congregación y una semana más tarde,  Patricia hace público su dedicación a Jehová mediante el [[Claudio Machado/Experiencias/Bautismo 2024-05-26\|Bautismo 2024-05-26]]. Desde ése momento hasta el día de hoy nos hemos mantenido unidos y activos dentro de la congregación. 
 
