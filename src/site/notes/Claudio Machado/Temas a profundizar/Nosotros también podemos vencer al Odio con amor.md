@@ -15,4 +15,8 @@ Estudiar y aprender del [[Claudio Machado/Personajes Bíblicos/Jesús\|Jesús]] 
 
 Porque decimos que los [[Claudio Machado/Conceptos/Testigos de Jehová\|Testigos de Jehová]] son los cristianos que Dios apruebe 
 
+>nuestro objetivo no es pelear sinó salvar a las personas 
+
+La predicación es una forma de demostrar que el amor nos motiva 
+
 [[Claudio Machado/Temas a profundizar/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
