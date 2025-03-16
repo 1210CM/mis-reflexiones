@@ -9,7 +9,7 @@ He aprendido a ver el [[Claudio Machado/Conceptos/Matrimonio\|Matrimonio]] cómo
 
 ## [[Claudio Machado/Mi matrimonio/Estoy dándole Honra a mi esposa\|Estoy dándole Honra a mi esposa]]
 
-## [[Claudio Machado/Estudio personal/Y Si me doy cuenta que Estoy haciendo algo mal\|Y Si me doy cuenta que Estoy haciendo algo mal]]
+## [[Claudio Machado/Temas a profundizar/Y Si me doy cuenta que Estoy haciendo algo mal\|Y Si me doy cuenta que Estoy haciendo algo mal]]
 
 ## [[Claudio Machado/Mi matrimonio/Como dar honra a mi esposa\|Como dar honra a mi esposa]]
 
