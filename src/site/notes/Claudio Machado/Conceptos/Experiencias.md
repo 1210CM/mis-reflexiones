@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-11","permalink":"/claudio-machado/conceptos/experiencias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/experiencias/"}
 ---
 
 Lo que aprendo después de reflexionar sobre algún evento o situacion.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-14","permalink":"/claudio-machado/experiencias/viaje-en-auto-a-bombinhas/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/viaje-en-auto-a-bombinhas/"}
 ---
 
 

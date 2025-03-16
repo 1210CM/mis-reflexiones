@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-16","permalink":"/claudio-machado/temas-a-profundizar/dios-promete-librar-del-odio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/dios-promete-librar-del-odio/"}
 ---
 
 En cuanto se manifestó el orígen del Odio que pareció una derrota para el propósito de Dios basado en el amor.

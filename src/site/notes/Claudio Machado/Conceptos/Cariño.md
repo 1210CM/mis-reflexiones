@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-15","permalink":"/claudio-machado/conceptos/carino/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/carino/"}
 ---
 
 El cariño es un sentimiento basado en el amor, que refleja un intenso apego y adherencia a otra persona.

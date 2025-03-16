@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2024-03-15","permalink":"/claudio-machado/experiencias/taller-de-javier/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/taller-de-javier/"}
 ---
 
 En esta oportunidad tuve un toque en el tránsito con el paragolpe delantero 

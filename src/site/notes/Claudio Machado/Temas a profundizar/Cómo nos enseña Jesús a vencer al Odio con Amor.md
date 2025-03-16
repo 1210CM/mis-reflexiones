@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-16","permalink":"/claudio-machado/temas-a-profundizar/como-nos-ensena-jesus-a-vencer-al-odio-con-amor/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/como-nos-ensena-jesus-a-vencer-al-odio-con-amor/"}
 ---
 
 Cuando [[Claudio Machado/Personajes Bíblicos/Jesús\|Jesús]] estuvo en la tierra enseñó a vencer el odio con el amor:

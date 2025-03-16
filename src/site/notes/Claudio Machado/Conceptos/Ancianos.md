@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":null,"permalink":"/claudio-machado/conceptos/ancianos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/ancianos/"}
 ---
 
 No tiene que ver con la edad.

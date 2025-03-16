@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":null,"permalink":"/claudio-machado/personajes-biblicos/dios/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/personajes-biblicos/dios/"}
 ---
 
 El creador de Todas las cosas 

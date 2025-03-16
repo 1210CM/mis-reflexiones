@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-home":true,"Fecha":"2025-03-04","permalink":"/claudio-machado/a-inicio/por-algo-hay-que-empezar/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/por-algo-hay-que-empezar/","tags":["gardenEntry"]}
 ---
 
 

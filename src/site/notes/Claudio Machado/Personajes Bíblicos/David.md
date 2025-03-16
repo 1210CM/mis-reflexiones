@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-11","permalink":"/claudio-machado/personajes-biblicos/david/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/personajes-biblicos/david/"}
 ---
 
 Fue elegido el segundo Rey de Israel por su fiel corazón dedicado a Jehová. Después que el primer rey de Israel [[Claudio Machado/Personajes Bíblicos/Saúl\|Saúl]] pierde el favor de Jehová por su desobediencia 

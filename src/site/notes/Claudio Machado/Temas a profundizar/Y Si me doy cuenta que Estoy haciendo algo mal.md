@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-15","permalink":"/claudio-machado/temas-a-profundizar/y-si-me-doy-cuenta-que-estoy-haciendo-algo-mal/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/y-si-me-doy-cuenta-que-estoy-haciendo-algo-mal/"}
 ---
 
 ## Proceso en 6 pasos 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-15","permalink":"/claudio-machado/mi-matrimonio/como-dar-honra-a-mi-esposa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/mi-matrimonio/como-dar-honra-a-mi-esposa/"}
 ---
 
 [1 Juan 3:18](https://wol.jw.org/es/wol/bc/r4/lp-s/2025241/30/0) demostrándole [[Claudio Machado/Conceptos/Cariño\|Cariño]] al expresar por hechos y palabras lo que sentimos por ella 

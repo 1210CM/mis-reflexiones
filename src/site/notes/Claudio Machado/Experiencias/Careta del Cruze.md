@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2024-07-22","permalink":"/claudio-machado/experiencias/careta-del-cruze/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/careta-del-cruze/"}
 ---
 
 Hoy lleve el auto al chapista que se rompió el plástico de la careta, debido a un desnivel pronunciado en un cruce, el frente del auto golpeó abajo 🤷

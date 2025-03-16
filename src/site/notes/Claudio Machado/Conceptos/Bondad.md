@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-15","permalink":"/claudio-machado/conceptos/bondad/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/bondad/"}
 ---
 
 La bondad es una cualidad que proviene de Dios y que podemos cultivar mediante su [[Claudio Machado/Conceptos/Espíritu Santo\|Espíritu Santo]]

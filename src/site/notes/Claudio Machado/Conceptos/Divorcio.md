@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":null,"permalink":"/claudio-machado/conceptos/divorcio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/divorcio/"}
 ---
 
 Es cuando un juez determina que ya no son un matrimonio y ambos quedan libres para casarse otra vez.

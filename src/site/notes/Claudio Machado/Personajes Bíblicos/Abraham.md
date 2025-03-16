@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-16","permalink":"/claudio-machado/personajes-biblicos/abraham/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/personajes-biblicos/abraham/"}
 ---
 
 Amigo de Dios 

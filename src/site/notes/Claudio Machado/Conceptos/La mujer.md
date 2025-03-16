@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-16","permalink":"/claudio-machado/conceptos/la-mujer/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/la-mujer/"}
 ---
 
 Cuando Dios hablo en el jardín de Edén sobre la decencia de la mujer, probablemente [[Claudio Machado/Personajes Bíblicos/Eva\|Eva]] creyó que hablaba de ella. Pero estaba equivocada.

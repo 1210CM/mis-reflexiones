@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":null,"permalink":"/claudio-machado/conceptos/matrimonio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/matrimonio/"}
 ---
 
 [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]] creo el matrimonio para que un hombre y una mujer formen una familia y sean felices. [Mateo 19:4-6](https://wol.jw.org/es/wol/bc/r4/lp-s/2025241/20/0)

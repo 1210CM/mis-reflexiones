@@ -1,5 +1,5 @@
 ---
-{"Categoría":"[[Enseñanza Bíblica]]","dg-publish":true,"Fecha":null,"permalink":"/claudio-machado/conceptos/sabiduria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/sabiduria/"}
 ---
 
 ---

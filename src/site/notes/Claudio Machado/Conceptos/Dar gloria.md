@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-11","permalink":"/claudio-machado/conceptos/dar-gloria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/dar-gloria/"}
 ---
 
 En el caso de [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]] es hablar de su impresionante poder y de las cosas que ha hecho por nosotros 

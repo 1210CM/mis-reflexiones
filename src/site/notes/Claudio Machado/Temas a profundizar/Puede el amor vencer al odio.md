@@ -1,5 +1,5 @@
 ---
-{"Fecha":"2024-06-29","Orador":"Pablo Varzi, Esteban Saura,","tags":null,"Descripción":null,"Categoría":"[[Conferencia]]","dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/puede-el-amor-vencer-al-odio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/puede-el-amor-vencer-al-odio/"}
 ---
 
 # ¿Puede el [[Claudio Machado/Conceptos/Amor\|Amor]] vencer al [[Claudio Machado/Conceptos/Odio\|Odio]]?

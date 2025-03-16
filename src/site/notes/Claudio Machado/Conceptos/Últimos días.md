@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-15","permalink":"/claudio-machado/conceptos/ultimos-dias/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/ultimos-dias/"}
 ---
 
 Los últimos días se refieren al término de una vida, un ciclo o una época.

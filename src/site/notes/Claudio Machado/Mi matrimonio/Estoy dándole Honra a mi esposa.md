@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-15","permalink":"/claudio-machado/mi-matrimonio/estoy-dandole-honra-a-mi-esposa/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/mi-matrimonio/estoy-dandole-honra-a-mi-esposa/"}
 ---
 
 

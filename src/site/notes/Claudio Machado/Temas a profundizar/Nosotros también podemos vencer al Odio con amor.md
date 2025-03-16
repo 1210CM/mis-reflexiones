@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-16","permalink":"/claudio-machado/temas-a-profundizar/nosotros-tambien-podemos-vencer-al-odio-con-amor/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/nosotros-tambien-podemos-vencer-al-odio-con-amor/"}
 ---
 
 [[Claudio Machado/Temas a profundizar/Cómo nos enseña Jesús a vencer al Odio con Amor\|Cómo nos enseña Jesús a vencer al Odio con Amor]] 

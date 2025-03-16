@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":null,"permalink":"/claudio-machado/conceptos/gloria/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/gloria/"}
 ---
 
 En la biblia se puede referir a lo que hace que alguien sea impresionante 

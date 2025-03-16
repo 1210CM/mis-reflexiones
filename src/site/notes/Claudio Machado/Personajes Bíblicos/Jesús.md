@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-11","permalink":"/claudio-machado/personajes-biblicos/jesus/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/personajes-biblicos/jesus/"}
 ---
 
 El hijo primogénito de [[Claudio Machado/Personajes Bíblicos/Dios\|Dios]] el obrero maestro

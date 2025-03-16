@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":null,"permalink":"/claudio-machado/conceptos/vida-eterna/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/vida-eterna/"}
 ---
 
 Fue el propósito original de [[Claudio Machado/Personajes Bíblicos/Dios\|Dios]] para la humanidad, que infelizmente se perdió por la desobediencia de [[Claudio Machado/Personajes Bíblicos/Adán\|Adán]] y [[Claudio Machado/Personajes Bíblicos/Eva\|Eva]]. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-03","permalink":"/claudio-machado/experiencias/no-fue-grave-porque-dios-cuido-a-todos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/no-fue-grave-porque-dios-cuido-a-todos/"}
 ---
 
 

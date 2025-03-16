@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-16","permalink":"/claudio-machado/temas-a-profundizar/como-finalmente-se-vencera-al-odio-con-el-amor/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/como-finalmente-se-vencera-al-odio-con-el-amor/"}
 ---
 
 Cómo vivimos en los últimos días 

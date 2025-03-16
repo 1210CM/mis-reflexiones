@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-16","permalink":"/claudio-machado/temas-a-profundizar/como-demostro-jesus-que-se-puede-vencer-al-odio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/como-demostro-jesus-que-se-puede-vencer-al-odio/"}
 ---
 
 

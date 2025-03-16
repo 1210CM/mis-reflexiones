@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-11","permalink":"/claudio-machado/personajes-biblicos/jehova/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/personajes-biblicos/jehova/"}
 ---
 
 Es un Dios feliz y quiere que todos seamos felices [1 Timoteo 1:11](https://wol.jw.org/es/wol/bc/r4/lp-s/2025241/1/0)

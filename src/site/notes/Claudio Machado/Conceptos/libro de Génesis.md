@@ -1,5 +1,5 @@
 ---
-{"Categoría":"Estudio Personal","dg-publish":true,"Fecha":"2025-03-15","permalink":"/claudio-machado/conceptos/libro-de-genesis/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/libro-de-genesis/"}
 ---
 
 - primer libro de la [[Claudio Machado/Conceptos/Biblia\|Biblia]], fue escrito por [[Claudio Machado/Personajes Bíblicos/Moisés\|Moisés]] 

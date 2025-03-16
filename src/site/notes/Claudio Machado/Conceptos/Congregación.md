@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-12","permalink":"/claudio-machado/conceptos/congregacion/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/congregacion/"}
 ---
 
 Es un grupo de personas reunidas con un mismo fin o propósito.

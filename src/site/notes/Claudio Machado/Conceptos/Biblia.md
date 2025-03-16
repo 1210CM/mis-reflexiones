@@ -1,5 +1,5 @@
 ---
-{"aliases":["Podemos disfrutar de la lectura bíblica"],"tags":["Biblia","video"],"Categoría":[["Disfrute para Siempre"]],"dg-publish":true,"Fecha":"2025-03-11","permalink":"/claudio-machado/conceptos/biblia/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/biblia/","tags":["Biblia","video"]}
 ---
 
 <Vídeo 

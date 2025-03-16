@@ -1,5 +1,5 @@
 ---
-{"Url":"https://wol.jw.org/es/wol/d/r4/lp-s/1102002054","Fecha":"2025-03-06","dg-publish":true,"permalink":"/claudio-machado/conceptos/amor-de-cristo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/amor-de-cristo/"}
 ---
 
 

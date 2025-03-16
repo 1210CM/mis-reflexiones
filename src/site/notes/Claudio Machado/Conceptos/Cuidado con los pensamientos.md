@@ -1,5 +1,5 @@
 ---
-{"Categoría":"[[ideas y pensamientos]]","dg-publish":true,"Fecha":"2025-03-11","permalink":"/claudio-machado/conceptos/cuidado-con-los-pensamientos/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/cuidado-con-los-pensamientos/"}
 ---
 
 Judas ni siempre fue desleal, fue por decisión personal o sus propios pensamientos 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-15","permalink":"/claudio-machado/temas-a-profundizar/origen-del-odio/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/origen-del-odio/"}
 ---
 
 Es interesante que haya tanto [[Claudio Machado/Conceptos/Odio\|Odio]] cuando la mayoría de las personas quieren [[Claudio Machado/Conceptos/Paz\|Paz]] y [[Claudio Machado/Conceptos/Amor\|Amor]] 

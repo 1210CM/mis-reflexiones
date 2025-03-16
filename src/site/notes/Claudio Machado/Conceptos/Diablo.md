@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-16","permalink":"/claudio-machado/conceptos/diablo/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/diablo/"}
 ---
 
 El opositor a [[Claudio Machado/Personajes Bíblicos/Dios\|Dios]] 
