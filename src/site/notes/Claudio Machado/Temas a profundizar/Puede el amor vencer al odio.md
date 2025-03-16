@@ -5,17 +5,9 @@
 # ¿Puede el [[Claudio Machado/Conceptos/Amor\|Amor]] vencer al [[Claudio Machado/Conceptos/Odio\|Odio]]?
 
 El [[Claudio Machado/Conceptos/Odio\|Odio]] es una marca de la historia de la humanidad, desde el mismo principio, El [[Claudio Machado/Conceptos/libro de Génesis\|libro de Génesis]], relata el origen, las causas y las consecuencias de éste sentimiento traducido en maldad, asesinatos y guerras, que se ha extendido y profundizado hasta nuestros días.
+## [[Claudio Machado/Temas a profundizar/Origen del Odio\|Origen del Odio]]
 
 
-
-
-Cual es la causa del odio si las personas quieren paz y amor 
-
-[Génesis 1:27](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/1/1#v=1:1:27) a imagen y semejanza de Dios 
-
-Juan 8:44 un querubín se reveló y generó está maldad 
-
-[2 Timoteo 3:1-5](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/55/3#v=55:3:1-55:3:5) habla de las cualidades negativas que son representativos de ésta época que se inician 
 
 Dios promete librar del odio 
 [Génesis 3:15](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/1/3#v=1:3:15) 
@@ -84,14 +76,4 @@ Jehová es el único que tiene derecho a gobernar demostrando además que el amo
 
 
 
-
-## Artículos Relacionados 
-
-- [[Personal/Diario/2024-06-30\|2024-06-30]]
-- [[Personal/Diario/2025-03-16\|2025-03-16]]
-- [[Claudio Machado/Conceptos/Amor\|Amor]]
-- [[Claudio Machado/Conceptos/libro de Génesis\|libro de Génesis]]
-- [[Claudio Machado/Conceptos/Odio\|Odio]]
-
-{ .block-language-dataview}
 
