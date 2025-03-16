@@ -4,61 +4,18 @@
 
 # ¿Puede el [[Claudio Machado/Conceptos/Amor\|Amor]] vencer al [[Claudio Machado/Conceptos/Odio\|Odio]]?
 
-El [[Claudio Machado/Conceptos/Odio\|Odio]] es una marca de la historia de la humanidad, desde el mismo principio, El [[Claudio Machado/Conceptos/libro de Génesis\|libro de Génesis]], relata el origen, las causas y las consecuencias de éste sentimiento traducido en maldad, asesinatos y guerras, que se ha extendido y profundizado hasta nuestros días.
+El [[Claudio Machado/Conceptos/Odio\|Odio]] es una marca de la historia de la humanidad, desde el mismo principio, El [[Claudio Machado/Conceptos/libro de Génesis\|libro de Génesis]], relata el origen, las causas y las consecuencias de éste sentimiento traducido en maldad, asesinatos y guerras, que se ha extendido y profundizado hasta nuestros días. [2 Timoteo 3:1-5](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/55/3#v=55:3:1-55:3:5)
 ## [[Claudio Machado/Temas a profundizar/Origen del Odio\|Origen del Odio]]
 
+## [[Claudio Machado/Temas a profundizar/Dios promete librar del odio\|Dios promete librar del odio]]
 
+## [[Claudio Machado/Temas a profundizar/Cómo nos enseña Jesús a vencer al Odio con Amor\|Cómo nos enseña Jesús a vencer al Odio con Amor]]
 
-Dios promete librar del odio 
-[Génesis 3:15](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/1/3#v=1:3:15) 
+## [[Claudio Machado/Temas a profundizar/Cómo demostró Jesús que se puede vencer al Odio\|Cómo demostró Jesús que se puede vencer al Odio]]
 
-Quien es la serpiente?
-[Revelación 12:9](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/66/12#v=66:12:9) es Satanás 
-
-Cual es la descendencia?
-Gente malvada, religión falsa, gobiernos, militares y, mucha violencia 
-
-Quien es la mujer?
-La organización celestial de Dios [Isaías 54:1](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/40/5#v=40:5:38-40:5:44)
-
-La descendencia de la mujer?
-Fue un misterio por mucho tiempo.
-Con el tiempo fue la nación de Israel y de estos fue Jesús cuando se bautizó.
-
-Cuando Jesús estuvo en la tierra enseñó a vencer el odio con el amor:
-
-Ofrecer la otra mejilla Evitar confrontación 
-Aceptación de las autoridades
-Prestar sin cobrar intereses 
-Amar a sus enemigos que también son nuestro prójimo 
-[Mateo 5:38-44](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/40/5#v=40:5:38-40:5:44)
-
-Cómo demostró su amor? 
-Teniendo buen trato con ellos 
-Orando por ellos 
-
-Resultados si lo imitamos
-Vida de paz y seguridad 
-
-Aunque no sea fácil 
-Jesús recibo mal trato y palabras del pueblo que merece morir.
-Pero venció el odio con amor 
-
-Cómo lo hirió Satanás 
-Una herida temporal, murió.
-
-Nos rescató del pecado que causa la muerte 
-
-Otros ejemplos bíblicos 
-[Mateo 7:22,23](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/40/7#v=40:7:22-40:7:23) hicieron mucho pero Jesús no los conoce 
-Hay muchos falsos cristianas que bendicen armás 
-
-[Juan 13:34,35](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/43/13#v=43:13:34-43:13:35) el amor una marca identificadora tan grande que vence al odio 
-
-Por ejemplo hermanos presos por no hacer servicio militar, y muchos carcelero cambiaron y conocieron a Jehová.
+## [[Nosotros también podemos vencer al Odio con amor \|Nosotros también podemos vencer al Odio con amor ]]
 
 Pronto Satanás sería echado al abismo 
-
 Luego Muchos resucitarán 
 
 Una Gran victoria del amor 
@@ -67,8 +24,6 @@ Una Gran victoria del amor
 Con el gobierno de Dios 
 
 Jehová es el único que tiene derecho a gobernar demostrando además que el amor vencerá por completo al odio 
-
-
 
 
 
