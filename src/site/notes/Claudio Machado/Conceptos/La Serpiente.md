@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Fecha":"2025-03-16","permalink":"/claudio-machado/conceptos/la-serpiente/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/claudio-machado/conceptos/la-serpiente/"}
 ---
 
 En el [[Claudio Machado/Conceptos/libro de Génesis\|libro de Génesis]] se habla que fue una serpiente que hablo con [[Claudio Machado/Personajes Bíblicos/Eva\|Eva]] y qué luego Jehová habla de la descendencia de esta serpiente.
