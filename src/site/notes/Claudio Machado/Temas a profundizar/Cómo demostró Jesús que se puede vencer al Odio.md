@@ -11,7 +11,7 @@ El rechazo Todas las tentaciones que le ofreció el diablo.
 
 Jesús perfecto y poderoso también recibio maltrato, e insultos del pueblo, pero el nunca reaccionó mal o devolvió insultos aunque ello quizá no fuera una tarea fácil 
 
-El entrego su vida perfecta como la demostración más grande de amor por la humanidad 
+El entrego su vida perfecta como la demostración más grande de amor por la humanidad y de esa forma empezó a deshacer las obras del [[Claudio Machado/Conceptos/Diablo\|diablo]], al darnos una esperanza mediante su sacrificio 
 
 
 [[Claudio Machado/Temas a profundizar/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
