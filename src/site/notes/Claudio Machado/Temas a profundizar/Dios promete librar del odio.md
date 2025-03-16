@@ -19,7 +19,6 @@ Llevaría mucho tiempo identificar a los personajes de esa primera profecía y v
 La realidad es que la descendencia de la mujer nos daría el ejemplo y la enseñanza de cómo vencer el odio con el amor, o el mal con el bien.
 
 [[Claudio Machado/Temas a profundizar/Cómo nos enseña Jesús a vencer al Odio con Amor\|Cómo nos enseña Jesús a vencer al Odio con Amor]]
-[[Claudio Machado/Temas a profundizar/Cómo demostró Jesús que se puede vencer al Odio\|Cómo demostró Jesús que se puede vencer al Odio]]
 
 [[Claudio Machado/Temas a profundizar/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
 
