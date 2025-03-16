@@ -10,6 +10,7 @@ Cuando [[Claudio Machado/Personajes Bíblicos/Jesús\|Jesús]] estuvo en la tier
 - Prestar sin cobrar interés 
 - Amar a los enemigos que también son nuestro prójimo.
 
+[[Claudio Machado/Temas a profundizar/Cómo demostró Jesús que se puede vencer al Odio\|Cómo demostró Jesús que se puede vencer al Odio]]
 
 [[Claudio Machado/Temas a profundizar/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
 
