@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias/viaje-en-auto-a-bombinhas/"}
 ---
 
+
 ![Con Patricia de viaje.jpg](/img/user/Personal/Im%C3%A1genes/Con%20Patricia%20de%20viaje.jpg)
 
 Patricia está de vacaciones entonces planeamos un paseo en auto hasta [Bombinhas](https://maps.app.goo.gl/e4FjpCDWhmw7jQ1s6). La idea original era ir en la camioneta pero tuvimos un imprevisto que [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]] pero que nos hizo cambiar de vehículo.
