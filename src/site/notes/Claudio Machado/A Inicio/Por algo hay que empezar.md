@@ -23,12 +23,12 @@ Para ese entonces Patricia ya había comenzado a [[Claudio Machado/Conceptos/Est
 En el Año 2024 la [[Claudio Machado/Conceptos/Congregación\|Congregación]] recibe nueva información del [[Claudio Machado/Conceptos/Cuerpo Gobernante\|Cuerpo Gobernante]] para ayudar a las personas que estaban alejadas y apartadas de la adoración y quisieran volver.
 
 ## Vuelvo a ser Testigo de Jehová 
-Entonces dos [[Claudio Machado/Conceptos/Ancianos\|Ancianos]] me visitaron a principios de Año y aunque les manifesté que no tenía intenciones de volver, igual acepte la ayuda que me ofrecieron de parte de [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]]. 
 
-La ayuda fue que todas las semanas me visitaron dos hermanos con experiencia como Roberto Aguirre y Pablo Varzi, quienes me ayudaron a ver qué podía hacer yo para demostrarle a Jehová, lo que siento por él a pesar de mis pecados graves del pasado.
+En Marzo de 2024 dos [[Claudio Machado/Conceptos/Ancianos\|Ancianos]] me visitaron a principios de Año y aunque les manifesté que no tenía intenciones de volver, igual acepte la ayuda que me ofrecieron de parte de [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]]. 
 
-Y para Mayo de 2024 ya había recuperado mi relación y mi lugar cómo un testigo de Jehová activo en la congregación.
+Cómo estuve muchos años fuera de la [[Claudio Machado/Conceptos/Congregación\|Congregación]], necesitaba que alguien me pusiera al día debido a muchos cambios y ajustes que se sucedieron con los años. Y por otro lado querían ayudarme a recomponer mi relación con [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]], en principio mediante un estudio y las reuniones.
 
+La [[Claudio Machado/Experiencias/Ayuda para ser readmitido\|Ayuda para ser readmitido]] pasó muy rápido, porque ya para el 15 Mayo de 2024 se anunció que volví a ser un testigo de Jehová activo en la congregación, es decir ya podía relacionarme sin restricciones con los demás y ya podía predicar.
 ## Patricia se Bautiza 
 Y una semana más tarde, del anuncio público que volví a ser Testigo, Patricia hace público su dedicación a Jehová mediante el [[Claudio Machado/Experiencias/Bautismo 2024-05-26\|Bautismo 2024-05-26]]. Desde ése momento hasta el día de hoy nos hemos mantenido unidos y activos dentro de la congregación. 
 
