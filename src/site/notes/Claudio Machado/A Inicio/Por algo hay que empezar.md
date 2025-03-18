@@ -11,7 +11,7 @@
 
 ---
 
->Aquí iré compartiendo [[Claudio Machado/Conceptos/Pensamientos\|Pensamientos]], [[Claudio Machado/Conceptos/Reflexiones\|Reflexiones]], [[Claudio Machado/Conceptos/Experiencias\|Experiencias]] y mucho de [[Claudio Machado/Conceptos/Investigación\|Investigación]] [[Claudio Machado/Conceptos/Personal\|Personal]] sobre la [[Claudio Machado/Conceptos/Biblia\|Biblia]] 
+>Aquí iré compartiendo [[Claudio Machado/Conceptos/Pensamientos\|Pensamientos]], [[Claudio Machado/Conceptos/Reflexiones\|Reflexiones]], [[Claudio Machado/Conceptos/Experiencias\|Experiencias]] , [[Claudio Machado/Lugares visitados/Lugares\|Lugares]] y mucho de [[Claudio Machado/Conceptos/Investigación\|Investigación]] [[Claudio Machado/Conceptos/Personal\|Personal]] sobre la [[Claudio Machado/Conceptos/Biblia\|Biblia]] 
 
 ## Algo de mi
 Nací en Rivera en 1966, desde 1976 vivo en [Montes de Solymar](https://g.co/kgs/gjaN8YF), lugar donde conocí a los [[Claudio Machado/Conceptos/Testigos de Jehová\|Testigos de Jehová]] a través de la familia Fernández, Rubens, Teresa y su hija Marcia. 
