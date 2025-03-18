@@ -4,7 +4,7 @@
 
 ![IMG-20250314-WA0061.jpg](/img/user/Personal/Im%C3%A1genes/IMG-20250314-WA0061.jpg)
 
-Siguiendo con nuestro [[Claudio Machado/Experiencias/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]], hoy ya estamos en el tercer día. Ayer llegamos a  [[Claudio Machado/Lugares visitados/Laguna\|Laguna]] y hoy que el día está lindo, queremos conocer el [[Claudio Machado/Lugares visitados/Centro histórico\|Centro histórico]], la [[Piedra do Frade\|Piedra do Frade]] y la [[Praia do Farol de Santa Marta\|Praia do Farol de Santa Marta]] 
+Siguiendo con nuestro [[Claudio Machado/Experiencias/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]], hoy ya estamos en el tercer día. Ayer llegamos a  [[Claudio Machado/Lugares visitados/Laguna\|Laguna]] y hoy que el día está lindo, queremos conocer el [[Claudio Machado/Lugares visitados/Centro histórico\|Centro histórico]], la [[Claudio Machado/Lugares visitados/Piedra do Frade\|Piedra do Frade]] y la [[Praia do Farol de Santa Marta\|Praia do Farol de Santa Marta]] 
 
 Ya llegando al centro histórico, se pueden ver calles de adoquines, serpenteantes entre subidas y bajadas con un marco de paisajes muy pintoresco que seguramente son la inspiración para muchos artistas. 
 
