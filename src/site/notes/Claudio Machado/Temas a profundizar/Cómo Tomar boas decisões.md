@@ -8,6 +8,11 @@ Hermano Eduardo
 Jehová nos da ajuda das simples até más difíciles [salmo 119;97](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/119#v=19:119:97)
 [Isaías 48:17](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/23/48#v=23:48:17) 
 
+[[Claudio Machado/Conceptos/Decisões\|Decisões]] 
+[[Claudio Machado/Conceptos/Indecisão\|Indecisão]] 
+
+[[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]]deu liberdade pra todo nos Tomar decisões
+
 ### Biblia 
 Amar la ley de Jehová es clave la biblia 
 [Salmo 119:100](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/119#v=19:119:100) conocer los principios bíblicos es de gran ayuda 
