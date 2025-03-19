@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias/nuestro-regreso-de-bombinhas/"}
 ---
 
-![20250312_120812.jpg](/img/user/Personal/Im%C3%A1genes/20250312_120812.jpg)
+![20250312_093911.jpg](/img/user/Personal/Im%C3%A1genes/20250312_093911.jpg)
 
 La realidad es que disfrutamos de un [[Claudio Machado/Experiencias/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]] increíble.
 En todo momento sentimos la bendición y el cuidado de [[Claudio Machado/Personajes Bíblicos/Jehová\|Jehová]]. Nos emocionamos con tanta belleza natural, conocimos nuevos hermanos en el [[Claudio Machado/Lugares visitados/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]].
