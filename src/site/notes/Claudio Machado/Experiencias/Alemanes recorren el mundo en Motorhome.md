@@ -10,7 +10,7 @@ Vimos un Motorhome estacionado y cómo no identificaba la matrícula, me acerque
 
 Y me respondieron de Alemania, entonces quise saber más pero me encontré con la barrera del lenguaje, ellos apenas hablan español, la comunicación debía ser en Inglés o alemán.
 
-Pero gracias a que estaba con Patricia y ella tiene entiende ingles, pudimos saber que estarán unos días más por aquí y ya se van para Alemania. La camioneta por barco y ellos por avión.
+Pero gracias a que estaba con Patricia y ella que si entiende ingles, pudimos saber que estarán unos días más por aquí y ya se van para Alemania. La camioneta por barco y ellos por avión.
 
 ![20250318_191023 1.jpg](/img/user/Personal/Im%C3%A1genes/20250318_191023%201.jpg)
 Michael Altmann y Kerstin Altmann 
