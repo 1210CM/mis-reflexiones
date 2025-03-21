@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/lugares-visitados/laguna/"}
 ---
 
-![[20250308_175432.jpg\|20250308_175432.jpg]]
+![20250308_Claudio_Patricia_Laguna.jpg](/img/user/Personal/Im%C3%A1genes/20250308_Claudio_Patricia_Laguna.jpg)
 
 Después de desayunar en la Posada Mar verde, nos fuimos al segundo destino programado, que es conocer [Laguna](https://maps.app.goo.gl/C2APaqcfC6GA3S6q8), un lugar que tiene varias cosas interesantes para ver. [[Claudio Machado/Lugares visitados/Centro histórico\|Centro histórico]], [[Claudio Machado/Lugares visitados/Piedra do Frade\|Piedra do Frade]], [[Claudio Machado/Lugares visitados/Praia do Farol de Santa Marta\|Praia do Farol de Santa Marta]]. 
 
