@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/lugares-visitados/centro-historico/"}
 ---
 
-![[IMG-20250314-WA0061.jpg\|IMG-20250314-WA0061.jpg]]
+![20250309_Claudio_Mural_Centro_Historico.jpg](/img/user/Personal/Im%C3%A1genes/20250309_Claudio_Mural_Centro_Historico.jpg)
 
 Siguiendo con nuestro [[Claudio Machado/Experiencias/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]], hoy ya estamos en el tercer día. Ayer llegamos a  [[Claudio Machado/Lugares visitados/Laguna\|Laguna]] y hoy que el día está lindo, queremos conocer el [[Claudio Machado/Lugares visitados/Centro histórico\|Centro histórico]], la [[Claudio Machado/Lugares visitados/Piedra do Frade\|Piedra do Frade]] y la [[Claudio Machado/Lugares visitados/Praia do Farol de Santa Marta\|Praia do Farol de Santa Marta]] 
 
