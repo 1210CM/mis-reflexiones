@@ -3,7 +3,7 @@
 ---
 
 
-![20250309_140712.jpg](/img/user/Personal/Im%C3%A1genes/20250309_140712.jpg)
+![[20250309_140712.jpg\|20250309_140712.jpg]]
 
 Seguimos en el tercer día de nuestro [[Claudio Machado/Experiencias/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]] hoy nos levantamos muy temprano y ya visitamos [[Claudio Machado/Lugares visitados/Centro histórico\|Centro histórico]] y [[Claudio Machado/Lugares visitados/Piedra do Frade\|Piedra do Frade]], ahora recorrimos otros 20 km hasta al Farol de Santa Marta, que da el nombre a un hermoso lugar. 
 

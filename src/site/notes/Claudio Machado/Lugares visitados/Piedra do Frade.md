@@ -3,7 +3,7 @@
 ---
 
 
-![20250309_105344 1.jpg](/img/user/Personal/Im%C3%A1genes/20250309_105344%201.jpg)
+![[20250309_105344 1.jpg\|20250309_105344 1.jpg]]
 
 Después de visitar el [[Claudio Machado/Lugares visitados/Centro histórico\|Centro histórico]] nos fuimos a conocer esta enorme piedra convertida en una atracción turística. Para llegar hasta allí hicimos más de 20 Km pero al final nos quedamos sin calles, y había que seguir por senderos muy desparejos, con zanjas y el auto qué es muy bajo, tocaba el piso del auto contra el suelo. Pero valió la pena, por las visitas espectaculares. Éste paseo fue rápido y enseguida nos fuimos a conocer [[Claudio Machado/Lugares visitados/Praia do Farol de Santa Marta\|Praia do Farol de Santa Marta]] otro hermoso lugar.
 
