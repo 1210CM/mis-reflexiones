@@ -24,7 +24,7 @@ Una conciencia entrenada es fundamental para tomar buenas decisiones y elegir bi
 - pensar bem antes de tomar una decisión no hago nada por impulso [Deuteronomio 32:29](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/5/32#v=5:32:29) [1 Corintios 10:31-33](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/46/10#v=46:10:31-46:10:33)
 - ore pedien sabiduría [Santiago 1:5](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/59/1#v=59:1:5)
 - buscar bien información, incluso pedir consejo a alguien con experiencia y madura.antes de mudarse, cambiar de trabajo, o elegir que estudiar, tenemos publicaciones, sitio JW, la biblioteca 
-- pensemos en nuestra [[Motivacion\|Motivacion]] [proverbios 16:2](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/20/16#v=20:16:2) 
+- pensemos en nuestra [[Claudio Machado/Conceptos/Motivacion\|Motivacion]] [proverbios 16:2](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/20/16#v=20:16:2) 
 
 
 >Después de seguir esos pasos es momento de decidir y no esperar [Santiago 1:7,8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/59/1#v=59:1:7-59:1:8)
