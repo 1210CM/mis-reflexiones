@@ -40,4 +40,4 @@ Presidente Roberto Aguirre
 
 [[Claudio Machado/Temas a profundizar/No nos avergonzamos\|No nos avergonzamos]]
 
-[[Presuma de Jehová\|Presuma de Jehová]]
+[[Claudio Machado/Temas a profundizar/Presuma de Jehová\|Presuma de Jehová]]
