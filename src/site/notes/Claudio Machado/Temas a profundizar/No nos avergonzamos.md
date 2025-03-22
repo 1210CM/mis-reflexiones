@@ -21,6 +21,6 @@
 - apoyando sus representantes 
 
 
-[[Presuma de Jehová\|Presuma de Jehová]]
+[[Claudio Machado/Temas a profundizar/Presuma de Jehová\|Presuma de Jehová]]
 
 Asamblea [[Claudio Machado/Días especiales - Asambleas/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
