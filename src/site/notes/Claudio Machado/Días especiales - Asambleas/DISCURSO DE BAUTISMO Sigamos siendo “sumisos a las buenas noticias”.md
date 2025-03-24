@@ -64,6 +64,6 @@ Ser sumisos a las buenas noticias nos ayudará a recibir sus bendiciones por la 
 ![20250322_113009.jpg](/img/user/Personal/Im%C3%A1genes/20250322_113009.jpg)
 Daniel Silva 2025-03-22 discurso de bautismo 
 
-![[20250322_115015.jpg\|20250322_115015.jpg]]
+![20250322_115015.jpg](/img/user/Personal/Im%C3%A1genes/20250322_115015.jpg)
 Entrevista Alexis Quintana 
 Giovanna Foliadoso (Hija de Gastón )
