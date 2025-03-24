@@ -6,8 +6,8 @@
 ***Soy Claudio Machado***
 # y les doy la bienvenida a mi lugar en la web
 
-
-![IMG-20250218-WA0055.jpg](/img/user/Personal/Im%C3%A1genes/IMG-20250218-WA0055.jpg)Junto a mi esposa Patricia en Betel Argentina (Febrero 2025)
+![1000125504.jpg](/img/user/Personal/Im%C3%A1genes/1000125504.jpg)
+Junto a mi esposa Patricia en Betel Argentina (Febrero 2025)
 
 ---
 
