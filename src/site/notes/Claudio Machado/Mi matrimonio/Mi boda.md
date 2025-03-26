@@ -27,7 +27,7 @@ Patricia con Patricia y Mariana
 
 Fue un momento muy especial para mí, sentí que daba el primer paso para enderezar mi vida nuevamente y con una persona increíble, por su mansedumbre, tranquilidad y humildad, cualidades que nunca logré desarrollar muy bien. Y que gracias a su ejemplo estoy cultivando cada vez mejor hasta el día de hoy.
 
-
+Ese mismo día nos fuimos todos Testigos y amigos de Patricia a almorzar a Portugalia y allí dije [[Claudio Machado/Mi matrimonio/Unas palabras\|Unas palabras]]
 
 
 
