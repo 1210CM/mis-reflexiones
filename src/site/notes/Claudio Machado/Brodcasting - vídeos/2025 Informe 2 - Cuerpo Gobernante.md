@@ -3,6 +3,8 @@
 ---
 
 ![Screenshot_20250329_093806_JW Library.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093806_JW%20Library.jpg)
+[Ver video completo](https://www.jw.org/finder?srcid=jwlshare&wtlocale=S&lank=docid-1112024029_1_VIDEO)
+
 Comenzó dando una buena noticia, la liberación de una hermana de Eritrea que salió en libertad después de 11 años, y que está recibiendo ayuda médica y espiritual..
 
 ![Screenshot_20250329_094043_JW Library.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_094043_JW%20Library.jpg)
