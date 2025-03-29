@@ -8,7 +8,7 @@ El odio es una marca identificadora
 - También puede significar un sentimiento de aversión o repugnancia por algo o alguien 
 -  en la biblia puede referirse a amar a un grado menor 
 
-[[Claudio Machado/Temas a profundizar/Origen del Odio\|Origen del Odio]]
+[[Claudio Machado/Temas a profundizar/Amor/Origen del Odio\|Origen del Odio]]
 
 
 

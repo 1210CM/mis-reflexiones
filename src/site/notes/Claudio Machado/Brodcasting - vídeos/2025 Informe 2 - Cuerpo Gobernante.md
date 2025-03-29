@@ -11,7 +11,7 @@ Comenzó dando una buena noticia, la liberación de una hermana de Eritrea que s
 
 Nos ánimo a seguir orando por éstos hermanos fieles que continúan presos debido a su fe, y la persecución religiosa. 
 
-[[Claudio Machado/Temas a profundizar/Desastres naturales - Arroja tu carga sobre Jehová\|Desastres naturales - Arroja tu carga sobre Jehová]]
+[[Claudio Machado/Temas a profundizar/Consuelo/Desastres naturales - Arroja tu carga sobre Jehová\|Desastres naturales - Arroja tu carga sobre Jehová]]
 
 ## Clases de Alfabetización 
 
@@ -43,7 +43,7 @@ Aunque la situación se ponga difícil nosotros tenemos paz. Gracias al rescate 
 
 Por eso predicamos 
 
-[[Claudio Machado/Temas a profundizar/Espíritu Santo - La paz cómo podemos conseguirla\|Espíritu Santo - La paz cómo podemos conseguirla]]
+[[Claudio Machado/Temas a profundizar/Cualidades/Espíritu Santo - La paz cómo podemos conseguirla\|Espíritu Santo - La paz cómo podemos conseguirla]]
 
 
 

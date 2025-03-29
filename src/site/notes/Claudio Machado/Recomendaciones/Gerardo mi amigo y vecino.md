@@ -3,7 +3,7 @@
 ---
 
 
-![20250128_145841.jpg](/img/user/Personal/Im%C3%A1genes/20250128_145841.jpg)
+![[20250128_145841.jpg\|20250128_145841.jpg]]
 
 A Gerardo lo conocí cuando nos mudamos para Montes de Solymar. Es pintor de profesión y es quien nos pinta la casa desde el principio y cada vez que sea necesario. Si precisas de su servicio te comparto su número +598 91 980 506 
 

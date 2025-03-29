@@ -23,13 +23,13 @@ Palabras claves
 [[Claudio Machado/Conceptos/Buenas nuevas\|Buenas nuevas]]
 
 
-[[Claudio Machado/Temas a profundizar/Porque no nos avergonzamos de las buenas nuevas\|Porque no nos avergonzamos de las buenas nuevas]]
+[[Claudio Machado/Temas a profundizar/Buenas nuevas/Porque no nos avergonzamos de las buenas nuevas\|Porque no nos avergonzamos de las buenas nuevas]]
 
-[[Claudio Machado/Temas a profundizar/Demostramos estar a favor de las buenas nuevas\|Demostramos estar a favor de las buenas nuevas]]
+[[Claudio Machado/Temas a profundizar/Buenas nuevas/Demostramos estar a favor de las buenas nuevas\|Demostramos estar a favor de las buenas nuevas]]
 
-[[Claudio Machado/Temas a profundizar/Seamos trabajadores que no tenemos de que avergonzamos\|Seamos trabajadores que no tenemos de que avergonzamos]]
+[[Claudio Machado/Temas a profundizar/Buenas nuevas/Seamos trabajadores que no tenemos de que avergonzamos\|Seamos trabajadores que no tenemos de que avergonzamos]]
 
-[[Claudio Machado/Temas a profundizar/Demostremos un espíritu de amor, poder y buen juicio\|Demostremos un espíritu de amor, poder y buen juicio]]
+[[Claudio Machado/Temas a profundizar/Amor/Demostremos un espíritu de amor, poder y buen juicio\|Demostremos un espíritu de amor, poder y buen juicio]]
 
 [[Claudio Machado/Días especiales - Asambleas/DISCURSO DE BAUTISMO Sigamos siendo “sumisos a las buenas noticias”\|DISCURSO DE BAUTISMO Sigamos siendo “sumisos a las buenas noticias”]]
 
@@ -38,6 +38,6 @@ Programa de la tarde
 ![20250322_134254.jpg](/img/user/Personal/Im%C3%A1genes/20250322_134254.jpg)
 Presidente Roberto Aguirre 
 
-[[Claudio Machado/Temas a profundizar/No nos avergonzamos\|No nos avergonzamos]]
+[[Claudio Machado/Temas a profundizar/Buenas nuevas/No nos avergonzamos\|No nos avergonzamos]]
 
-[[Claudio Machado/Temas a profundizar/Presuma de Jehová\|Presuma de Jehová]]
+[[Claudio Machado/Temas a profundizar/Cualidades/Presuma de Jehová\|Presuma de Jehová]]

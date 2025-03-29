@@ -16,3 +16,4 @@ Dando su vida por sus amigos [Juan 15:13](https://wol.jw.org/es/wol/bc/r4/lp-s/1
 - siempre dispuesto a perdonar [Lucas 23:14](https://wol.jw.org/es/wol/bc/r4/lp-s/1102002054/18/0) ejemplo notable con Pedro que lo negó 3 veces [Lucas 21:15-17](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/43/21#v=43:21:15-43:21:17)  
 
 La [[Claudio Machado/Conceptos/Biblia\|Biblia]] nos invita a [[Claudio Machado/Conceptos/Conocer\|Conocer]] el [[Claudio Machado/Conceptos/Amor\|Amor]] de [[Claudio Machado/Personajes Bíblicos/Cristo\|Cristo]] [Efesios 3:19](https://wol.jw.org/es/wol/bc/r4/lp-s/1102002054/24/0) 
+

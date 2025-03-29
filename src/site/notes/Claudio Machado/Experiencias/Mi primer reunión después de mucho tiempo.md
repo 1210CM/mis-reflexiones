@@ -27,6 +27,6 @@ Y dio Algunas sugerencias
 - Reunirse con personas que piensan y sienten que ésta esperanza es Real y lo demuestran con su estilo de vida 
 - y hablar a otros de lo que sabemos y aprendemos de Dios y Jesucristo 
 
-
+[[Claudio Machado/Experiencias/Mi primer precursorado auxiliar\|Mi primer precursorado auxiliar]]
 
 

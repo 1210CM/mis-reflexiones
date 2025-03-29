@@ -16,7 +16,7 @@ La realidad es que no sabemos porque la aplicación nos mandó hasta aquí. Pero
 
 En la medida que conversamos llegaban más Hermanos y los saludamos a casi todos. Siempre en portugués, y Patricia se integró muy bien y se defendió perfecto con el idioma.
 
-Cuando comenzó la reunión. Disfrutamos de una buena conferencia que habló de [[Claudio Machado/Temas a profundizar/Cómo Tomar boas decisões\|Cómo Tomar boas decisões]]. Y luego el estudio de la Atalaya que hablo de [Dar Gloria a Jehová](https://wol.jw.org/es/wol/d/r4/lp-s/2025240) en la que nos permitieron participar con algunos comentarios.
+Cuando comenzó la reunión. Disfrutamos de una buena conferencia que habló de [[Claudio Machado/Temas a profundizar/Decisiones/Cómo Tomar boas decisões\|Cómo Tomar boas decisões]]. Y luego el estudio de la Atalaya que hablo de [Dar Gloria a Jehová](https://wol.jw.org/es/wol/d/r4/lp-s/2025240) en la que nos permitieron participar con algunos comentarios.
 
 Cuando terminó nos sacamos algunas fotos, nos colmaron de invitaciones para volver y visitarlos en sus casas y nosotros igual que serían bienvenidos si un día viajan a Uruguay. También intercambiamos números de teléfono con algunos de ellos. Fue una gran experiencia!!
 
