@@ -40,13 +40,13 @@ Fue todo muy rápido, El miércoles 15 de Mayo, se anunció en Lomas, la congreg
 
 Fue muy emocionante, y estoy muy agradecido de volver, mi vida volvió a tener un propósito. Y ya no me siento más solo, tengo una familia y cómo ahora puedo predicar, me siento feliz de apoyar varios grupos a la semana 
 
-![IMG-20250315-WA0016.jpg](/img/user/Personal/Im%C3%A1genes/IMG-20250315-WA0016.jpg)
+![1000072148-01 1.jpeg](/img/user/Personal/Im%C3%A1genes/1000072148-01%201.jpeg) 
 
 Y que alegría es hacer actividad con mis amigos 
 
-![20250318_103052.jpg](/img/user/Personal/Im%C3%A1genes/20250318_103052.jpg)
+![20250318_103042.jpg](/img/user/Personal/Im%C3%A1genes/20250318_103042.jpg)
 
 
 
 
-
+ 
