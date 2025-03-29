@@ -46,7 +46,7 @@ Y que alegría es hacer actividad con mis amigos
 
 ![20250318_103042.jpg](/img/user/Personal/Im%C3%A1genes/20250318_103042.jpg)
 
-
+[[Claudio Machado/Experiencias/Mi primer precursorado auxiliar\|Mi primer precursorado auxiliar]]
 
 
  
