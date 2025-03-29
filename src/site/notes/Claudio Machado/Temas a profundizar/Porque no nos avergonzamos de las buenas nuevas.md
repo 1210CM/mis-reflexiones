@@ -4,7 +4,7 @@
 
 ***Representante de Sucursal: Ángel Calabro***
 
-![20250322_095951.jpg](/img/user/Personal/Im%C3%A1genes/20250322_095951.jpg)
+![20250322_095951.jpg](/img/user/Personal/Im%C3%A1genes/20250322_095951.jpg)  
 
 >[[Claudio Machado/Personajes Bíblicos/Pablo\|Pablo]] escribió en [Romanos 1:16](https://wol.jw.org/es/wol/bc/r4/lp-s/1990004/0/0) que no nos avergonzamos de las [[Claudio Machado/Conceptos/Buenas nuevas\|Buenas nuevas]] 
 
