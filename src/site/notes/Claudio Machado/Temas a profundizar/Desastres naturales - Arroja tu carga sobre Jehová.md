@@ -13,4 +13,4 @@ Nadie sabe que puede pasar de un momento a otro pero de repente todo puede cambi
 [[Claudio Machado/Temas a profundizar/Textos bíblicos para consolar\|Textos bíblicos para consolar]]
 [[Claudio Machado/Temas a profundizar/Demostremos un espíritu de amor, poder y buen juicio\|Demostremos un espíritu de amor, poder y buen juicio]]
 
-Ver video: [[Claudio Machado/Brodcasting - vídeos/cuerpo gobernante informe 2 - 2025\|cuerpo gobernante informe 2 - 2025]]
+Ver video: [[Claudio Machado/Brodcasting - vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
