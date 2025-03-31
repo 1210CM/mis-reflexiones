@@ -32,5 +32,5 @@ Que también le preocupaban las personas por eso las amó hasta el final [Juan 1
 Que más podemos aprender, que tal un proyecto de estudio personal, [Salmo 119:97](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/119#v=19:119:97)
 Llevemos nuestro conocimiento al siguiente nivel.
 
-Lo importante no es adquirir conocimientos intelectual sinó de reflejar su justicia y su amor 
+Lo importante no es adquirir [[Claudio Machado/Conceptos/Conocimiento\|Conocimiento]] intelectual sinó de reflejar su [[Claudio Machado/Conceptos/Justicia\|Justicia]] y su [[Claudio Machado/Conceptos/Amor\|amor]] 
 Y entonces ellos también nos amarán más a nosotros ([Juan 14:21](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/43/14#v=43:14:21); [Sant. 4:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/59/4#v=59:4:8))
