@@ -4,6 +4,8 @@
 
 Después de una semana de trabajo, en el [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]  mi camioneta recuperó su diseño original 😉
 
+![20250122_113731.jpg](/img/user/Personal/Im%C3%A1genes/20250122_113731.jpg) 
+
 Y cómo se ve en el Vídeo no quedaron rastros en la camioneta de mi increíble descuido que [[Claudio Machado/Experiencias/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]]. Pero si queda en mi interior el recuerdo como para multiplicar cuidados ya que hasta el más experto, puede tener un descuido.
 
 En realidad no parecía tan grave pero al desarmar [[Claudio Machado/Experiencias/Reparando la camioneta\|Reparando la camioneta]] aparecieron muchos más detalles internos, que los que vimos al principio.
