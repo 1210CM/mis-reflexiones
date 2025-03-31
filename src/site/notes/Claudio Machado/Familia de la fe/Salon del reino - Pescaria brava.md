@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/familia-de-la-fe/salon-del-reino-pescaria-brava/"}
 ---
 
-![Salon-pescaria-brava.jpg](/img/user/Personal/Im%C3%A1genes/Salon-pescaria-brava.jpg)
+![Salon-pescaria-brava.jpg](/img/user/Personal/Im%C3%A1genes/Salon-pescaria-brava.jpg) 
 
 Hoy fue un día muy intenso y lleno de paseos, primero fuimos al [[Claudio Machado/Lugares visitados/Centro histórico\|Centro histórico]], de ahí recorrimos unos 20 Km para conocer la [[Claudio Machado/Lugares visitados/Piedra do Frade\|Piedra do Frade]] y después más de 20 km para conocer [[Claudio Machado/Lugares visitados/Praia do Farol de Santa Marta\|Praia do Farol de Santa Marta]] donde a partir de ahí el clima comenzó a cambiar, Entonces decidimos volver al hotel que esamos alojados [Hotel Flipper](https://maps.app.goo.gl/FzJrg688yku6ZBEe7) para desde ahí buscar en la aplicación [Jw](https://play.google.com/store/apps/details?id=org.jw.jwlibrary.mobile) que [[Claudio Machado/Conceptos/Salón del Reino\|Salón del Reino]] nos queda más cercano. Buscamos reunión en portugués, para tener más opciones cercanas. Entonces descubrimos que para ese día la reunión más cercana queda a 20 km. En la ciudad vecina [Pescaria Brava](https://maps.app.goo.gl/hrjPhcoamxV5VkzX9) 
 Esa distancia normalmente se recorre en 30 minutos, pero cómo estaba lloviendo, era de noche y no conocíamos bien decidimos salir una hora antes, la reunión comenzaba a las 19:00 así que salimos a las 18:00
