@@ -21,7 +21,7 @@ Aquí les muestro en detalle con lo que se encontró Javier al empezar el desarm
 
 ![Mas detalles del golpe en la estructura.jpg](/img/user/Personal/Im%C3%A1genes/Mas%20detalles%20del%20golpe%20en%20la%20estructura.jpg)
 
-![Visita de la camioneta una vez desarmada para reparar.jpg](/img/user/Personal/Im%C3%A1genes/Visita%20de%20la%20camioneta%20una%20vez%20desarmada%20para%20reparar.jpg)
+![Vista-camioneta-desarmada.jpg](/img/user/Personal/Im%C3%A1genes/Vista-camioneta-desarmada.jpg)  
 
 Las imágenes son contundentes, lo que yo creía leve, no lo fue tanto. Después de ver todo esto, Javier me explico que el trabajo está pronto en una semana y el precio, fue muy menor al que me esperaba.
 
