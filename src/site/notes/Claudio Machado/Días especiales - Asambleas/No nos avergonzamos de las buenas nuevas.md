@@ -13,7 +13,7 @@ El Hno: Ángel Calabro*** esposa Gisell
 El Hno: Ariel Ponce***
 
 Presidente: Martín Casal 
-![20250322_105307.jpg](/img/user/Personal/Im%C3%A1genes/20250322_105307.jpg)
+![20250322_105307.jpg](/img/user/Personal/Im%C3%A1genes/20250322_105307.jpg) 
 
 [[Claudio Machado/Días especiales - Asambleas/Primer asignación de Patricia\|Primer asignación de Patricia]] 
 
