@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/biblia/remi-pringle-seras-como-un-arbol-grande/"}
 ---
 
-![Remi_Pringle_Representante_Regional_20250331.webp](/img/user/Personal/Im%C3%A1genes/Remi_Pringle_Representante_Regional_20250331.webp)
+![remi-pringle-representante-regional 1.jpg](/img/user/Personal/Im%C3%A1genes/remi-pringle-representante-regional%201.jpg)
 Sirve el la sucursal de Colombia junto a su esposa Lina 
 
 [Isaías 61:3](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/23/61#v=23:61:3) somos árboles de justicia en la [[Claudio Machado/Conceptos/Congregación\|Congregación]], que podemos estimular y ayudar a otros 
