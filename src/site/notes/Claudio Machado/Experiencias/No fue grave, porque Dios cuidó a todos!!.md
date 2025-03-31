@@ -6,7 +6,7 @@
 
 >Todos sabemos que en el tránsito hay que estar atentos porque un descuido puede ser muy peligroso 
 
-![20250303_081618.jpg](/img/user/Personal/Im%C3%A1genes/20250303_081618.jpg)
+![20250303_081618.jpg](/img/user/Personal/Im%C3%A1genes/20250303_081618.jpg) 
 
 En éste caso felizmente no sucedió nada grave que lamentar, apenas unas chapas arrugadas 
 
