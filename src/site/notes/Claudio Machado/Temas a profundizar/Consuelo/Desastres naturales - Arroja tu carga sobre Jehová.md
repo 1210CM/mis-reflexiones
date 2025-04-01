@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/consuelo/desastres-naturales-arroja-tu-carga-sobre-jehova/"}
 ---
 
-![Screenshot_20250329_093026_JW Library 1.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093026_JW%20Library%201.jpg)
+![Screenshot_20250329_093026_JW Library 1.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093026_JW%20Library%201.jpg)  
 Desdé setiembre del 2024 se han producido muchísimo desastres naturales que afectó la vida de muchos de nuestros hermanos por todo el mundo. Y gracias a las donaciones voluntarias se pudo destinar Más de 6 millones de dólares en apoyo a desastres y labores de socorro. [Isaías 41:10](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/23/41#v=23:41:10) de verás te sostendré, pero otra cosa que se necesita es dar ánimo de la palabra de Dios en ésas circunstancias.
 
 ![Screenshot_20250329_093300_JW Library.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093300_JW%20Library.jpg)
