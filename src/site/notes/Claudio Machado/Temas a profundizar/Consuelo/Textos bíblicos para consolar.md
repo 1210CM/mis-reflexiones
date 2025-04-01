@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/consuelo/textos-biblicos-para-consolar/"}
 ---
 
-
+[Que dice la biblia sobre los desastres naturales](https://wol.jw.org/es/wol/d/r4/lp-s/502019177)
 
 [**Génesis 18:25**](https://wol.jw.org/es/wol/bc/r4/lp-s/502019177/16/0)**:** “Es inconcebible de ti el que vayas a obrar de esta manera para dar muerte al justo con el inicuo \[...\]. ¿El Juez de toda la tierra no va a hacer lo que es recto?”.
 
