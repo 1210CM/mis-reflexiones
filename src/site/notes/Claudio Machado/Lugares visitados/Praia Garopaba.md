@@ -3,7 +3,7 @@
 ---
 
 
-![20250310_122643.jpg](/img/user/Personal/Im%C3%A1genes/20250310_122643.jpg)
+![20250310_122643.jpg](/img/user/Personal/Im%C3%A1genes/20250310_122643.jpg)  
 
 [[Claudio Machado/Lugares visitados/Praia Garopaba\|Praia Garopaba]] está muy cerca de [[Claudio Machado/Lugares visitados/Praia da Rosa\|Praia da Rosa]] así que llegamos bastante rápido.
 
