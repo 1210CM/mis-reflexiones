@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/experiencias/alemanes-recorren-el-mundo-en-motorhome/"}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/alemanes-recorren-el-mundo-en-motorhome/","tags":["playa","Alemanes","motorhome"]}
 ---
 
 Bajamos a la playa del mercado de Pescadores en Solymar por la tardecita a tomar unos mates con bizcochos y vivimos una experiencia diferente 
