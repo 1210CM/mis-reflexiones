@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/experiencias/no-fue-grave-porque-dios-cuido-a-todos/"}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/no-fue-grave-porque-dios-cuido-a-todos/","tags":["accidente","chapista","Camioneta"]}
 ---
 
 
