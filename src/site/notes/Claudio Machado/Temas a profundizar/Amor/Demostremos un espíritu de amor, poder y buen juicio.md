@@ -7,7 +7,7 @@
 [[Claudio Machado/Conceptos/Poder\|Poder]]
 [[Claudio Machado/Conceptos/Buen juicio\|Buen juicio]]
 [[Claudio Machado/Personajes Bíblicos/Onesiforo\|Onesiforo]]
-[[Claudio Machado/Conceptos/Espíritu Santo\|Espíritu Santo]]
+[[Claudio Machado/Temas a profundizar/Espíritu Santo/Espíritu Santo\|Espíritu Santo]]
 
 Empezó hablando la víbora cascabel, no es la mejor mascota, pero aprendemos algo ella espera que se acerque su víctima y cuando está al alcance la muerde, y espera. El veneno paraliza su víctima, entonces ella puede engullirla con facilidad.
 
