@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/experiencias/la-camioneta-como-nueva-otra-vez/"}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/la-camioneta-como-nueva-otra-vez/","tags":["chapista","Camioneta"]}
 ---
 
 Después de una semana de trabajo, en el [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]  mi camioneta recuperó su diseño original 😉
