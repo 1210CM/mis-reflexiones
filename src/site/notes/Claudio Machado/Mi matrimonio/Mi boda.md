@@ -5,7 +5,7 @@
 21 Agosto 2017
 
 En Registro Civil Ciudad de la Costa 
-![1000139233.jpg](/img/user/Personal/Im%C3%A1genes/1000139233.jpg)
+![1000139233.jpg](/img/user/Personal/Im%C3%A1genes/1000139233.jpg)  
 
 Se nos ve felices verdad?. Llevábamos poco tiempo de conocernos menos de dos años, y veníamos de un matrimonio anterior cada uno. 
 Durante ese tiempo que nos conocíamos hablamos de muchos temas, [[Claudio Machado/Conceptos/Política\|Política]], [[Claudio Machado/Conceptos/Religión\|Religión]], [[Claudio Machado/Conceptos/Familia\|Familia]], [[Claudio Machado/Conceptos/Dinero\|Dinero]], etc.
