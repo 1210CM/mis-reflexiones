@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/cualidades/espiritu-santo-la-paz-como-podemos-conseguirla/"}
 ---
 
-
+[Artículo completo](https://wol.jw.org/es/wol/d/r4/lp-s/2018402#h=1:0-42:0)
 # “La paz: ¿cómo podemos conseguirla?” 
 
 ---
