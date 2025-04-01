@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/experiencias/mi-primer-reunion-despues-de-mucho-tiempo/"}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/mi-primer-reunion-despues-de-mucho-tiempo/","tags":["Reunión","Congregación","readmitido"]}
 ---
 
 La verdad que lamentablemente no tengo recuerdos fotográfico de aquel momento, pero la verdad es que es imposible para mí olvidar lo que sentí.
