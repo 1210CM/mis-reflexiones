@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/taller-de-javier/"}
+{"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/taller-de-javier/","tags":["Pintor","chapista","Javier"]}
 ---
 
 ![Screenshot_20250331_213443_Obsidian.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250331_213443_Obsidian.jpg)  
