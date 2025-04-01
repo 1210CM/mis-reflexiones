@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/experiencias/29-y-30-de-marzo-2025-fin-de-semana-con-mucha-actividad-especial/"}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/29-y-30-de-marzo-2025-fin-de-semana-con-mucha-actividad-especial/","tags":["Congregación","asamblea","predicación"]}
 ---
 
 Estamos en plena campaña de invitaciones para la conferencia especial ¿Donde encontrar la verdad? Y a la sigue semana el memorial. Que en nuestra congregación se celebra el próximo sábado 12 de abril a las 18:30hs.
 
 ![IMG-20250329-WA0007 1.jpg](/img/user/Personal/Im%C3%A1genes/IMG-20250329-WA0007%201.jpg)
-En este marco, se cambió la reunión del domingo para el sábado 14:30 hs que tuvimos una reunión vía streaming en directo, desde betel Argentina por la [[Claudio Machado/Días especiales - Asambleas/Reunión especial visita del superintendente de zona, en Ezeiza\|Reunión especial visita del superintendente de zona, en Ezeiza]]  
+En este marco, se cambió la reunión del domingo para el sábado 14:30 hs que tuvimos una reunión vía streaming en directo, desde betel Argentina por la [[Claudio Machado/Experiencias & Reflexiones/Reunión especial visita del superintendente de zona, en Ezeiza\|Reunión especial visita del superintendente de zona, en Ezeiza]]  
 
 ![IMG-20250331-WA0006.jpg](/img/user/Personal/Im%C3%A1genes/IMG-20250331-WA0006.jpg)
 
