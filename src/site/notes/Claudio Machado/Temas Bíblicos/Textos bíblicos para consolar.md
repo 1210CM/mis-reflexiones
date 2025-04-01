@@ -27,3 +27,6 @@
 [**Revelación 21:4**](https://wol.jw.org/es/wol/bc/r4/lp-s/502019177/21/0)**:** “Limpiará toda lágrima de sus ojos, y la muerte no será más, ni existirá ya más lamento ni clamor ni dolor. Las cosas anteriores han pasado”.
 
 **Significado:** Dios eliminará todo lo que nos hace sufrir, y eso incluye los desastres naturales.
+
+
+[[Claudio Machado/Temas Bíblicos/Dios quiere Ayudarnos\|Dios quiere Ayudarnos]]
