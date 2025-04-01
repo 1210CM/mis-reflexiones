@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/experiencias/ayuda-para-ser-readmitido/"}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/ayuda-para-ser-readmitido/","tags":["restablecido","readmitido"]}
 ---
 
 >Es importante dejar claro que cuando surgió todo éste tema de volver a ser testigo de Jehová, yo estaba cómodo y tranquilo con mi estilo de vida y no quería volver .
