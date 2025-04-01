@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/claudio-machado/lugares-visitados/praia-4-ilhas/"}
 ---
 
-![20250311_125839.jpg](/img/user/Personal/Im%C3%A1genes/20250311_125839.jpg)
+![20250311_125839.jpg](/img/user/Personal/Im%C3%A1genes/20250311_125839.jpg)  
 
-En Santa Catarina parece una constante, sin  aventura no hay playas.
+En Santa Catarinas parece una constante, sin  aventura no hay playas.
 Es que las playas no son de tan fácil acceso, y aquí en Bombinhas no es la excepción. O dejas el auto muy lejos y vas caminando o tenés que pagar cualquier estacionamiento unos 30 Reales que equivale a $240 uruguayos y la verdad me pareció mucho para entrar conocer sacar unas fotos y volver.
 
 En el auto recorrimos bastante, nos metimos por varias calles sin salida, es cómo un laberinto para quien no conoce. Pero finalmente logramos encontrar un lugar donde dejar el auto, pero quedó bastante alejado de la playa. Para llegar tuvimos que atravesar un sendero bastante extenso entre un tejido que separaba unas construcciones y la vegetación exuberante de Brasil. Finalmente llegamos a unas calles hasta que llegamos a la playa 4 Ilhas, otro pequeño paraíso 
