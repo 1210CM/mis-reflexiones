@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/taller-de-javier/"}
 ---
 
+![Screenshot_20250331_213443_Obsidian.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250331_213443_Obsidian.jpg)  
+
 A Javier lo conozco desde que volví al barrio, por noviembre 2017, recuerdo que en aquel momento tenía una pickup Saveiro, recién comprada. que trabajando en la reforma de la casa uno de los muchachos le abollo todo el guardabarros trasero.
 
 La verdad es que no quería que Patricia viera su camioneta nueva en ese estado. Así que rápido salí a buscar un taller, yo conocía algunas en Montevideo, porque haciendo Uber, siempre hay algún toque. Y tambien tenia idea de precios.
