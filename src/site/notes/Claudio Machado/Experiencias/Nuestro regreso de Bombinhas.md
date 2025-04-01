@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/experiencias/nuestro-regreso-de-bombinhas/","tags":["vacaciones","Brasil","automóvil"]}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias/nuestro-regreso-de-bombinhas/","tags":["vacaciones","Brasil","automóvil","bombinhas"]}
 ---
 
 ![20250312_093911.jpg](/img/user/Personal/Im%C3%A1genes/20250312_093911.jpg) 
