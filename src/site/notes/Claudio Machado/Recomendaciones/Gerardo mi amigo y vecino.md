@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/gerardo-mi-amigo-y-vecino/"}
+{"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/gerardo-mi-amigo-y-vecino/","tags":["Pintor","Gerardo"]}
 ---
 
 ![20250128_145841.jpg](/img/user/Personal/Im%C3%A1genes/20250128_145841.jpg)  
