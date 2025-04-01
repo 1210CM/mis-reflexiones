@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/jehova-dios/jehova-todopoderoso/","tags":["Jehová"]}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/jehova-dios/jehova-todopoderoso/"}
 ---
 
 # Jehová Todopoderoso
-
+[Artículo original](https://wol.jw.org/es/wol/d/r4/lp-s/1102002026)
 ## Idea
 **Jehová es Todopoderoso y su poder es incomparable y eterno.**
 
