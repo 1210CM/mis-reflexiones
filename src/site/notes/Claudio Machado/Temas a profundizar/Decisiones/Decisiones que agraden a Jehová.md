@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/claudio-machado/temas-a-profundizar/decisiones/decisiones-que-agraden-a-jehova/"}
 ---
 
-“[[Claudio Machado/Conceptos/El temor de Jehová\|El temor de Jehová]] es el comienzo de la [[Claudio Machado/Conceptos/Sabiduría\|Sabiduría]], y el [[Claudio Machado/Conceptos/Conocimiento\|conocimiento]] del Santísimo es [[Claudio Machado/Conceptos/Entendimiento\|Entendimiento]]” ([PROV. 9:10](https://wol.jw.org/es/wol/bc/r4/lp-s/2025242/0/0)).
+[Artículo de estudio](https://wol.jw.org/es/wol/d/r4/lp-s/2025242)
+“[[Claudio Machado/Temas a profundizar/Jehová - Dios/El temor de Jehová\|El temor de Jehová]] es el comienzo de la [[Claudio Machado/Conceptos/Sabiduría\|Sabiduría]], y el [[Claudio Machado/Conceptos/Conocimiento\|conocimiento]] del Santísimo es [[Claudio Machado/Conceptos/Entendimiento\|Entendimiento]]” ([PROV. 9:10](https://wol.jw.org/es/wol/bc/r4/lp-s/2025242/0/0)).
 
 Para [[Claudio Machado/Temas a profundizar/Decisiones/Tomar Decisiones correctas\|Tomar Decisiones correctas]]
 - primero necesitamos tener toda la información sobre todo el asunto ([Proverbios 18:13](https://wol.jw.org/es/wol/bc/r4/lp-s/2025242/3/0))
