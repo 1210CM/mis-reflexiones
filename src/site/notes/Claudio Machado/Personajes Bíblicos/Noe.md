@@ -3,4 +3,4 @@
 ---
 
 El siervo de Dios de la antigüedad que fue fiel a Dios y predicador de justicia 
-El construyó el [[Arca\|Arca]] 
+El construyó el [[Claudio Machado/Conceptos/Arca\|Arca]] 
