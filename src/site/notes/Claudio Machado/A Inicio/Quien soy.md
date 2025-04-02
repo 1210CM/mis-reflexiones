@@ -1,17 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/quien-soy/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/quien-soy/"}
 ---
 
 
 ***Soy Claudio Machado***
-# y les doy la bienvenida a mi lugar en la web
-
-![1000125504.jpg](/img/user/Personal/Im%C3%A1genes/1000125504.jpg)
+![claudio-patricia-betel.jpg](/img/user/Claudio%20Machado/img/destacadas/claudio-patricia-betel.jpg) 
 Junto a mi esposa Patricia en Betel Argentina (Febrero 2025)
 
 ---
 
->Aquí iré compartiendo [[Claudio Machado/Temas Bíblicos/Pensamientos\|Pensamientos]], [[Claudio Machado/Temas Bíblicos/Reflexiones\|Reflexiones]], [[Claudio Machado/Temas Bíblicos/Experiencias\|Experiencias]] , y mucho de [[Claudio Machado/Temas Bíblicos/Investigación\|Investigación]] [[Claudio Machado/Temas Bíblicos/Personal\|Personal]] sobre la [[Claudio Machado/Temas Bíblicos/Biblia\|Biblia]] 
 
 ## Algo de mi
 Nací en Rivera en 1966, desde 1976 vivo en [Montes de Solymar](https://g.co/kgs/gjaN8YF), lugar donde conocí a los [[Claudio Machado/Temas Bíblicos/Testigos de Jehová\|Testigos de Jehová]] a través de la familia Fernández, Rubens, Teresa y su hija Marcia. 
