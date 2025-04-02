@@ -2,68 +2,60 @@
 {"dg-publish":true,"permalink":"/claudio-machado/a-inicio/espacio-para-compartir-recuerdos-y-reflexiones/","title":"Espacio para compartir recuerdos y reflexiones","tags":["gardenEntry"]}
 ---
 
+# 🏡 Mis apuntes para compartir
 
-_Un espacio abierto para compartir, reflexionar y recordar._
+Bienvenido a mi jardín digital, un espacio donde comparto mis experiencias, reflexiones y aprendizajes.
 
 ---
 
 ## ⭐ Nota destacada principal
 
-| File                                                                                                                                                                     | Nota                                                                                                                                                                     | Sección        | Fecha          | Resumen                                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Claudio Machado/Temas Bíblicos/Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay\|Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay]] | [[Claudio Machado/Temas Bíblicos/Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay\|Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay]] | Temas Bíblicos | April 01, 2025 | Se nos da un informe de todos los avances en la obra desde 2024 hasta el 2025 para Argentina y Uruguay. Construcción, escuelas y ayuda en desastres naturales |
-
-{ .block-language-dataview}
-
+![Imagen destacada](img/destacadas/imagen-principal.jpg)
+**Título:** Informe Juan Giovanelli - Obra del Reino  
+**Resumen:** Un informe especial sobre la obra del Reino en Argentina y Uruguay.  
+[Leer más](./temas-biblicos/informe-juan-giovanelli)
 
 ---
 
-⭐ Otras notas destacadas por sección
-| seccion                    | Nota | Sección                    | Fecha | Resumen |
-| -------------------------- | ---- | -------------------------- | ----- | ------- |
-| Brodcasting & Video        | \-   | Brodcasting & Video        | \-    | \-      |
-| Experiencias & Reflexiones | \-   | Experiencias & Reflexiones | \-    | \-      |
-| Familia & Amigos           | \-   | Familia & Amigos           | \-    | \-      |
-| Recomendaciones            | \-   | Recomendaciones            | \-    | \-      |
-| Temas Bíblicos             | \-   | Temas Bíblicos             | \-    | \-      |
+## ⭐ Otras notas destacadas por sección
 
-{ .block-language-dataview}
+### Experiencias & Reflexiones
+- **Un viaje inolvidable a Gualeguaychú** → [Leer más](./experiencias/viaje-gualeguaychu)
 
+### Broadcasting & Video
+- **Cómo se produce un programa de Broadcasting** → [Leer más](./broadcasting/programa-broadcasting)
 
----
+### Familia & Amigos
+- **Un día de campo con amigos** → [Leer más](./familia/dia-campo)
 
-🗂️ Secciones importantes
+### Recomendaciones
+- **Aplicaciones que uso para aprender y organizarme** → [Leer más](./recomendaciones/apps-aprendizaje)
 
-[[Broadcasting & Video\|Broadcasting & Video]]
-
-[[Experiencias & Reflexiones\|Experiencias & Reflexiones]]
-
-[[Familia & Amigos\|Familia & Amigos]]
-
-[[Recomendaciones\|Recomendaciones]]
-
-[[Temas bíblicos\|Temas bíblicos]]
-
-
+### Temas Bíblicos
+- **Reflexiones sobre Mateo 24** → [Leer más](./temas-biblicos/reflexiones-mateo24)
 
 ---
 
-⏳ Rincón del tiempo
+## 🕰️ Rincón del tiempo
 
-| File                                                               | Nota                                                               | Sección                    | Fecha          | Resumen                                                                                                                                                  |
-| ------------------------------------------------------------------ | ------------------------------------------------------------------ | -------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Claudio Machado/Experiencias & Reflexiones/Mi boda\|Mi boda]] | [[Claudio Machado/Experiencias & Reflexiones/Mi boda\|Mi boda]] | Experiencias & Reflexiones | April 01, 2025 | Llevábamos poco tiempo de conocernos menos de dos años, y veníamos de un matrimonio anterior cada uno. Durante ese tiempo que nos conocíamos hablamos de |
-
-{ .block-language-dataview}
-
+![Rincón del tiempo](img/destacadas/rincon-del-tiempo.jpg)
+**Título:** Un recuerdo especial de 2010  
+**Resumen:** Una experiencia inolvidable junto a amigos y familia.  
+[Leer más](./reflexiones/recuerdo-2010)
 
 ---
 
-👤 Sobre mí
+## 🔗 Secciones
 
-Este sitio es un espacio personal donde comparto mis aprendizajes, experiencias y reflexiones.
-Podés conocer más sobre mí en [[Claudio Machado/A Inicio/Quien soy\|Quien soy]].
+- [Experiencias & Reflexiones](./experiencias)
+- [Broadcasting & Video](./broadcasting)
+- [Familia & Amigos](./familia)
+- [Recomendaciones](./recomendaciones)
+- [Temas Bíblicos](./temas-biblicos)
 
 ---
 
+## 🙋‍♂️ Sobre mí
 
+Este sitio es un espacio personal donde comparto libremente lo que he aprendido y vivido.  
+[Quién soy](./a-inicio/quien-soy)
