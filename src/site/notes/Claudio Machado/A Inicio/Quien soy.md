@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/quien-soy/"}
+{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/quien-soy/","tags":["gardenEntry"]}
 ---
 
 
