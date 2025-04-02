@@ -5,16 +5,16 @@
 21 Agosto 2017
 
 En Registro Civil Ciudad de la Costa 
-![1000139233.jpg](/img/user/Personal/Im%C3%A1genes/1000139233.jpg)  
+![1000139233.jpg](/img/user/Claudio%20Machado/img/destacadas/1000139233.jpg) 
 
 Se nos ve felices verdad?. Llevábamos poco tiempo de conocernos menos de dos años, y veníamos de un matrimonio anterior cada uno. 
-Durante ese tiempo que nos conocíamos hablamos de muchos temas, [[Claudio Machado/Temas Bíblicos/Conceptos/Política\|Política]], [[Claudio Machado/Temas Bíblicos/Conceptos/Religión\|Religión]], [[Claudio Machado/Temas Bíblicos/Conceptos/Familia\|Familia]], [[Claudio Machado/Temas Bíblicos/Conceptos/Dinero\|Dinero]], etc.
+Durante ese tiempo que nos conocíamos hablamos de muchos temas, [[Claudio Machado/Temas Bíblicos/Política\|Política]], [[Claudio Machado/Temas Bíblicos/Religión\|Religión]], [[Claudio Machado/Temas Bíblicos/Familia\|Familia]], [[Claudio Machado/Temas Bíblicos/Dinero\|Dinero]], etc.
 
-Pero me interese especialmente por su opinión sobre el [[Claudio Machado/Temas Bíblicos/Conceptos/Matrimonio\|Matrimonio]] ya que terminamos viviendo juntos. Y su opinión no era muy favorable porque decía que era una experiencia que no quería volver a vivir.
+Pero me interese especialmente por su opinión sobre el [[Claudio Machado/Temas Bíblicos/Matrimonio\|Matrimonio]] ya que terminamos viviendo juntos. Y su opinión no era muy favorable porque decía que era una experiencia que no quería volver a vivir.
 
-Es que los dos teníamos opiniones distintas del [[Claudio Machado/Temas Bíblicos/Conceptos/Matrimonio\|Matrimonio]]. En mi caso aunque no era religioso en ése momento, igual conocía y respetaba la voluntad de [[Claudio Machado/Temas Bíblicos/Personajes Bíblicos/Dios\|Dios]] sobre éste tema. Debido a éso no me sentía cómodo conviviendo íntimamente con alguien sin estar casados. En cambio para ella, el matrimonio era solo un trámite legal que no garantizaba el éxito de una relación.
+Es que los dos teníamos opiniones distintas del [[Claudio Machado/Temas Bíblicos/Matrimonio\|Matrimonio]]. En mi caso aunque no era religioso en ése momento, igual conocía y respetaba la voluntad de [[Claudio Machado/Temas Bíblicos/Dios\|Dios]] sobre éste tema. Debido a éso no me sentía cómodo conviviendo íntimamente con alguien sin estar casados. En cambio para ella, el matrimonio era solo un trámite legal que no garantizaba el éxito de una relación.
 
-Sin embargo con el tiempo, ella comprendió un poco mejor mi forma de pensar y mi respeto por [[Claudio Machado/Temas Bíblicos/Personajes Bíblicos/Dios\|Dios]], al punto que termino por aceptar, casarse conmigo.
+Sin embargo con el tiempo, ella comprendió un poco mejor mi forma de pensar y mi respeto por [[Claudio Machado/Temas Bíblicos/Dios\|Dios]], al punto que termino por aceptar, casarse conmigo.
 
 Así que organizamos todo de una forma muy sencilla y discreta, en nuestra boda, no hubo casi invitados porque por mi lado no tenía amigos en ese momento, sólo Dos compañeros de trabajo que fueron mis testigos. 
 
