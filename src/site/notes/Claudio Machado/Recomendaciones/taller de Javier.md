@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/taller-de-javier/","tags":["Pintor","chapista","Javier"]}
 ---
 
-![Screenshot_20250331_213443_Obsidian.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250331_213443_Obsidian.jpg)  
+![Screenshot_20250331_213443_Obsidian.jpg](/img/user/Claudio%20Machado/img/destacadas/Screenshot_20250331_213443_Obsidian.jpg) 
 
 A Javier lo conozco desde que volví al barrio, por noviembre 2017, recuerdo que en aquel momento tenía una pickup Saveiro, recién comprada. que trabajando en la reforma de la casa uno de los muchachos le abollo todo el guardabarros trasero.
 
