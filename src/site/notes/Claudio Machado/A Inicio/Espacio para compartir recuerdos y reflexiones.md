@@ -10,7 +10,7 @@ Bienvenido a mi jardín digital, un espacio donde comparto mis experiencias, ref
 
 ## ⭐ Nota destacada principal
 
-![Imagen destacada](img/destacadas/imagen-principal.jpg)
+![Imagen destacada](/img/user/Claudio Machado/img/destacadas/edificio-betel-argentina.jpg)
 **Título:** Informe Juan Giovanelli - Obra del Reino  
 **Resumen:** Un informe especial sobre la obra del Reino en Argentina y Uruguay.  
 [Leer más](./temas-biblicos/informe-juan-giovanelli)
