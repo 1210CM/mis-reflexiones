@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/comencemos-por-aqui/","title":"Página principal","tags":["home","inicio","gardenEntry"]}
+{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/comencemos-por-aqui/","title":"Página principal","tags":["home","inicio","gardenEntry","gardenEntry"]}
 ---
 
 
