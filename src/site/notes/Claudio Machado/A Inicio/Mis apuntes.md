@@ -13,7 +13,7 @@ Bienvenido a mi jardín digital un espacio íntimo y personal donde cultivo mi a
 
 ## 🌟 Nota destacada principal
 
->[!info] # [[Claudio Machado/Temas Bíblicos/Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay\|Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay]]
+>[!IMPORTANT] # [[Claudio Machado/Temas Bíblicos/Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay\|Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay]]
 >
 >![edificio-betel-argentina.jpg](/img/user/Claudio%20Machado/img/destacadas/edificio-betel-argentina.jpg)
 >Un informe especial sobre el adelanto de la obra en Argentina y Uruguay en los últimos meses 
