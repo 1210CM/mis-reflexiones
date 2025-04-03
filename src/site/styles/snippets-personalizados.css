@@ -1,0 +1,48 @@
+/* ====== NOTA PRINCIPAL ====== */
+.callout[data-callout="nota-principal"] {
+  border: 2px solid #FFC53A;
+  background-color: transparent;
+  border-radius: 12px;
+  padding: 15px;
+  margin: 15px 0;
+}
+
+.callout[data-callout="nota-principal"] .callout-title {
+  font-size: 1.4em;
+  font-weight: bold;
+  color: #FFC53A;
+  display: flex;
+  align-items: center;
+}
+
+.callout[data-callout="nota-principal"] .callout-title::before {
+  content: "🌟";
+  margin-right: 8px;
+}
+
+.callout[data-callout="nota-principal"] .callout-title .callout-icon {
+  display: none;
+}
+
+/* ====== NOTAS DESTACADAS ====== */
+.callout[data-callout="nota-destacada"] {
+  border: 1px solid #FFC53A;
+  background-color: transparent;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 12px 0;
+}
+
+.callout[data-callout="nota-destacada"] .callout-title {
+  font-size: 1.1em;
+  font-weight: bold;
+  color: #FFC53A;
+}
+
+.callout[data-callout="nota-destacada"] .callout-title::before {
+  content: "";
+}
+
+.callout[data-callout="nota-destacada"] .callout-title .callout-icon {
+  display: none;
+}
