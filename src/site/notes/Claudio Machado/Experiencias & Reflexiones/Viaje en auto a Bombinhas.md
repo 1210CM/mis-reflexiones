@@ -10,7 +10,7 @@ Durante 7 días conocimos [[Claudio Machado/Experiencias & Reflexiones/Praia Sao
 
 ![20250310_Patricia_Guaratuba.jpg](/img/user/Personal/Im%C3%A1genes/20250310_Patricia_Guaratuba.jpg)
 
-Hicimos un recorrido de casi 3500 kilómetros entre ida y vuelta. Que con la Bendición y cuidado de [[Claudio Machado/Temas Bíblicos/Personajes Bíblicos/Jehová\|Jehová]] todo resultó sin dificultad.
+Hicimos un recorrido de casi 3500 kilómetros entre ida y vuelta. Que con la Bendición y cuidado de [[Claudio Machado/Temas Bíblicos/Jehová\|Jehová]] todo resultó sin dificultad.
 
 
 

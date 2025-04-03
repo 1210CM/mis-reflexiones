@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/mis-apuntes/","title":"Página principal","tags":["home","inicio","gardenEntry"]}
+{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/mis-apuntes/","title":"Página principal","tags":["home","inicio","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 

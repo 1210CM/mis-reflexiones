@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/familia-and-amigos/raul-y-nancy-hermanos-de-paysandu/","tags":["Amigos","Hermanos"]}
 ---
 
-![20250320_133434~2.jpg](/img/user/Claudio%20Machado/img/destacadas/20250320_133434~2.jpg) 
+![20250320_133434~2.jpg](/img/user/Personal/Im%C3%A1genes/20250320_133434~2.jpg) 
 
 Vinieron desde Paysandú, en su camioneta y están de paso en lo de Javier. Ellos estan viajando rumbo a Colombia, y van a dejar la camioneta en su casa. 
 

@@ -15,13 +15,13 @@ Entonces pregunté, cual fue la ayuda que no quise aceptar. Me respondieron que 
 
 >Sin pensarlo dije que si era sin compromiso yo aceptaba esa ayuda!. 
 
-Pero les expliqué que si volvía a reunirme lo haría en otra [[Claudio Machado/Temas Bíblicos/Conceptos/Congregación\|Congregación]] en la de Solymar, que es donde se está reuniendo mi esposa Patricia, que en ése momento seguía estudiando la Biblia. Ellos entendieron y me dijeron que harían los arreglos y me avisarían.
+Pero les expliqué que si volvía a reunirme lo haría en otra [[Claudio Machado/Temas Bíblicos/Congregación\|Congregación]] en la de Solymar, que es donde se está reuniendo mi esposa Patricia, que en ése momento seguía estudiando la Biblia. Ellos entendieron y me dijeron que harían los arreglos y me avisarían.
 
 ## Lo que ellos no sabían después que se fueron.
 
 Algo en mi interior cambio, aún se estaban llendo cuando pensé: 
 
->"Si dije que si a la ayuda, no voy a poner excusas, voy hacer todo para que el arreglo funcione, y es más éste domingo que viene es el [[Claudio Machado/Temas Bíblicos/Conceptos/Memorial\|Memorial]] así que ahí voy a estar".
+>"Si dije que si a la ayuda, no voy a poner excusas, voy hacer todo para que el arreglo funcione, y es más éste domingo que viene es el [[Claudio Machado/Temas Bíblicos/Memorial\|Memorial]] así que ahí voy a estar".
 
 Así que el siguiente Domingo fuí a [[Claudio Machado/Experiencias & Reflexiones/Mi primer reunión después de mucho tiempo\|Mi primer reunión después de mucho tiempo]] y en esa reunión me resolvi en mi corazón no faltar a ninguna otra reunión más y por ahora vengo cumpliendo..
 

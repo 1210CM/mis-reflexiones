@@ -25,6 +25,6 @@ Aquí les muestro en detalle con lo que se encontró Javier al empezar el desarm
 
 Las imágenes son contundentes, lo que yo creía leve, no lo fue tanto. Después de ver todo esto, Javier me explico que el trabajo está pronto en una semana y el precio, fue muy menor al que me esperaba.
 
-Una vez más veo la mano de [[Claudio Machado/Temas Bíblicos/Personajes Bíblicos/Jehová\|Jehová]] hasta en estos detalles cotidianos, primero al motivar al trabajador a dar un presupuesto razonable y también a nosotros que nos dió los recursos para hacer frente a este gasto imprevisto. [Salmo 40:5](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/40#v=19:40:5)
+Una vez más veo la mano de [[Claudio Machado/Temas Bíblicos/Jehová\|Jehová]] hasta en estos detalles cotidianos, primero al motivar al trabajador a dar un presupuesto razonable y también a nosotros que nos dió los recursos para hacer frente a este gasto imprevisto. [Salmo 40:5](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/40#v=19:40:5)
 
 ## [[Claudio Machado/Experiencias & Reflexiones/La camioneta - Cómo nueva otra vez\|La camioneta - Cómo nueva otra vez]]

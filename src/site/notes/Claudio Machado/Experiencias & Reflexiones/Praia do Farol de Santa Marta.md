@@ -13,7 +13,7 @@ Cómo en todos los paseos durante éste viaje la comida nos resultó muy económ
 
 Nos gustó mucho el lugar, bastante pintoresco, con comercios, casas más modernas y otras muy viejas de madera generan un ambiente muy especial.
 
-Al final nos fuimos temprano porque, es día de reunión y queríamos buscar un [[Claudio Machado/Temas Bíblicos/Conceptos/Salón del Reino\|Salón del Reino]] para reunirnos y además el clima empezaba a cambiar, tanto que de regreso empezó a llover y ya se mantuvo nublado y lluvioso el resto del día, y los días siguientes, se alternó lluvia y Sol hasta que volvimos a Uruguay 
+Al final nos fuimos temprano porque, es día de reunión y queríamos buscar un [[Claudio Machado/Temas Bíblicos/Salón del Reino\|Salón del Reino]] para reunirnos y además el clima empezaba a cambiar, tanto que de regreso empezó a llover y ya se mantuvo nublado y lluvioso el resto del día, y los días siguientes, se alternó lluvia y Sol hasta que volvimos a Uruguay 
 
 <div style="position: relative; width: 100%; padding-bottom: 177.78%; height: 0; overflow: hidden;">
   <iframe 
