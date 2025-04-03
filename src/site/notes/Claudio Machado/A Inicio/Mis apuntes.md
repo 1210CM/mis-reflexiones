@@ -36,4 +36,4 @@ Mas notas interesantes
 ## 🙋‍♂️ Sobre mí
 
 Este sitio es un espacio personal donde comparto mis aprendizajes, experiencias y reflexiones.  
-Podés conocer más sobre mí en [[Quién soy\|Quién soy]].
+Podés conocer más sobre mí en [[Claudio Machado/A Inicio/Quién soy\|Quién soy]]
