@@ -20,14 +20,11 @@ Un informe especial sobre el adelanto de la obra en Argentina y Uruguay en los �
 
 ---
 
-Mas notas interesantes 
----
+Mas notas interesantes
 
-
-| ![Screenshot_20250329_093806_JWLibrary_sob0SLyR8F_3kIsMlUb2C 5.jpeg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093806_JWLibrary_sob0SLyR8F_3kIsMlUb2C%205.jpeg) | [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]] <br><br>anuncios animadores para fortalecer nuestra confianza en Jehová |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-|                                                                        |                                                                                                                |
-
+> [!NOTE]+ ✨ [[Título de la nota\|Título de la nota]]
+> ![Screenshot_20250329_093806_JWLibrary.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093806_JWLibrary.jpg)
+> Buenas noticias de nuestros hermanos a través del mundo 
 
 
 
