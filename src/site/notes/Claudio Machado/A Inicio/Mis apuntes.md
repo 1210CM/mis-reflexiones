@@ -22,7 +22,7 @@ Un informe especial sobre el adelanto de la obra en Argentina y Uruguay en los �
 
 Mas notas interesantes
 
-> [!NOTE]+ ✨ [[Título de la nota\|Título de la nota]]
+> [!NOTE]+ ✨ [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]] 
 > ![Screenshot_20250329_093806_JWLibrary.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093806_JWLibrary.jpg)
 > Buenas noticias de nuestros hermanos a través del mundo 
 
