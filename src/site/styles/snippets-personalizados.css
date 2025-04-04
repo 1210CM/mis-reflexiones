@@ -90,4 +90,65 @@
   border: 3px solid #FFC53A;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
+.pie-simple {
+  font-size: 12px;
+  text-align: center;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  color: #999;
+}
 
+.pie-simple a {
+  color: #FFC53A;
+  text-decoration: none;
+  margin: 0 6px;
+  transition: color 0.3s ease;
+}
+
+.pie-simple a:hover {
+  color: #B26700;
+}
+.pie-simple .legal {
+  display: block;
+  margin-top: 0.5rem;
+  font-size: 10px;
+  color: #888;
+  opacity: 0.8;
+}
+/* Estilo para títulos H1 adaptado a tema oscuro y claro */
+body.theme-dark h1 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #FFC53A; /* dorado claro */
+  border-left: 4px solid #B26700; /* dorado oscuro */
+  padding-left: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+body.theme-light h1 {
+  font-size: 1.6rem;
+  font-weight: bold;
+  color: #161032; /* azul oscuro */
+  border-left: 4px solid #E06D06; /* naranja */
+  padding-left: 1rem;
+  margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+/* Estilos para títulos H1 según tema */
+
+.theme-dark h1 {
+  color: #FFC53A;
+  border-left: 4px solid #B26700;
+  padding-left: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.theme-light h1 {
+  color: #161032;
+  border-left: 4px solid #E06D06;
+  padding-left: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
