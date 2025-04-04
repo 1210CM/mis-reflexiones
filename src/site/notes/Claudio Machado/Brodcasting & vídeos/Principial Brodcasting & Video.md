@@ -4,7 +4,7 @@
 
 
 > [!nota-principal] [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]] 
-> ![Screenshot_20250329_093806_JWLibrary 1.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093806_JWLibrary%201.jpg) 
+> ![Screenshot_20250329_093806_JWLibrary.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093806_JWLibrary.jpg)  
 >  Nuestros hermanos nos traen buenas noticias de Eritrea y mucho estímulo
 
 
