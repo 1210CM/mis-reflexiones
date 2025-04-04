@@ -59,7 +59,7 @@ crecen a su ritmo.</p>
 ## 📂 Navegar por las secciones
 
 - [[Claudio Machado/A Inicio/Comencemos por aquí\|Inicio]]
-- [[Brodcasting & Video\|Brodcasting & Video]]
+- [[Claudio Machado/Brodcasting & vídeos/Principial Brodcasting & Video\|Principial Brodcasting & Video]]
 - [[Experiencias & Reflexiones\|Experiencias & Reflexiones]]
 - [[Familia & Amigos\|Familia & Amigos]]
 - [[Recomendaciones\|Recomendaciones]]
@@ -86,7 +86,7 @@ crecen a su ritmo.</p>
 
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
-  <a href="/claudio-machado/broadcasting-video/">Broadcasting & Video</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
   <a href="/claudio-machado/experiencias-reflexiones/">Experiencias & Reflexiones</a> •
   <a href="/claudio-machado/familia-amigos/">Familia & Amigos</a> •
   <a href="/claudio-machado/recomendaciones/">Recomendaciones</a> •
