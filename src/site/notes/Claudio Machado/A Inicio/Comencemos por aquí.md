@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/comencemos-por-aqui/","title":"Página principal","tags":["home","inicio","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/comencemos-por-aqui/","title":"Página principal","tags":["home","inicio","gardenEntry"]}
 ---
 
 
@@ -11,11 +11,18 @@
 >Un informe especial sobre el adelanto de la obra en Argentina y Uruguay en los últimos meses.
 
 ---
+<hr>
+<div class="bienvenida">
+<p>No es un blog, ni un diario.<br>
+Tampoco un ensayo.</p>
 
-## 📌 ¿De qué trata este sitio?
+<p>Es mi jardín digital: un lugar<br>
+donde mis pensamientos<br>
+crecen a su ritmo.</p>
 
-Te doy la más cordial ***BIENVENIDA!!***
-Éste es mi espacio digital donde comparto ideas, reflexiones, notas y aprendizajes personales.
+<p>Te invito a leer la historia de <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/mis-apuntes/" target="_blank">Mis apuntes</a>.</p>
+</div>
+<hr>
 
 ---
 
@@ -68,10 +75,13 @@ Te doy la más cordial ***BIENVENIDA!!***
 
 ---
 
-## 👤 Acerca de mí
-
-Puedes conocer más sobre mí en la nota [[Claudio Machado/A Inicio/Quién soy\|Quién soy]].
-
+<div class="bienvenida">
+  <h3>Sobre mí</h3>
+  <p>¿Querés saber quién está detrás de estas notas? Podés conocerme un poco más leyendo <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/quien-soy/">Quien soy</a>.</p>
+</div>
+<div class="avatar-bloque">
+  <img src="/img/user/quien-soy.png" alt="Mi foto" class="avatar">
+</div>
 ---
 
 ## © Pie de página
