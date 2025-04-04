@@ -58,7 +58,7 @@ crecen a su ritmo.</p>
 
 ## 📂 Navegar por las secciones
 
-- [[Inicio\|Inicio]]
+- [[Claudio Machado/A Inicio/Comencemos por aquí\|Inicio]]
 - [[Brodcasting & Video\|Brodcasting & Video]]
 - [[Experiencias & Reflexiones\|Experiencias & Reflexiones]]
 - [[Familia & Amigos\|Familia & Amigos]]
