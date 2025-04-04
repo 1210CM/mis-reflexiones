@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/","title":"Nombre de la sección","tags":["experiencia"]}
+{"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/","title":"Experiencias & Reflexiones","tags":["experiencia"]}
 ---
 
 
