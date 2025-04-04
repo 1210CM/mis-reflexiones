@@ -85,7 +85,7 @@ crecen a su ritmo.</p>
 
 
 <div class="pie-simple">
-  <a href="/claudio-machado/a-inicio/">Inicio</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
   <a href="/claudio-machado/broadcasting-video/">Broadcasting & Video</a> •
   <a href="/claudio-machado/experiencias-reflexiones/">Experiencias & Reflexiones</a> •
   <a href="/claudio-machado/familia-amigos/">Familia & Amigos</a> •
