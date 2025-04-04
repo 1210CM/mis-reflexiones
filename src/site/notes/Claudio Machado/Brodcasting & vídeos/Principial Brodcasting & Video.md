@@ -31,7 +31,12 @@ Las notas que voy tomando de los vídeos de la brodcasting</p>
 ---
 
 <div class="pie-simple">
-[Inicio](../../Inicio) • [Broadcasting & Video](../../Brodcasting%20&%20Video) • [Experiencias & Reflexiones](../../Experiencias%20&%20Reflexiones) • [Familia & Amigos](../../Familia%20&%20Amigos) • [Recomendaciones](../../Recomendaciones) • [Temas bíblicos](../../Temas%20bíblicos)
-
-<div class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</div>
+  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
+  <a href="/claudio-machado/experiencias-reflexiones/">Experiencias & Reflexiones</a> •
+  <a href="/claudio-machado/familia-amigos/">Familia & Amigos</a> •
+  <a href="/claudio-machado/recomendaciones/">Recomendaciones</a> •
+  <a href="/claudio-machado/temas-biblicos/">Temas bíblicos</a>
+  <br><br>
+  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
 </div>
