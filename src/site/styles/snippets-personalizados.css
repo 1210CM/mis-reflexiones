@@ -46,6 +46,8 @@
 .callout[data-callout="nota-destacada"] .callout-title .callout-icon {
   display: none;
 }
+
+/* ====== BLOQUE BIENVENIDA ====== */
 .bienvenida {
   background-color: transparent;
   padding: 1.5rem;
@@ -57,6 +59,7 @@
   border-top: 2px dashed #FFC53A;
   border-bottom: 2px dashed #FFC53A;
 }
+
 .bienvenida p {
   color: inherit;
 }
@@ -67,6 +70,7 @@
   margin-bottom: 0.5rem;
   color: #FFC53A;
 }
+
 .bienvenida a {
   color: #FFC53A;
   text-decoration: underline dotted;
@@ -76,6 +80,8 @@
 .bienvenida a:hover {
   color: #B26700;
 }
+
+/* ====== AVATAR ====== */
 .avatar-bloque {
   text-align: center;
   margin-top: 1.5rem;
@@ -90,6 +96,8 @@
   border: 3px solid #FFC53A;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
+
+/* ====== PIE DE PÁGINA SIMPLE ====== */
 .pie-simple {
   font-size: 12px;
   text-align: center;
@@ -108,6 +116,7 @@
 .pie-simple a:hover {
   color: #B26700;
 }
+
 .pie-simple .legal {
   display: block;
   margin-top: 0.5rem;
@@ -115,71 +124,41 @@
   color: #888;
   opacity: 0.8;
 }
-/* Estilo para títulos H1 adaptado a tema oscuro y claro */
+
+/* ====== ENCABEZADOS GLOBALES UNIFICADOS ====== */
+
+/* H1 - Tema Oscuro */
 body.theme-dark h1 {
-  font-size: 1.6rem;
-  font-weight: bold;
-  color: #FFC53A; /* dorado claro */
-  border-left: 4px solid #B26700; /* dorado oscuro */
-  padding-left: 1rem;
-  margin-top: 2rem;
-  margin-bottom: 1.5rem;
-}
-
-body.theme-light h1 {
-  font-size: 1.6rem;
-  font-weight: bold;
-  color: #161032; /* azul oscuro */
-  border-left: 4px solid #E06D06; /* naranja */
-  padding-left: 1rem;
-  margin-top: 2rem;
-  margin-bottom: 1.5rem;
-}
-/* Estilos para títulos H1 según tema */
-
-.theme-dark h1 {
   color: #FFC53A;
   border-left: 4px solid #B26700;
-  padding-left: 0.5rem;
+  font-style: italic;
+  font-size: 1.6rem;
+  font-weight: bold;
+  padding-left: 1rem;
   margin-top: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
-.theme-light h1 {
+/* H1 - Tema Claro */
+body.theme-light h1 {
   color: #161032;
   border-left: 4px solid #E06D06;
-  padding-left: 0.5rem;
+  font-style: italic;
+  font-size: 1.6rem;
+  font-weight: bold;
+  padding-left: 1rem;
   margin-top: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+/* H2 - Ambos temas */
+body.theme-dark h2,
+body.theme-light h2 {
+  color: #E06D06;
+  border-left: 3px solid #FFC53A;
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding-left: 0.75rem;
+  margin-top: 1.8rem;
   margin-bottom: 1rem;
-}
-/* Estilos para H1 en tema oscuro */
-@media (prefers-color-scheme: dark) {
-  h1 {
-    color: #FFC53A;
-    border-left: 4px solid #B26700;
-    padding-left: 0.5rem;
-    font-style: italic;
-  }
-
-  h2 {
-    color: #E06D06;
-    border-left: 3px solid #FFC53A;
-    padding-left: 0.5rem;
-  }
-}
-
-/* Estilos para H1 en tema claro */
-@media (prefers-color-scheme: light) {
-  h1 {
-    color: #161032;
-    border-left: 4px solid #E06D06;
-    padding-left: 0.5rem;
-    font-style: italic;
-  }
-
-  h2 {
-    color: #E06D06;
-    border-left: 3px solid #FFC53A;
-    padding-left: 0.5rem;
-  }
 }
