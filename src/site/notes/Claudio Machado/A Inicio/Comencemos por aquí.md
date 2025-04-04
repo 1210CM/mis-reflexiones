@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/comencemos-por-aqui/","title":"Página principal","tags":["home","inicio","gardenEntry"]}
+{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/comencemos-por-aqui/","title":"Página principal","tags":["home","inicio","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -60,10 +60,10 @@ crecen a su ritmo.</p>
 
 - [[Claudio Machado/A Inicio/Comencemos por aquí\|Inicio]]
 - [[Claudio Machado/Brodcasting & vídeos/Principial Brodcasting & Video\|Principial Brodcasting & Video]]
-- [[Experiencias & Reflexiones\|Experiencias & Reflexiones]]
-- [[Familia & Amigos\|Familia & Amigos]]
-- [[Recomendaciones\|Recomendaciones]]
-- [[Temas Bíblicos\|Temas Bíblicos]]
+- [[Claudio Machado/Experiencias & Reflexiones/Experiencias & Reflexiones\|Experiencias & Reflexiones]]
+- [[Claudio Machado/Familia & Amigos/Familia & Amigos\|Familia & Amigos]]
+- [[Claudio Machado/Recomendaciones/Recomendaciones\|Recomendaciones]]
+- [[Claudio Machado/Temas Bíblicos/Temas Bíblicos\|Temas Bíblicos]]
 
 ---
 
