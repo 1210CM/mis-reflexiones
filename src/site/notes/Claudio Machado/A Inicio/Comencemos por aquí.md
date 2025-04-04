@@ -82,7 +82,9 @@ crecen a su ritmo.</p>
 <div class="avatar-bloque">
   <img src="/img/user/quien-soy.png" alt="Mi foto" class="avatar">
 </div>
+
 ---
+
 <div class="pie-simple">
   <a href="/claudio-machado/a-inicio/">Inicio</a> •
   <a href="/claudio-machado/broadcasting-video/">Broadcasting & Video</a> •
