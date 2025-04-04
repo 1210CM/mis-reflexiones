@@ -83,9 +83,13 @@ crecen a su ritmo.</p>
   <img src="/img/user/quien-soy.png" alt="Mi foto" class="avatar">
 </div>
 ---
-
-## © Pie de página
-
-Esta bitácora digital es un proyecto personal para compartir aprendizajes y reflexiones. Gracias por visitar.
-
----
+<div class="pie-simple">
+  <a href="/claudio-machado/a-inicio/">Inicio</a> •
+  <a href="/claudio-machado/broadcasting-video/">Broadcasting & Video</a> •
+  <a href="/claudio-machado/experiencias-reflexiones/">Experiencias & Reflexiones</a> •
+  <a href="/claudio-machado/familia-amigos/">Familia & Amigos</a> •
+  <a href="/claudio-machado/recomendaciones/">Recomendaciones</a> •
+  <a href="/claudio-machado/temas-biblicos/">Temas bíblicos</a>
+  <br><br>
+  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
+</div>
