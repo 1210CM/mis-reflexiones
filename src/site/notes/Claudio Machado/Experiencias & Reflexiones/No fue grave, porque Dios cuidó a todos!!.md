@@ -62,7 +62,7 @@ Aunque me he quedado mal, y me sigo sintiendo mal, porque soy humano y acepto mi
 
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Experiencias & Reflexiones/Reparando la camioneta\|Reparando la camioneta]]
-> - [[Claudio Machado/Experiencias & Reflexiones/La camioneta - Cómo nueva otra vez\|La camioneta - Cómo nueva otra vez]]]
+> - [[Claudio Machado/Experiencias & Reflexiones/La camioneta - Cómo nueva otra vez\|La camioneta - Cómo nueva otra vez]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]]
 
 
