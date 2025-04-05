@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/recomendaciones/","tags":["recomendaciones"]}
 ---
 
-# <span class="título-pequeño" > Recomendaciones</span>
-
 > [!nota-principal] [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
 > ![1000141458.jpg](/img/user/Personal/Im%C3%A1genes/1000141458.jpg) 
 > Javier es un amigo que hace trabajos de chapa y pintura en automóviles y camionetas 
