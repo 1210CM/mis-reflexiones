@@ -66,7 +66,7 @@ conclusiones que la vida me enseñó</p>
 > Estos discursos nos ayudan a recordar nuestro compromiso con Jehová 
 ---
 
-> [! nota-destacada] [[Claudio Machado/Experiencias & Reflexiones/Ayuda para ser readmitido\|Ayuda para ser readmitido]]
+> [!nota-destacada] [[Claudio Machado/Experiencias & Reflexiones/Ayuda para ser readmitido\|Ayuda para ser readmitido]]
 > Cuando el amor de otros te motiva a volver a ser Testigo de Jehová cuando yo mismo decía que no volvería 
 > ![20250318_103042.jpg](/img/user/Personal/Im%C3%A1genes/20250318_103042.jpg) 
 
