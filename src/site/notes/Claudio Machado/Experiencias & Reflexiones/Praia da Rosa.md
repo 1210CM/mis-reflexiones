@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/praia-da-rosa/","tags":["playa","bombinhas","viajes","automóvil","Brasil"]}
 ---
 
+
 ![20250310_110434.jpg](/img/user/Personal/Im%C3%A1genes/20250310_110434.jpg)  
 Seguimos en nuestro [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]] ya comenzamos el cuarto día y hoy el plan es llegar a nuestro destino pero antes queremos conocer [[Claudio Machado/Experiencias & Reflexiones/Praia da Rosa\|Praia da Rosa]].
 
@@ -18,4 +19,21 @@ Pero ahora lo que sigue es conocer [[Claudio Machado/Experiencias & Reflexiones/
     src="https://youtube.com/embed/epSpyvuv4uA" 
     frameborder="0" allowfullscreen>
   </iframe>
+</div>
+
+
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Praia Bombas\|Praia Bombas]]
+> - [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]]
+
+<div class="pie-simple">
+  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomendaciones/">Recomendaciones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
+  <br><br>
+  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
 </div>
