@@ -175,11 +175,14 @@ body.theme-dark .markdown-preview-section h1 {
   border-left: 4px solid #B26700;
   padding-left: 12px;
   margin: 2rem 0 1rem;
+  line-height: 1.2;
+  word-break: break-word;
 }
 
 /* H2 en modo oscuro */
 body.theme-dark .markdown-preview-section h2 {
   color: #E06D06;
+  font-size: 1.6rem;
   font-style: italic;
   border-left: 4px solid #FFC53A;
   padding-left: 10px;
