@@ -16,7 +16,7 @@
 }
 
 .callout[data-callout="nota-principal"] .callout-title::before {
-  content: "ðŸŒŸ";
+  content: "✨";
   margin-right: 8px;
 }
 
@@ -68,7 +68,7 @@
 }
 
 .callout[data-callout="notasrelacionadas"] .callout-title::before {
-  content: "ðŸ“Ž";
+  content: "📎";
   margin-right: 8px;
 }
 
