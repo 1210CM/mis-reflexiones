@@ -16,7 +16,7 @@
 }
 
 .callout[data-callout="nota-principal"] .callout-title::before {
-  content: "🌟";
+  content: "ðŸŒŸ";
   margin-right: 8px;
 }
 
@@ -68,7 +68,7 @@
 }
 
 .callout[data-callout="notasrelacionadas"] .callout-title::before {
-  content: "📎";
+  content: "ðŸ“Ž";
   margin-right: 8px;
 }
 
@@ -138,7 +138,7 @@
 }
 
 
-/* ====== PIE DE PÁGINA SIMPLE ====== */
+/* ====== PIE DE PÃGINA SIMPLE ====== */
 .pie-simple {
   font-size: 12px;
   text-align: center;
@@ -164,4 +164,65 @@
   font-size: 10px;
   color: #888;
   opacity: 0.8;
+}
+
+
+/* ====== ESTILO PARA H1 Y H2 ====== */
+/* H1 en modo oscuro */
+body.theme-dark .markdown-preview-section h1 {
+  color: #FFC53A;
+  font-style: italic;
+  border-left: 4px solid #B26700;
+  padding-left: 12px;
+  margin: 2rem 0 1rem;
+}
+
+/* H2 en modo oscuro */
+body.theme-dark .markdown-preview-section h2 {
+  color: #E06D06;
+  font-style: italic;
+  border-left: 4px solid #FFC53A;
+  padding-left: 10px;
+  margin: 1.5rem 0 0.75rem;
+}
+
+/* H1 en modo claro */
+body.theme-light .markdown-preview-section h1 {
+  color: #161032;
+  font-style: italic;
+  border-left: 4px solid #E06D06;
+  padding-left: 12px;
+  margin: 2rem 0 1rem;
+}
+
+/* H2 en modo claro */
+body.theme-light .markdown-preview-section h2 {
+  color: #E06D06;
+  font-style: italic;
+  border-left: 4px solid #FFC53A;
+  padding-left: 10px;
+  margin: 1.5rem 0 0.75rem;
+}
+
+/* ====== Corrección para emoji en callout de nota principal ====== */
+.callout[data-callout="nota-principal"] .callout-title::before {
+  content: "⭐"; /* o usa "\1F31F" si querés el código unicode */
+  margin-right: 8px;
+}
+
+/* ====== Estilo para H1 y H2 en vista previa ====== */
+.markdown-preview-view h1 {
+  color: #FFC53A;
+  font-style: italic;
+  border-left: 4px solid #B26700;
+  padding-left: 12px;
+  margin: 2rem 0 1rem;
+}
+
+.markdown-preview-view h2 {
+  color: #E06D06;
+  font-style: italic;
+  border-left: 4px solid #FFC53A;
+  padding-left: 10px;
+  margin: 1.5rem 0 0.75rem;
 }
