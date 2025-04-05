@@ -58,5 +58,21 @@ Que no cruzara nadie, ninguna personas mayor o algún niño, es sorprendente. Qu
 
 Aunque me he quedado mal, y me sigo sintiendo mal, porque soy humano y acepto mis errores y los asumo con responsabilidad desde siempre. También entiendo que Dios nos cuide a todos. Este accidente quedará como una anécdota sólo gracias al poder de Jehová que no permitió que sucediera nada más grave  [Salmo 46:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/46#v=19:46:8)
 
-## [[Claudio Machado/Experiencias & Reflexiones/Reparando la camioneta\|Reparando la camioneta]]
 
+
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/Experiencias & Reflexiones/Reparando la camioneta\|Reparando la camioneta]]
+> - [[Claudio Machado/Experiencias & Reflexiones/La camioneta - Cómo nueva otra vez\|La camioneta - Cómo nueva otra vez]]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]]
+
+
+<div class="pie-simple">
+  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomendaciones/">Recomendaciones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
+  <br><br>
+  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
+</div>
