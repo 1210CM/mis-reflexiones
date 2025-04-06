@@ -14,7 +14,7 @@ Con un salón hermoso , luciendo las nuevas pantallas tuvo más concurrencias de
 
 ![20250406_concurrencia_conferencia-especial.jpg](/img/user/Personal/Im%C3%A1genes/20250406_concurrencia_conferencia-especial.jpg) 
 
-Luego la conducción de la Atalaya a cargo de Roberto Aguirre y la lectura Alejandro Ferreira.
+Luego la conducción de la Basado en el artículo de estudio de la [Atalaya Enero 2025](https://wol.jw.org/es/wol/d/r4/lp-s/2025244) a cargo de Roberto Aguirre y la lectura Alejandro Ferreira.
 
 
 > [!notasrelacionadas] Notas relacionadas
