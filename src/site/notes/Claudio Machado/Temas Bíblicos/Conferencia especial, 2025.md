@@ -3,7 +3,8 @@
 ---
 
 
-[[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
+# [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
+
 El orador fue Daniel da Silva.
 El domingo 6 de abril 2025.
 
@@ -14,12 +15,12 @@ Con un salón hermoso , luciendo las nuevas pantallas tuvo más concurrencias de
 ![20250406_concurrencia_conferencia-especial.jpg](/img/user/Personal/Im%C3%A1genes/20250406_concurrencia_conferencia-especial.jpg) 
 
 Luego la conducción de la Atalaya a cargo de Roberto Aguirre y la lectura Alejandro Ferreira.
-[[Claudio Machado/Temas Bíblicos/Cómo nos beneficia el amor de Jehová\|Cómo nos beneficia el amor de Jehová]]
+
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[nota 1\|nota 1]]
-> - [[nota 2\|nota 2]]
-> - [[nota 3\|nota 3]]
+> - [[Claudio Machado/Temas Bíblicos/Cómo nos beneficia el amor de Jehová\|Cómo nos beneficia el amor de Jehová]]
+> - [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
+> - [[Claudio Machado/Temas Bíblicos/Cómo demostrar agradecimiento por el sacrificio de Jesús\|Cómo demostrar agradecimiento por el sacrificio de Jesús]]
 
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
