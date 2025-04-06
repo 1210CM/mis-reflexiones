@@ -12,7 +12,7 @@
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Cómo nos beneficia el amor de Jehová\|Cómo nos beneficia el amor de Jehová]]
 > - [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
-> - [[Personal/Libros temas bíblicos/¡Disfrute de la vida para siempre! Curso interactivo de la Bibli/Disfrute de la vida/La muerte de Jesús puede beneficiar a todo el mundo\|La muerte de Jesús puede beneficiar a todo el mundo]]
+> - [[Claudio Machado/Temas Bíblicos/La muerte de Jesús nos libera del pecado y la muerte\|La muerte de Jesús nos libera del pecado y la muerte]]
 
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
