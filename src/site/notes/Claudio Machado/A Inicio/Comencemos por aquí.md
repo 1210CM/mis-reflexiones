@@ -62,7 +62,7 @@ crecen a su ritmo.</p>
 - [[Claudio Machado/Brodcasting & vídeos/Principial Brodcasting & Video\|Principial Brodcasting & Video]]
 - [[Claudio Machado/Experiencias & Reflexiones/Experiencias & Reflexiones\|Experiencias & Reflexiones]]
 - [[Claudio Machado/Familia & Amigos/Familia & Amigos\|Familia & Amigos]]
-- [[Claudio Machado/Recomendaciones/Recomendaciones\|Claudio Machado/Recomendaciones/Recomendaciones]]
+- [[Claudio Machado/Recomendaciones/Recomiendo\|Recomiendo]]
 - [[Claudio Machado/Temas Bíblicos/Temas Bíblicos\|Temas Bíblicos]]
 
 ---
@@ -89,7 +89,7 @@ crecen a su ritmo.</p>
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomendaciones/">Recomendaciones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomiendo/">Recomiendo</a> •
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
   <br><br>
   <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
