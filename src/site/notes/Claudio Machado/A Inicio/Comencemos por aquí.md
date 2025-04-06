@@ -7,7 +7,7 @@
 
 >[!nota-principal]  [[Claudio Machado/Temas Bíblicos/Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay\|Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay]]
 >
->![edificio-betel-argentina.jpg](/img/user/Claudio%20Machado/img/destacadas/edificio-betel-argentina.jpg)
+>![edificio-betel-argentina.jpg](/img/user/Personal/Im%C3%A1genes/edificio-betel-argentina.jpg)
 >Un informe especial sobre el adelanto de la obra en Argentina y Uruguay en los últimos meses.
 
 ---
@@ -62,7 +62,7 @@ crecen a su ritmo.</p>
 - [[Claudio Machado/Brodcasting & vídeos/Principial Brodcasting & Video\|Principial Brodcasting & Video]]
 - [[Claudio Machado/Experiencias & Reflexiones/Experiencias & Reflexiones\|Experiencias & Reflexiones]]
 - [[Claudio Machado/Familia & Amigos/Familia & Amigos\|Familia & Amigos]]
-- [[Claudio Machado/Recomendaciones/Recomendaciones\|Recomendaciones]]
+- [[Claudio Machado/Recomendaciones/Recomendaciones\|Claudio Machado/Recomendaciones/Recomendaciones]]
 - [[Claudio Machado/Temas Bíblicos/Temas Bíblicos\|Temas Bíblicos]]
 
 ---
