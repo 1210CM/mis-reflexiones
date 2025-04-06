@@ -5,10 +5,11 @@
 
 # 🌐 Llegaste a "Mis Notas Personales" 
 
->[!nota-principal]  [[Claudio Machado/Temas Bíblicos/Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay\|Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay]]
->
->![edificio-betel-argentina.jpg](/img/user/Personal/Im%C3%A1genes/edificio-betel-argentina.jpg)
->Un informe especial sobre el adelanto de la obra en Argentina y Uruguay en los últimos meses.
+> [!nota-principal] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
+> 
+>  ![noticias-verdad-mentira.jpg](/img/user/Personal/Im%C3%A1genes/noticias-verdad-mentira.jpg)
+>  
+>  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 
 ---
 <hr>
