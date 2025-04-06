@@ -83,7 +83,7 @@ conclusiones que la vida me enseñó</p>
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomendaciones/">Recomendaciones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomiendo/recomendaciones/">Recomiendo</a> •
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
   <br><br>
   <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
