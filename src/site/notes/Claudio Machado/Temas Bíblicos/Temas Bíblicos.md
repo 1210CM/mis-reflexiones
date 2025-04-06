@@ -3,11 +3,11 @@
 ---
 
 
-> [!nota-principal] [[Claudio Machado/Temas Bíblicos/Rémi Pringle - Serás como un árbol grande\|Rémi Pringle - Serás como un árbol grande]]
+> [!nota-principal] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > 
->  ![remi-pringle-representante-regional 1.jpg](/img/user/Personal/Im%C3%A1genes/remi-pringle-representante-regional%201.jpg)
+>  ![noticias-verdad-mentira.jpg](/img/user/Personal/Im%C3%A1genes/noticias-verdad-mentira.jpg)
 >  
->  Discurso especial del siervo de Zona transmisión en directo desde Ezeiza 
+>  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 ---
 <div class="bienvenida">
 <p>Sección dedicada a temas de estudio bíblicos <br>con algunas conferencia destacadas </p>
@@ -113,12 +113,11 @@
 > 
 > Cómo la organización de Dios ayuda en situaciones difíciles cómo los desastres 
 
-> [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay\|Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay]]
+>[!nota-destacada] [[Claudio Machado/Temas Bíblicos/Rémi Pringle - Serás como un árbol grande\|Rémi Pringle - Serás como un árbol grande]]
 > 
-> ![Personal/Imágenes/edificio-betel-argentina.jpg](/img/user/Personal/Im%C3%A1genes/edificio-betel-argentina.jpg)
-> 
-> La obra en Uruguay y Argentina está teniendo mucho crecimiento y con el crecimiento hay más proyectos y más trabajo que hacer 
-
+>  ![remi-pringle-representante-regional 1.jpg](/img/user/Personal/Im%C3%A1genes/remi-pringle-representante-regional%201.jpg)
+>  
+>  Discurso especial del siervo de Zona transmisión en directo desde Ezeiza 
 
 
 ---
