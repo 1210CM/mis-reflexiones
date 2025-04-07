@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/claudio-machado/a-inicio/mis-apuntes/"}
 ---
 
-# Mis Apuntes 
 
 ![foto-mis-apuntes.png](/img/user/Personal/Im%C3%A1genes/foto-mis-apuntes.png) 
 ## Breve historia 
