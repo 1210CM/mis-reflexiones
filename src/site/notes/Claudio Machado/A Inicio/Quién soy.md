@@ -33,4 +33,22 @@ Y una semana más tarde, del anuncio público que volví a ser Testigo, Patricia
 Hace unos días tuve una experiencia que me dejó muy apenado, tuve una distracción que pudo haber terminado muy mal y la verdad no quiero repetirla ni olvidarla por éso la escribo por aquí [[Claudio Machado/Experiencias & Reflexiones/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]] 
 
 
+
+
+
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/A Inicio/Mis Apuntes\|Mis Apuntes]]
+> - [[Claudio Machado/A Inicio/Comencemos por aquí\|Comencemos por aquí]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Mi boda\|Mi boda]]
+
+<div class="pie-simple">
+  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomiendo/">Recomiendo</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
+  <br><br>
+  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
+</div>
  
