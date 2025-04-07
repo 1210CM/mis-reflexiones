@@ -27,8 +27,6 @@ crecen a su ritmo.</p>
 </div>
 <hr>
 
----
-[[Claudio Machado/A Inicio/Comencemos por aquí\|Inicio]]
 ## ⭐ Notas destacadas
 
 
