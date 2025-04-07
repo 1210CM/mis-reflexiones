@@ -54,6 +54,7 @@ conclusiones que la vida me enseñó</p>
 - [[Claudio Machado/Experiencias & Reflexiones/Praia Sao Lourenço\|Praia Sao Lourenço]]
 - [[Claudio Machado/Experiencias & Reflexiones/Primer asignación de Patricia\|Primer asignación de Patricia]]
 - [[Claudio Machado/Experiencias & Reflexiones/Reparando la camioneta\|Reparando la camioneta]]
+- [[Claudio Machado/Experiencias & Reflexiones/Repartiendo invitaciones 2025\|Repartiendo invitaciones 2025]]
 - [[Claudio Machado/Experiencias & Reflexiones/Reunión especial visita del superintendente de zona, en Ezeiza\|Reunión especial visita del superintendente de zona, en Ezeiza]]
 - [[Claudio Machado/Experiencias & Reflexiones/Unas palabras\|Unas palabras]]
 - [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]]
