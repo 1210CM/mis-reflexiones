@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/comencemos-por-aqui/","title":"Página principal","tags":["home","inicio","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/claudio-machado/a-inicio/comencemos-por-aqui/","title":"Página principal","tags":["home","inicio","gardenEntry"]}
 ---
 
 
@@ -30,9 +30,9 @@ crecen a su ritmo.</p>
 ## ⭐ Notas destacadas
 
 
-> [!nota-destacada] ✨ [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]] 
-> ![Screenshot_20250329_093806_JWLibrary.jpg](/img/user/Claudio%20Machado/img/destacadas/Screenshot_20250329_093806_JWLibrary.jpg)
-> Buenas noticias de nuestros hermanos a través del mundo.
+> [!nota-destacada] ✨ [[Claudio Machado/Experiencias & Reflexiones/Repartiendo invitaciones 2025\|Repartiendo invitaciones 2025]] 
+> ![Invitación-memorial-2025.jpg](/img/user/Claudio%20Machado/img/destacadas/Invitaci%C3%B3n-memorial-2025.jpg)
+> Participando en la campaña mundial de invitar a Todas las personas al Memorial 
 
 >[!nota-destacada] ![remi-pringle-representante-regional.jpg](/img/user/Claudio%20Machado/img/destacadas/remi-pringle-representante-regional.jpg)
 >[[Claudio Machado/Temas Bíblicos/Rémi Pringle - Serás como un árbol grande\|Rémi Pringle - Serás como un árbol grande]]
