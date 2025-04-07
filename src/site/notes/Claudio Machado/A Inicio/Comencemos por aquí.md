@@ -22,6 +22,8 @@ donde mis pensamientos<br>
 crecen a su ritmo.</p>
 
 <p>Te invito a leer la historia de <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/mis-apuntes/" target="_blank">Mis apuntes</a>.</p>
+<a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/mis-apuntes/" target="_blank"> <img src="https://mis-apuntes-psi.vercel.app/img/optimized/X-md_vGQfb-500.webp" alt="Mis apuntes" class="imagen-enlace">
+  </a>
 </div>
 <hr>
 
