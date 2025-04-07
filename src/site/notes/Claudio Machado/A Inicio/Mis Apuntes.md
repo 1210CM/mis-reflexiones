@@ -49,3 +49,19 @@ Claudio Machado
 2025-04-03
 
 
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/A Inicio/Quién soy\|Quién soy]]
+> - [[Claudio Machado/A Inicio/Comencemos por aquí\|Comencemos por aquí]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Mi boda\|Mi boda]]
+
+<div class="pie-simple">
+  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomiendo/">Recomiendo</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
+  <br><br>
+  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
+</div>
+
