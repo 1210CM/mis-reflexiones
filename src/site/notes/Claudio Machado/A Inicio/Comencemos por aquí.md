@@ -100,5 +100,3 @@ crecen a su ritmo.</p>
   <br><br>
   <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
 </div>
-
- [[Espacio para compartir recuerdos y reflexiones\|Espacio para compartir recuerdos y reflexiones]]
