@@ -76,21 +76,21 @@ crecen a su ritmo.</p>
 > ![1000139233 1.jpg](/img/user/Personal/Im%C3%A1genes/1000139233%201.jpg)
 > Hoy quiero destacar el momento de mi boda 
 
----
-
+<hr>
 <div class="bienvenida">
   <h3>Sobre mí</h3>
   <p>¿Querés saber quién está detrás de estas notas? Podés conocerme un poco más leyendo <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/quien-soy/">Quien soy</a>.</p>
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/quien-soy/" target="_blank"> <img src="https://mis-apuntes-psi.vercel.app/img/optimized/SwM5NH69Vp-500.webp" alt="Mis apuntes" class="imagen-enlace">
   </a>
 </div>
+</hr>
 
----
 
-
+<hr>
 <div class="avatar-bloque">
   <img src="/img/user/quien-soy.png" alt="Mi foto" class="avatar">
 </div>
+</hr>
 
 
 <div class="pie-simple">
