@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-videos/2025-informe-2-cuerpo-gobernante/","tags":["brodcasting","predicación","Consuelo"]}
 ---
 
-![Screenshot_20250329_093806_JWLibrary.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093806_JWLibrary.jpg)
+![Screenshot_20250329_093806_JWLibrary.jpg](/img/user/Claudio%20Machado/img/destacadas/Screenshot_20250329_093806_JWLibrary.jpg)
 [Ver video completo](https://www.jw.org/finder?srcid=jwlshare&wtlocale=S&lank=docid-1112024029_1_VIDEO)
 
 Comenzó dando una buena noticia, la liberación de una hermana de Eritrea que salió en libertad después de 11 años, y que está recibiendo ayuda médica y espiritual..
