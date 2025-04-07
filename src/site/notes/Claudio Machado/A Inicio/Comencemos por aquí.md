@@ -39,9 +39,9 @@ crecen a su ritmo.</p>
 >Cómo es que somos árboles plantados con un buen propósito.
 
 
-> [!nota-destacada] [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
-> ![Raúl-gladys.jpg](/img/user/Claudio%20Machado/img/destacadas/Ra%C3%BAl-gladys.jpg)
-> En casa de Javier conoci un matrimonio de Paysandú 
+> [!nota-destacada] [[Claudio Machado/Familia & Amigos/Dilan ya está en la casa\|Dilan ya está en la casa]]
+> ![20250405-Dilan-se-recupera.jpg](/img/user/Claudio%20Machado/img/destacadas/20250405-Dilan-se-recupera.jpg)
+> Tuve el inmenso privilegio de visitar a Dilan mientras se recupera 
 
 
 > [!nota-destacada] [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
@@ -101,4 +101,4 @@ crecen a su ritmo.</p>
   <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
 </div>
 
- 
+ [[Espacio para compartir recuerdos y reflexiones\|Espacio para compartir recuerdos y reflexiones]]
