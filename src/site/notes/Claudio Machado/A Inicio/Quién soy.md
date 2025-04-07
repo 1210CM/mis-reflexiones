@@ -37,7 +37,7 @@ Hace unos días tuve una experiencia que me dejó muy apenado, tuve una distracc
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[Claudio Machado/A Inicio/Mis Apuntes\|Mis Apuntes]]
+> - [[Claudio Machado/A Inicio/Mis apuntes\|Mis Apuntes]]
 > - [[Claudio Machado/A Inicio/Comencemos por aquí\|Comencemos por aquí]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Mi boda\|Mi boda]]
 
