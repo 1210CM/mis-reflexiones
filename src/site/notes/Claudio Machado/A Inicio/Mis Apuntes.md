@@ -4,7 +4,7 @@
 
 # Mis Apuntes 
 
-![file_00000000dad851f78e61b999cb6ab3bd_conversation_id=67eefd00-fe04-8005-9551-1c345b2387a8&message_id=a4f17024-2b40-435d-80f1-4a80587a4888.png](/img/user/Personal/Im%C3%A1genes/file_00000000dad851f78e61b999cb6ab3bd_conversation_id=67eefd00-fe04-8005-9551-1c345b2387a8&message_id=a4f17024-2b40-435d-80f1-4a80587a4888.png)
+![foto-mis-apuntes.png](/img/user/Personal/Im%C3%A1genes/foto-mis-apuntes.png) 
 ## Breve historia 
 Desde que empecé a estudiar en mi época escolar siempre tomaba apuntes. Era mi forma de aprender conceptos, ideas, recordar fechas, fórmulas, etc.
 
