@@ -5,7 +5,7 @@
 
 > [!nota-principal] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > 
->  ![noticias-verdad-mentira.jpg](/img/user/Personal/Im%C3%A1genes/noticias-verdad-mentira.jpg)
+>  ![noticias-verdad-mentira.jpg](/img/user/Claudio%20Machado/img/destacadas/noticias-verdad-mentira.jpg)
 >  
 >  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 ---
@@ -30,6 +30,7 @@
 - [[Claudio Machado/Temas Bíblicos/Cómo finalmente se vencerá al odio con el amor\|Cómo finalmente se vencerá al odio con el amor]]
 - [[Claudio Machado/Temas Bíblicos/Cómo nos enseña Jesús a vencer al Odio con Amor\|Cómo nos enseña Jesús a vencer al Odio con Amor]]
 - [[Claudio Machado/Temas Bíblicos/Cómo Tomar boas decisões\|Cómo Tomar boas decisões]]
+- [[Claudio Machado/Temas Bíblicos/Conferencia especial, 2025\|Conferencia especial, 2025]]
 - [[Claudio Machado/Temas Bíblicos/Cristo\|Cristo]]
 - [[Claudio Machado/Temas Bíblicos/Cuidado con los pensamientos\|Cuidado con los pensamientos]]
 - [[Claudio Machado/Temas Bíblicos/Daniel\|Daniel]]
@@ -55,6 +56,7 @@
 - [[Claudio Machado/Temas Bíblicos/Espíritu Santo\|Espíritu Santo]]
 - [[Claudio Machado/Temas Bíblicos/Espíritu Santo - La paz cómo podemos conseguirla\|Espíritu Santo - La paz cómo podemos conseguirla]]
 - [[Claudio Machado/Temas Bíblicos/Estudiar la Biblia\|Estudiar la Biblia]]
+- [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 - [[Claudio Machado/Temas Bíblicos/Eva\|Eva]]
 - [[Claudio Machado/Temas Bíblicos/Ezequiel\|Ezequiel]]
 - [[Claudio Machado/Temas Bíblicos/Fuerza\|Fuerza]]
@@ -109,13 +111,13 @@
 
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Desastres naturales - Arroja tu carga sobre Jehová\|Desastres naturales - Arroja tu carga sobre Jehová]]
-> ![Screenshot_20250329_093300_JW Library 1.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093300_JW%20Library%201.jpg) 
+> ![Personal/Imágenes/Screenshot_20250329_093300_JW Library 1.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093300_JW%20Library%201.jpg) 
 > 
 > Cómo la organización de Dios ayuda en situaciones difíciles cómo los desastres 
 
 >[!nota-destacada] [[Claudio Machado/Temas Bíblicos/Rémi Pringle - Serás como un árbol grande\|Rémi Pringle - Serás como un árbol grande]]
 > 
->  ![remi-pringle-representante-regional 1.jpg](/img/user/Personal/Im%C3%A1genes/remi-pringle-representante-regional%201.jpg)
+>  ![remi-pringle-representante-regional.jpg](/img/user/Claudio%20Machado/img/destacadas/remi-pringle-representante-regional.jpg)
 >  
 >  Discurso especial del siervo de Zona transmisión en directo desde Ezeiza 
 
