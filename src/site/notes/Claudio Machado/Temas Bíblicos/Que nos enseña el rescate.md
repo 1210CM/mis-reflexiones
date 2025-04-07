@@ -34,3 +34,20 @@ Llevemos nuestro conocimiento al siguiente nivel.
 
 Lo importante no es adquirir [[Claudio Machado/Temas Bíblicos/Conocimiento\|Conocimiento]] intelectual sinó de reflejar su [[Claudio Machado/Temas Bíblicos/Justicia\|Justicia]] y su [[Claudio Machado/Temas Bíblicos/Amor\|Amor]] 
 Y entonces ellos también nos amarán más a nosotros ([Juan 14:21](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/43/14#v=43:14:21); [Sant. 4:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/59/4#v=59:4:8))
+
+
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/Temas Bíblicos/Cómo demostró Jesús que se puede vencer al Odio\|Cómo demostró Jesús que se puede vencer al Odio]]
+> - [[Claudio Machado/Temas Bíblicos/La muerte de Jesús nos libera del pecado y la muerte\|La muerte de Jesús nos libera del pecado y la muerte]]
+> - [[Claudio Machado/Temas Bíblicos/Demostremos un espíritu de amor, poder y buen juicio\|Demostremos un espíritu de amor, poder y buen juicio]]
+
+<div class="pie-simple">
+  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomiendo/">Recomiendo</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
+  <br><br>
+  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
+</div>
