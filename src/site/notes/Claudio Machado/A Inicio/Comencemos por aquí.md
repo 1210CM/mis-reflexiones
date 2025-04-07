@@ -7,7 +7,7 @@
 
 > [!nota-principal] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > 
->  ![noticias-verdad-mentira.jpg](/img/user/Personal/Im%C3%A1genes/noticias-verdad-mentira.jpg)
+>  ![noticias-verdad-mentira.jpg](/img/user/Claudio%20Machado/img/destacadas/noticias-verdad-mentira.jpg)
 >  
 >  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 
@@ -31,27 +31,27 @@ crecen a su ritmo.</p>
 
 
 > [!nota-destacada] ✨ [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]] 
-> ![Screenshot_20250329_093806_JWLibrary.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093806_JWLibrary.jpg)
+> ![Screenshot_20250329_093806_JWLibrary.jpg](/img/user/Claudio%20Machado/img/destacadas/Screenshot_20250329_093806_JWLibrary.jpg)
 > Buenas noticias de nuestros hermanos a través del mundo.
 
->[!nota-destacada] ![Personal/Imágenes/remi-pringle-representante-regional 1.jpg](/img/user/Personal/Im%C3%A1genes/remi-pringle-representante-regional%201.jpg)
+>[!nota-destacada] ![remi-pringle-representante-regional.jpg](/img/user/Claudio%20Machado/img/destacadas/remi-pringle-representante-regional.jpg)
 >[[Claudio Machado/Temas Bíblicos/Rémi Pringle - Serás como un árbol grande\|Rémi Pringle - Serás como un árbol grande]]
 >Cómo es que somos árboles plantados con un buen propósito.
 
 
 > [!nota-destacada] [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
-> ![Personal/Imágenes/20250320_133434~2.jpg](/img/user/Personal/Im%C3%A1genes/20250320_133434~2.jpg)
+> ![Raúl-gladys.jpg](/img/user/Claudio%20Machado/img/destacadas/Ra%C3%BAl-gladys.jpg)
 > En casa de Javier conoci un matrimonio de Paysandú 
 
 
 > [!nota-destacada] [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
-> ![Screenshot_20250331_213443_Obsidian 1.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250331_213443_Obsidian%201.jpg) 
+> ![Javier-chspista.jpg](/img/user/Claudio%20Machado/img/destacadas/Javier-chspista.jpg) 
 > Si tenés que arreglar un detalle estético en tu vehículo te recomiendo a mi amigo 
 
 
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Desastres naturales - Arroja tu carga sobre Jehová\|Desastres naturales - Arroja tu carga sobre Jehová]]
-> ![Personal/Imágenes/Screenshot_20250329_093300_JW Library.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093300_JW%20Library.jpg) 
+> ![Atuda-desastres-natural.jpg](/img/user/Claudio%20Machado/img/destacadas/Atuda-desastres-natural.jpg) 
 >Como actúan nuestros hermanos cuando surgen desastres naturales 
 
 
@@ -71,7 +71,7 @@ crecen a su ritmo.</p>
 ## ⏳ Rincón del tiempo
 
 > [!nota-destacada] 💍[[Claudio Machado/Experiencias & Reflexiones/Mi boda\|Mi boda]]
-> ![1000139233 1.jpg](/img/user/Personal/Im%C3%A1genes/1000139233%201.jpg)
+> ![Mi-boda-firmando.jpg](/img/user/Claudio%20Machado/img/destacadas/Mi-boda-firmando.jpg)
 > Hoy quiero destacar el momento de mi boda 
 
 ---
