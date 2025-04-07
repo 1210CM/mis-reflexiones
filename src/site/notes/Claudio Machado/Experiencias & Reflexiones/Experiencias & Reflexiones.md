@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/","title":"Experiencias & Reflexiones","tags":["experiencia"]}
 ---
 
-> [!nota-principal] 🚘 [[Claudio Machado/Experiencias & Reflexiones/Nuestro regreso de Bombinhas\|Nuestro regreso de Bombinhas]]
-> ![20250312_093911 1.jpg](/img/user/Personal/Im%C3%A1genes/20250312_093911%201.jpg) 
-> Estoy muy agradecido por haber realizado un viaje tan maravilloso 
+> [! nota-principal] ✨ [[Claudio Machado/Experiencias & Reflexiones/Repartiendo invitaciones 2025\|Repartiendo invitaciones 2025]] 
+> ![Invitación-memorial-2025.jpg](/img/user/Claudio%20Machado/img/destacadas/Invitaci%C3%B3n-memorial-2025.jpg)
+> Participando en la campaña mundial de invitar a Todas las personas al Memorial 
 
 
 ---
