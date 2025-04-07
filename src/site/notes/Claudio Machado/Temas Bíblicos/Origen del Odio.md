@@ -8,5 +8,19 @@ En [Génesis 1:27](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/1/1#v=1:1:27) expl
 
 Y en [Juan 8:44](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/43/8#v=43:8:44)  se explica el origen del odio, asesinato, mentiras y como éso se ha extendido hasta nuestros días. Y sería mucho más notorio y evidente en nuestros días los [[Claudio Machado/Temas Bíblicos/Últimos días\|Últimos días]]  el primer ángel rebelde tuvo mucho éxito en esta rebelión 
 
-[[Claudio Machado/Temas Bíblicos/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
 
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/Temas Bíblicos/Decisiones que agraden a Jehová\|Decisiones que agraden a Jehová]]
+> - [[Claudio Machado/Temas Bíblicos/Demostramos estar a favor de las buenas nuevas\|Demostramos estar a favor de las buenas nuevas]]
+> - [[Claudio Machado/Temas Bíblicos/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
+
+<div class="pie-simple">
+  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomiendo/">Recomiendo</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
+  <br><br>
+  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
+</div>
