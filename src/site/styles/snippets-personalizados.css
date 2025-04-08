@@ -237,3 +237,25 @@ body.theme-light .markdown-preview-section h2 {
   word-break: break-word;
 }
 
+/* ====== PIE DE FOTO CON SPAN ====== */
+.pie-foto,
+img + .pie-foto {
+  display: block;
+  text-align: center;
+  font-size: 13px;
+  font-style: italic;
+  color: #ccc;
+  margin-top: 2px;
+  margin-bottom: 12px;
+  line-height: 1.2;
+}
+
+/* ====== ESTILO GENERAL PARA IMÁGENES ====== */
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 4px;
+}
