@@ -246,7 +246,7 @@ img + .pie-foto {
   font-size: 13px;
   font-style: italic;
   color: #ccc;
-  margin-top: -15px;    /* pegado a la imagen */
+  margin-top: -19px;    /* pegado a la imagen */
   margin-bottom: 4px;   /* menos espacio con el texto siguiente */
   line-height: 1.2;
 }
