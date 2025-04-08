@@ -238,7 +238,6 @@ body.theme-light .markdown-preview-section h2 {
 }
 
 /* ====== PIE DE FOTO CON SPAN ====== */
-/* ====== PIE DE FOTO AJUSTADO ====== */
 .pie-foto,
 img + .pie-foto {
   display: block;
@@ -246,14 +245,14 @@ img + .pie-foto {
   font-size: 13px;
   font-style: italic;
   color: #ccc;
-  margin-top: -19px;    /* pegado a la imagen */
-  margin-bottom: 4px;   /* menos espacio con el texto siguiente */
+  margin-top: -19px;  /* Ajuste fino para pegar a la imagen */
+  margin-bottom: 4px; /* Espacio reducido hacia el párrafo */
   line-height: 1.2;
 }
 
-/* ====== AJUSTE DEL PÁRRAFO SIGUIENTE ====== */
+/* Ajuste del margen superior del primer párrafo tras el pie de foto */
 .pie-foto + p {
-  margin-top: 8px; /* ajusta el salto del primer párrafo luego del pie */
+  margin-top: 4px !important;
 }
 
 /* ====== ESTILO GENERAL PARA IMÁGENES ====== */
