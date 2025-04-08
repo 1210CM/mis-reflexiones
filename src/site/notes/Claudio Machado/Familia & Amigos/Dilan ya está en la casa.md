@@ -6,7 +6,7 @@ Dilan Ramírez es un hermano joven de la congregación que vive una condición m
 Pero es un orgullo para la congregación, su celo por Jehová.
 
 ![Dilan-lectura.jpg](/img/user/Claudio%20Machado/img/destacadas/Dilan-lectura.jpg)
-Leyendo la Biblia para la congregación 
+<span class="pie-foto">Leyendo la Biblia para la congregación</span>
 
 Su familia está compuesta por su hermano Santiago y su papá Jorge.
 Por su condición, en su corta edad ha superado muchísimas intervenciones quirúrgicas, y hace unos días, superó una más. En la que le cortaron un hueso de la cadera que estaba muy torcido y lo pudieron dejar en el lugar, la operación fue un éxito. Los médicos respetaron su postura religiosa, el comité de enlace con hospitales coordinaron mucha ayuda. Y aunque la operación género gastos extras. Todo salió bien gracias la bendición de Jehová. Ahora el se encuentra con internación domiciliaria y hasta fin de mayo debe aguantar un incómodo yeso. 
