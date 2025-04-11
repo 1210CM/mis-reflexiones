@@ -17,4 +17,20 @@ Haciendo esto podemos alegrar y hacer sonreír a Jehová [Proverbios 27:11](http
 
 Definición bíblica del [[Claudio Machado/Temas Bíblicos/Amor\|Amor]] [1 Corintios 13:4-8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/46/13#v=46:13:4-46:13:8)
 
-[[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
+
+
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/Temas Bíblicos/Amamos porque Dios nos amo primero\|Amamos porque Dios nos amo primero]]
+> - [[Personal/Enseñanzas bíblicas/Jehová - amor\|Jehová - amor]]
+> - [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
+
+<div class="pie-simple">
+  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomiendo/">Recomiendo</a> •
+  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
+  <br><br>
+  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
+</div>
