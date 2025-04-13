@@ -63,13 +63,15 @@ conclusiones que la vida me enseñó</p>
 </details>
 
 ---
+> [! nota-destacada] [[Claudio Machado/Experiencias & Reflexiones/Congregación Solymar - Memorial 2025\|Congregación Solymar - Memorial 2025]]
+> 
+>  ![Maximiliano-Michelena-20250412.jpg](/img/user/Personal/Im%C3%A1genes/Maximiliano-Michelena-20250412.jpg)
+>  
+>  12 de Abril 2025, una ceremonia sencilla que agradecemos por el inmenso significado que tiene para nosotros individualmente 
+
 > [!nota-destacada] [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
 > ![portada-asambleaBN.jpg](/img/user/Personal/Im%C3%A1genes/portada-asambleaBN.jpg)
 > Puede que nos de temor hablar de Jehová y su propósito a otros. Éste programa nos fortalece y da confianza para hacerlo con la actitud correcta 
-
-> [!nota-destacada] [[Claudio Machado/Experiencias & Reflexiones/Ayuda para ser readmitido\|Ayuda para ser readmitido]]
-> No estaba en mis planes volver a los Testigos de Jehová. Pero entender lo que significa el amor y la misericordia de Jehová, me hizo cambiar.
-> ![1000140072.jpg](/img/user/Personal/Im%C3%A1genes/1000140072.jpg) 
 
 ## ⌛ Rincón del tiempo 
 
