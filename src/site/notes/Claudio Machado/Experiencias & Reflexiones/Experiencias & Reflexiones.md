@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/","title":"Experiencias & Reflexiones","tags":["experiencia"]}
 ---
 
-> [! nota-principal] ✨ [[Claudio Machado/Experiencias & Reflexiones/Repartiendo invitaciones 2025\|Repartiendo invitaciones 2025]] 
-> ![Invitación-memorial-2025.jpg](/img/user/Claudio%20Machado/img/destacadas/Invitaci%C3%B3n-memorial-2025.jpg)
-> Participando en la campaña mundial de invitar a Todas las personas al Memorial 
+> [!nota-destacada] ✨ [[Claudio Machado/Experiencias & Reflexiones/Repartiendo invitaciones 2025\|Repartiendo invitaciones 2025]] 
+> ![Campaña-memorial-2025.jpg](/img/user/Claudio%20Machado/img/destacadas/Campa%C3%B1a-memorial-2025.jpg)
+> Un gran acontecimiento, un gran apoyo, y se logro cubrir todo el territorio
+
 
 
 ---
