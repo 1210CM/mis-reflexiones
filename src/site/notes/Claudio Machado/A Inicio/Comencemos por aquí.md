@@ -5,11 +5,11 @@
 
 # 🌐 Llegaste a "Mis Notas Personales" 
 
-> [!nota-principal] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
+> [!nota-principal] [[Claudio Machado/Experiencias & Reflexiones/Congregación Solymar - Memorial 2025\|Congregación Solymar - Memorial 2025]]
 > 
->  ![noticias-verdad-mentira.jpg](/img/user/Claudio%20Machado/img/destacadas/noticias-verdad-mentira.jpg)
+>  ![Maximiliano-Michelena-20250412.jpg](/img/user/Personal/Im%C3%A1genes/Maximiliano-Michelena-20250412.jpg)
 >  
->  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
+>  12 de Abril 2025, una ceremonia sencilla que agradecemos por el inmenso significado que tiene para nosotros individualmente 
 
 ---
 <hr>
@@ -34,9 +34,11 @@ crecen a su ritmo.</p>
 > ![Campaña-memorial-2025.jpg](/img/user/Claudio%20Machado/img/destacadas/Campa%C3%B1a-memorial-2025.jpg)
 > Un gran acontecimiento, un gran apoyo, y se logro cubrir todo el territorio 
 
->[!nota-destacada] ![remi-pringle-representante-regional.jpg](/img/user/Claudio%20Machado/img/destacadas/remi-pringle-representante-regional.jpg)
->[[Claudio Machado/Temas Bíblicos/Rémi Pringle - Serás como un árbol grande\|Rémi Pringle - Serás como un árbol grande]]
->Cómo es que somos árboles plantados con un buen propósito.
+> [! nota-destacada] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
+> 
+>  ![noticias-verdad-mentira.jpg](/img/user/Claudio%20Machado/img/destacadas/noticias-verdad-mentira.jpg)
+>  
+>  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 
 
 > [!nota-destacada] [[Claudio Machado/Familia & Amigos/Dilan ya está en la casa\|Dilan ya está en la casa]]
