@@ -9,6 +9,7 @@ La campaña fue un éxito, y se logro cubrir todo el territorio de nuestra congr
   <source src="https://1210cm.github.io/Media-imagen-video/videos/destacados/VID-20250414-WA0000.mp4" type="video/mp4">
   Tu navegador no soporta el video.
 </video>
+
 <span class=pie-foto> Video creación de la congregación</span>
 
 El 12 de abril del 2025 se corresponde al 14 de Nisan en el calendario Judío. Y es una fecha significativa para los cristianos. Pues es el día de la Pascua Judía, en el que Jesús celebró lo que se conoce como la última cena, con sus apóstoles fieles. Y la biblia registra que Jesús dijo sigan hacia esto en memoria de mi [1 COR. 11:23, 24](https://wol.jw.org/es/wol/bc/r4/lp-s/2013926/0/0)
