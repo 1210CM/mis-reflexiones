@@ -5,12 +5,13 @@
 ![IMG-20250412-WA0004.jpg](/img/user/Personal/Im%C3%A1genes/IMG-20250412-WA0004.jpg)
 La campaña fue un éxito, y se logro cubrir todo el territorio de nuestra congregación, participó toda la congregación, más 38 hermanos que dedicaron más tiempo de lo habitual, para invitar a más personas al Memorial, todos nos sumamos a 26 hermanos que ya  dedican más tiempo cómo precursores regulares, y a dos más especiales.
 
-<video controls width="100%">
-  <source src="https://1210cm.github.io/Media-imagen-video/videos/destacados/VID-20250414-WA0000.mp4" type="video/mp4">
-  Tu navegador no soporta el video.
-</video>
-
-<span class=pie-foto> Video creación de la congregación</span>
+<div class="bloque-video">
+  <video controls>
+    <source src="https://1210cm.github.io/Media-imagen-video/videos/destacados/VID-20250414-WA0000.mp4" type="video/mp4">
+    Tu navegador no soporta el video.
+  </video>
+  <span class="pie-foto">Video creación de la congregación</span>
+</div>
 
 El 12 de abril del 2025 se corresponde al 14 de Nisan en el calendario Judío. Y es una fecha significativa para los cristianos. Pues es el día de la Pascua Judía, en el que Jesús celebró lo que se conoce como la última cena, con sus apóstoles fieles. Y la biblia registra que Jesús dijo sigan hacia esto en memoria de mi [1 COR. 11:23, 24](https://wol.jw.org/es/wol/bc/r4/lp-s/2013926/0/0)
 
