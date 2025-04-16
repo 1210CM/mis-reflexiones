@@ -120,6 +120,88 @@
   color: #B26700;
 }
 
+/*.  Bloque estilo para videos y pié de foto */
+.bloque-video {
+  margin-bottom: 24px;
+}
+
+.bloque-video video {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.bloque-video .pie-foto {
+  display: block;
+  margin-top: 6px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: 13px;
+  font-style: italic;
+  color: #ccc;
+  line-height: 1.4;
+}
+
+/* estilos para vídeos de YouTube */
+
+.bloque-youtube {
+  position: relative;
+  width: 100%;
+  padding-bottom: 177.78%; /* para shorts (9:16). Para videos horizontales usar 56.25% (16:9) */
+  height: 0;
+  margin-bottom: 24px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.bloque-youtube iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.bloque-youtube .pie-foto {
+  display: block;
+  margin-top: 6px;
+  text-align: center;
+  font-size: 13px;
+  font-style: italic;
+  color: #ccc;
+}
+
+/* Galería de imágenes */
+.galeria-imagenes {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.galeria-imagenes img {
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;  /* fuerza formato cuadrado */
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.galeria-imagenes img:hover {
+  transform: scale(1.03);
+}
+
+.pie-galeria {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 14px;
+  font-style: italic;
+  color: #FFC53A;
+}
+
 
 /* ====== AVATAR ====== */
 .avatar-bloque {
@@ -255,6 +337,16 @@ img + .pie-foto {
   margin-top: 4px !important;
 }
 
+/* pie de galería */
+.pie-galeria {
+  display: block;
+  margin-top: 10px;
+  font-size: 14px;
+  font-style: italic;
+  text-align: center;
+  color: #FFC53A; /* dorado suave */
+}
+
 /* ====== ESTILO GENERAL PARA IMÁGENES ====== */
 img {
   display: block;
@@ -263,4 +355,11 @@ img {
   height: auto;
   border-radius: 8px;
   margin-bottom: 4px;
+}
+
+/* estilo span para template meditación*/
+.destacar {
+  font-weight: bold;
+  font-style: italic;
+  color: #FFC53A; /* o el dorado que usás */
 }
