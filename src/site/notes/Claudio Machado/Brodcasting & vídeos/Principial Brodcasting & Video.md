@@ -3,9 +3,9 @@
 ---
 
 
-> [!nota-principal] [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]] 
-> ![Screenshot_20250329_093806_JWLibrary.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093806_JWLibrary.jpg)  
->  Nuestros hermanos nos traen buenas noticias de Eritrea y mucho estímulo
+> [!nota-principal] [[Claudio Machado/Brodcasting & vídeos/El aguante de Job\|El aguante de Job]] 
+> ![Mark-Noumair.jpg](/img/user/03%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mark-Noumair.jpg)  
+>  Lo que sucedió con Job, nos da confianza en el poder de Jehová y los límites de Satanás 
 
 
 
