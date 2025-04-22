@@ -37,6 +37,7 @@
 - [[Claudio Machado/Temas Bíblicos/Daniel\|Daniel]]
 - [[Claudio Machado/Temas Bíblicos/Dar gloria\|Dar gloria]]
 - [[Claudio Machado/Temas Bíblicos/David\|David]]
+- [[Claudio Machado/Temas Bíblicos/Daniel tomaba buenas decisiones\|Daniel tomaba buenas decisiones]]
 - [[Claudio Machado/Temas Bíblicos/De las normas morales de Dios\|De las normas morales de Dios]]
 - [[Claudio Machado/Temas Bíblicos/De los representantes de Dios\|De los representantes de Dios]]
 - [[Claudio Machado/Temas Bíblicos/Decisiones cotidianas\|Decisiones cotidianas]]
