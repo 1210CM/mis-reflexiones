@@ -11,7 +11,7 @@
 
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Aguante\|Aguante]]
-> - [[Nuestro aguante es diferente\|Nuestro aguante es diferente]]
+> - [[Claudio Machado/Temas Bíblicos/Nuestro aguante es diferente\|Nuestro aguante es diferente]]
 > - [[01 - Notas en desarrollo/El aguante de Job\|El aguante de Job]]
 
 <div class="pie-simple">
