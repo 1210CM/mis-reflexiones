@@ -10,8 +10,8 @@ En el sitio https://JW.org encontraremos muchas experiencias reales en la secci�
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[01 - Notas en desarrollo/Aguantar y llevar fruto\|Aguantar y llevar fruto]]
-> - [[Nuestro aguante es diferente\|Nuestro aguante es diferente]]
+> - [[Claudio Machado/Temas Bíblicos/Aguantar y llevar fruto\|Aguantar y llevar fruto]]
+> - [[Claudio Machado/Temas Bíblicos/Nuestro aguante es diferente\|Nuestro aguante es diferente]]
 > - [[Claudio Machado/Temas Bíblicos/Aguante\|Aguantar]]
 
 <div class="pie-simple">
