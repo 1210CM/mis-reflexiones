@@ -23,6 +23,7 @@ Las notas que voy tomando de los vídeos de la brodcasting</p>
 <summary>Ver todas las notas de la sección</summary>
 
 - [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
+- [[Claudio Machado/Brodcasting & vídeos/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
 - [[Claudio Machado/Brodcasting & vídeos/Dios nos llena de Energía\|Dios nos llena de Energía]]
 - [[Claudio Machado/Brodcasting & vídeos/El aguante de Job\|El aguante de Job]]
 
@@ -31,6 +32,11 @@ Las notas que voy tomando de los vídeos de la brodcasting</p>
 
 ---
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Dios nos llena de Energía\|Dios nos llena de Energía]]
+
+>[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
+>![Baruc-cosas_grandes-JW.jpeg](/img/user/Personal/Im%C3%A1genes/Baruc-cosas_grandes-JW.jpeg)
+> Jehová siempre sabe lo que pensamos y lo que sentimos, por eso siempre nos aconseja para nuestro beneficio.
+
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
