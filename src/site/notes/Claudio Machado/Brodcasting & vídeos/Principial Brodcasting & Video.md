@@ -24,12 +24,13 @@ Las notas que voy tomando de los vídeos de la brodcasting</p>
 
 - [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
 - [[Claudio Machado/Brodcasting & vídeos/Dios nos llena de Energía\|Dios nos llena de Energía]]
+- [[Claudio Machado/Brodcasting & vídeos/El aguante de Job\|El aguante de Job]]
 
 
 </details>
 
 ---
-
+>[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Dios nos llena de Energía\|Dios nos llena de Energía]]
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
   <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
