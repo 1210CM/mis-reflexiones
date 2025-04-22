@@ -43,7 +43,7 @@ crecen a su ritmo.</p>
 
 
 > [!nota-destacada] [[Claudio Machado/Familia & Amigos/Dilan ya está en la casa\|Dilan ya está en la casa]]
-> ![[20250405-Dilan-se-recupera.jpg\|20250405-Dilan-se-recupera.jpg]]
+> ![](https://raw.githubusercontent.com/1210CM/mis-reflexiones/refs/heads/main/src/site/img/user/Claudio%20Machado/img/destacadas/20250405-Dilan-se-recupera.jpg)
 > Tuve el inmenso privilegio de visitar a Dilan mientras se recupera 
 
 
