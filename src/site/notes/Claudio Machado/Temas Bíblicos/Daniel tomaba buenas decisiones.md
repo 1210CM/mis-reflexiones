@@ -5,6 +5,8 @@
 Daniel se enfrentó a muchas dificultades solo, pero oraba mucho, estudiaba las Escrituras y tenía madurez espiritual. 
 - **Referencias**: [Daniel 5:11,12](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/27/5#v=27:5:11-27:5:12)
 
+[Ver video](https://www.jw.org/es/biblioteca/videos/#es/mediaitems/VODPgmEvtMorningWorship/pub-jwbvod25_8_VIDEO)
+
 
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Discernimiento\|Discernimiento]]
