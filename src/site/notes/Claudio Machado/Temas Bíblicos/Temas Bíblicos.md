@@ -23,6 +23,7 @@
 - [[Claudio Machado/Temas Bíblicos/Abraham\|Abraham]]
 - [[Claudio Machado/Temas Bíblicos/Adán\|Adán]]
 - [[Claudio Machado/Temas Bíblicos/Aguantar y llevar fruto\|Aguantar y llevar fruto]]
+- [[Claudio Machado/Temas Bíblicos/Alejemos la mirada de lo que es inútil\|Alejemos la mirada de lo que es inútil]]
 - [[Claudio Machado/Temas Bíblicos/Amor de Cristo\|Amor de Cristo]]
 - [[Claudio Machado/Temas Bíblicos/Amamos porque Dios nos amo primero\|Amamos porque Dios nos amo primero]]
 - [[Claudio Machado/Temas Bíblicos/Ana\|Ana]]
@@ -118,10 +119,10 @@
 > La muerte de Jesús no fue una muerte más, tiene un gran valor y este artículo nos explica cuál es.
 
 
-> [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Desastres naturales - Arroja tu carga sobre Jehová\|Desastres naturales - Arroja tu carga sobre Jehová]]
-> ![Personal/Imágenes/Screenshot_20250329_093300_JW Library 1.jpg](/img/user/Personal/Im%C3%A1genes/Screenshot_20250329_093300_JW%20Library%201.jpg) 
+> [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Alejemos la mirada de lo que es inútil\|Alejemos la mirada de lo que es inútil]]
+> ![Jw-jesus-rechaza-tentaciones.jpeg](/img/user/Personal/Im%C3%A1genes/Jw-jesus-rechaza-tentaciones.jpeg) 
 > 
-> Cómo la organización de Dios ayuda en situaciones difíciles cómo los desastres 
+> Donde tenemos la mirada es hacia donde vamos, por eso debemos evitar ver lo malo 
 
 >[!nota-destacada] [[Claudio Machado/Temas Bíblicos/Rémi Pringle - Serás como un árbol grande\|Rémi Pringle - Serás como un árbol grande]]
 > 
