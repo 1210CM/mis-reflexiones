@@ -29,6 +29,9 @@ crecen a su ritmo.</p>
 
 ## ⭐ Notas destacadas
 
+>[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
+>![Baruc-cosas_grandes-JW.jpeg](/img/user/Personal/Im%C3%A1genes/Baruc-cosas_grandes-JW.jpeg)
+> Jehová siempre sabe lo que pensamos y lo que sentimos, por eso siempre nos aconseja para nuestro beneficio
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Alejemos la mirada de lo que es inútil\|Alejemos la mirada de lo que es inútil]]
 > ![Jw-jesus-rechaza-tentaciones.jpeg](/img/user/Personal/Im%C3%A1genes/Jw-jesus-rechaza-tentaciones.jpeg) 
@@ -50,7 +53,6 @@ crecen a su ritmo.</p>
 > [!nota-destacada] [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
 > ![Javier-chspista.jpg](/img/user/03%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Javier-chspista.jpg) 
 > Si tenés que arreglar un detalle estético en tu vehículo te recomiendo a mi amigo 
-
 
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Desastres naturales - Arroja tu carga sobre Jehová\|Desastres naturales - Arroja tu carga sobre Jehová]]
