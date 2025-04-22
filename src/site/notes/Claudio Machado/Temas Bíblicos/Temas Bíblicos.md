@@ -67,6 +67,7 @@
 - [[Claudio Machado/Temas Bíblicos/Importancia de distinguir la verdad\|Importancia de distinguir la verdad]]
 - [[Claudio Machado/Temas Bíblicos/Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay\|Informe Juan Giovanelli Obra del reino entre Argentina y Uruguay]]
 - [[Claudio Machado/Temas Bíblicos/Jehová\|Jehová]]
+- [[Claudio Machado/Temas Bíblicos/Jehová contesta las oraciones\|Jehová contesta las oraciones]]
 - [[Claudio Machado/Temas Bíblicos/Jehová Todopoderoso\|Jehová Todopoderoso]]
 - [[Claudio Machado/Temas Bíblicos/Jesucristo\|Jesucristo]]
 - [[Claudio Machado/Temas Bíblicos/Jesús\|Jesús]]
