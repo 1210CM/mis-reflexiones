@@ -5,7 +5,7 @@
 
 > [!nota-principal] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > 
->  ![noticias-verdad-mentira.jpg](/img/user/Claudio%20Machado/img/destacadas/noticias-verdad-mentira.jpg)
+>  ![noticias-verdad-mentira.jpg](/img/user/03%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/noticias-verdad-mentira.jpg)
 >  
 >  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 ---
@@ -87,6 +87,7 @@
 - [[Claudio Machado/Temas Bíblicos/Por qué no hay que presumir\|Por qué no hay que presumir]]
 - [[Claudio Machado/Temas Bíblicos/Porque no nos avergonzamos de las buenas nuevas\|Porque no nos avergonzamos de las buenas nuevas]]
 - [[Claudio Machado/Temas Bíblicos/Presuma de Jehová\|Presuma de Jehová]]
+- [[Claudio Machado/Temas Bíblicos/Principios para decidir\|Principios para decidir]]
 - [[Claudio Machado/Temas Bíblicos/Profetas\|Profetas]]
 - [[Claudio Machado/Temas Bíblicos/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
 - [[Claudio Machado/Temas Bíblicos/Que nos enseña el rescate\|Que nos enseña el rescate]]
@@ -119,7 +120,7 @@
 
 >[!nota-destacada] [[Claudio Machado/Temas Bíblicos/Rémi Pringle - Serás como un árbol grande\|Rémi Pringle - Serás como un árbol grande]]
 > 
->  ![remi-pringle-representante-regional.jpg](/img/user/Claudio%20Machado/img/destacadas/remi-pringle-representante-regional.jpg)
+>  ![remi-pringle-representante-regional.jpg](/img/user/03%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/remi-pringle-representante-regional.jpg)
 >  
 >  Discurso especial del siervo de Zona transmisión en directo desde Ezeiza 
 
