@@ -15,7 +15,7 @@ Ahora entendemos mejor el pasaje de [Romanos 15:4](https://wol.jw.org/es/wol/b/r
 
 Tenemos la certeza qué no seremos probado más allá de lo que podemos soportar, porque Jehová tiene todo el poder y Satanás no puede hacer nada al respecto. [1 Corintios 10:13](https://wol.jw.org/es/wol/bc/r4/lp-s/2005408/10/0)
 
-> [! nota-destacada]+ Fracasos de Satanás 
+> [!nota-destacada]+ Fracasos de Satanás 
 > - 2 querubines y no se llegó al árbol de la vida 
 > - Satanás no evitó que se eliminarán los Nefilim la sociedad humana de Satanás 
 > - no pudo quebrantar la integridad de Job
