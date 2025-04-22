@@ -61,6 +61,7 @@
 - [[Claudio Machado/Temas Bíblicos/Espíritu Santo\|Espíritu Santo]]
 - [[Claudio Machado/Temas Bíblicos/Espíritu Santo - La paz cómo podemos conseguirla\|Espíritu Santo - La paz cómo podemos conseguirla]]
 - [[Claudio Machado/Temas Bíblicos/Estudiar la Biblia\|Estudiar la Biblia]]
+- [[Claudio Machado/Temas Bíblicos/Estudiar la biblia, fortalece nuestra fe\|Estudiar la biblia, fortalece nuestra fe]]
 - [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 - [[Claudio Machado/Temas Bíblicos/Eva\|Eva]]
 - [[Claudio Machado/Temas Bíblicos/Ezequiel\|Ezequiel]]
