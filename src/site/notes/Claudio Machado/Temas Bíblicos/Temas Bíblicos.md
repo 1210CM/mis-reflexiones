@@ -85,6 +85,7 @@
 - [[Claudio Machado/Temas Bíblicos/Noe\|Noe]]
 - [[Claudio Machado/Temas Bíblicos/Nosotros también podemos vencer al Odio con amor\|Nosotros también podemos vencer al Odio con amor]]
 - [[Claudio Machado/Temas Bíblicos/Noviazgo\|Noviazgo]]
+- [[Claudio Machado/Temas Bíblicos/Nuestro aguante es diferente\|Nuestro aguante es diferente]]
 - [[Claudio Machado/Temas Bíblicos/Onesiforo\|Onesiforo]]
 - [[Claudio Machado/Temas Bíblicos/Origen del Odio\|Origen del Odio]]
 - [[Claudio Machado/Temas Bíblicos/Pablo\|Pablo]]
