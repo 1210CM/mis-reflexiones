@@ -24,6 +24,7 @@ Las notas que voy tomando de los vídeos de la brodcasting</p>
 
 - [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
 - [[Claudio Machado/Brodcasting & vídeos/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
+- [[Claudio Machado/Brodcasting & vídeos/Busquemos el reconocimiento de Jehová\|Busquemos el reconocimiento de Jehová]]
 - [[Claudio Machado/Brodcasting & vídeos/Dios nos llena de Energía\|Dios nos llena de Energía]]
 - [[Claudio Machado/Brodcasting & vídeos/El aguante de Job\|El aguante de Job]]
 
@@ -31,6 +32,10 @@ Las notas que voy tomando de los vídeos de la brodcasting</p>
 </details>
 
 ---
+>[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Busquemos el reconocimiento de Jehová\|Busquemos el reconocimiento de Jehová]]
+>![Cuando_hay_un_hijo_enfermo.jpg](/img/user/Personal/Im%C3%A1genes/Cuando_hay_un_hijo_enfermo.jpg)
+>La felicidad proviene de Jehová, no del reconocimiento de otras personas 
+
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Dios nos llena de Energía\|Dios nos llena de Energía]]
 
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
