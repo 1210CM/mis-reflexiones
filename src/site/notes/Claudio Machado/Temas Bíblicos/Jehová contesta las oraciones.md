@@ -13,7 +13,7 @@ Y Jehová nos contesta de diferentes maneras
 
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Ejemplos modernos de aguante\|Ejemplos modernos de aguante]]
-> - [[Nuestro aguante es diferente\|Nuestro aguante es diferente]]
+> - [[Claudio Machado/Temas Bíblicos/Nuestro aguante es diferente\|Nuestro aguante es diferente]]
 > - [[Claudio Machado/Temas Bíblicos/Aguantar y llevar fruto\|Aguantar y llevar fruto]]
 
 <div class="pie-simple">
