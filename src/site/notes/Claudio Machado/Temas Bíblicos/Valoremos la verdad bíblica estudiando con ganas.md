@@ -17,7 +17,7 @@ Demostramos que Valoramos la palabra de Dios cuando estudiamos con ganas profund
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Estudiar la biblia, fortalece nuestra fe\|Estudiar la biblia, fortalece nuestra fe]]
 > - [[00 - Notas Nuevas/Estudiar nos ayuda a tomar decisiones\|Estudiar nos ayuda a tomar decisiones]]
-> - [[nota 3\|nota 3]]
+
 
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
