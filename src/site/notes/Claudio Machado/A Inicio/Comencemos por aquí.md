@@ -67,7 +67,7 @@ crecen a su ritmo.</p>
 - [[Claudio Machado/Experiencias & Reflexiones/Experiencias & Reflexiones\|Experiencias & Reflexiones]]
 - [[Claudio Machado/Familia & Amigos/Familia & Amigos\|Familia & Amigos]]
 - [[Claudio Machado/Recomendaciones/Recomiendo\|Recomiendo]]
-- [[Claudio Machado/Temas Bíblicos/Temas Bíblicos\|Claudio Machado/Temas Bíblicos/Temas Bíblicos]]
+- [[Claudio Machado/Temas Bíblicos/Temas Bíblicos\|Temas Bíblicos]]
 
 ---
 
