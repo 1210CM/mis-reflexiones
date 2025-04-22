@@ -35,7 +35,7 @@ crecen a su ritmo.</p>
 > 
 > Donde tenemos la mirada es hacia donde vamos, por eso debemos evitar ver lo malo 
 
-> [! nota-destacada] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
+> [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > 
 >  ![noticias-verdad-mentira.jpg](/img/user/03%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/noticias-verdad-mentira.jpg)
 >  
