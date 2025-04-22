@@ -52,6 +52,7 @@
 - [[Claudio Machado/Temas Bíblicos/Dios promete librar del odio\|Dios promete librar del odio]]
 - [[Claudio Machado/Temas Bíblicos/Dios quiere Ayudarnos\|Dios quiere Ayudarnos]]
 - [[Claudio Machado/Temas Bíblicos/Ejemplos de siervos fortalecidos por Jehová\|Ejemplos de siervos fortalecidos por Jehová]]
+- [[Claudio Machado/Temas Bíblicos/Ejemplos modernos de aguante\|Ejemplos modernos de aguante]]
 - [[Claudio Machado/Temas Bíblicos/El amor es\|El amor es]]
 - [[Claudio Machado/Temas Bíblicos/El amor no es\|El amor no es]]
 - [[Claudio Machado/Temas Bíblicos/El temor de Jehová\|El temor de Jehová]]
