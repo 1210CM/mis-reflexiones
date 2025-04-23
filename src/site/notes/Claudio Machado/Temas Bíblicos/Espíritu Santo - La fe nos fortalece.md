@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/espiritu-santo-la-fe-nos-fortalece/","title":"<% tp.file.title %>","tags":["Fe","EspirituSanto"]}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/espiritu-santo-la-fe-nos-fortalece/","title":"Espíritu Santo - La fe nos fortalece","tags":["Fe","EspirituSanto"]}
 ---
 
 
