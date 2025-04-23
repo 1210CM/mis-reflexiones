@@ -29,6 +29,7 @@
 - [[Claudio Machado/Temas Bíblicos/Ana\|Ana]]
 - [[Claudio Machado/Temas Bíblicos/Aplastar la cabeza\|Aplastar la cabeza]]
 - [[Claudio Machado/Temas Bíblicos/Baal\|Baal]]
+- [[Claudio Machado/Temas Bíblicos/Baruc\|Baruc]]
 - [[Claudio Machado/Temas Bíblicos/Buenas decisiones\|Buenas decisiones]]
 - [[Claudio Machado/Temas Bíblicos/Cómo demostró Jesús que se puede vencer al Odio\|Cómo demostró Jesús que se puede vencer al Odio]]
 - [[Claudio Machado/Temas Bíblicos/Cómo finalmente se vencerá al odio con el amor\|Cómo finalmente se vencerá al odio con el amor]]
