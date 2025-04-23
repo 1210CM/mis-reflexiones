@@ -73,6 +73,7 @@
 - [[Claudio Machado/Temas Bíblicos/Jehová\|Jehová]]
 - [[Claudio Machado/Temas Bíblicos/Jehová contesta las oraciones\|Jehová contesta las oraciones]]
 - [[Claudio Machado/Temas Bíblicos/Jehová Todopoderoso\|Jehová Todopoderoso]]
+- [[Claudio Machado/Temas Bíblicos/Jeremías\|Jeremías]]
 - [[Claudio Machado/Temas Bíblicos/Jesucristo\|Jesucristo]]
 - [[Claudio Machado/Temas Bíblicos/Jesús\|Jesús]]
 - [[Claudio Machado/Temas Bíblicos/Job\|Job]]
@@ -107,6 +108,7 @@
 - [[Claudio Machado/Temas Bíblicos/Saúl\|Saúl]]
 - [[Claudio Machado/Temas Bíblicos/Seamos trabajadores que no tenemos de que avergonzamos\|Seamos trabajadores que no tenemos de que avergonzamos]]
 - [[Claudio Machado/Temas Bíblicos/Seguír en el amor\|Seguír en el amor]] 
+- [[Claudio Machado/Temas Bíblicos/Templo\|Templo]]
 - [[Claudio Machado/Temas Bíblicos/Textos bíblicos para consolar\|Textos bíblicos para consolar]]
 - [[Claudio Machado/Temas Bíblicos/Tomar Decisiones correctas\|Tomar Decisiones correctas]]
 - [[Claudio Machado/Temas Bíblicos/Y Si me doy cuenta que Estoy haciendo algo mal\|Y Si me doy cuenta que Estoy haciendo algo mal]]
@@ -117,13 +119,13 @@
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Que nos enseña el rescate\|Que nos enseña el rescate]]
 > 
-> ![rescate-adan-jesus 1.jpg](/img/user/07%20-%20Archivo%20Personal/Im%C3%A1genes/rescate-adan-jesus%201.jpg) 
+> ![rescate-adan-jesus 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/rescate-adan-jesus%201.jpg) 
 > 
 > La muerte de Jesús no fue una muerte más, tiene un gran valor y este artículo nos explica cuál es.
 
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Alejemos la mirada de lo que es inútil\|Alejemos la mirada de lo que es inútil]]
-> ![Jw-jesus-rechaza-tentaciones.jpeg](/img/user/07%20-%20Archivo%20Personal/Im%C3%A1genes/Jw-jesus-rechaza-tentaciones.jpeg) 
+> ![Jw-jesus-rechaza-tentaciones.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Jw-jesus-rechaza-tentaciones.jpeg) 
 > 
 > Donde tenemos la mirada es hacia donde vamos, por eso debemos evitar ver lo malo 
 
