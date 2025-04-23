@@ -5,7 +5,7 @@
 
 > [!nota-principal] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > 
->  ![noticias-verdad-mentira.jpg](/img/user/03%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/noticias-verdad-mentira.jpg)
+>  ![noticias-verdad-mentira.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/noticias-verdad-mentira.jpg)
 >  
 >  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 ---
@@ -28,6 +28,7 @@
 - [[Claudio Machado/Temas Bíblicos/Amamos porque Dios nos amo primero\|Amamos porque Dios nos amo primero]]
 - [[Claudio Machado/Temas Bíblicos/Ana\|Ana]]
 - [[Claudio Machado/Temas Bíblicos/Aplastar la cabeza\|Aplastar la cabeza]]
+- [[Claudio Machado/Temas Bíblicos/Baal\|Baal]]
 - [[Claudio Machado/Temas Bíblicos/Buenas decisiones\|Buenas decisiones]]
 - [[Claudio Machado/Temas Bíblicos/Cómo demostró Jesús que se puede vencer al Odio\|Cómo demostró Jesús que se puede vencer al Odio]]
 - [[Claudio Machado/Temas Bíblicos/Cómo finalmente se vencerá al odio con el amor\|Cómo finalmente se vencerá al odio con el amor]]
@@ -61,7 +62,6 @@
 - [[Claudio Machado/Temas Bíblicos/Espíritu Santo\|Espíritu Santo]]
 - [[Claudio Machado/Temas Bíblicos/Espíritu Santo - La paz cómo podemos conseguirla\|Espíritu Santo - La paz cómo podemos conseguirla]]
 - [[Claudio Machado/Temas Bíblicos/Estudiar la Biblia\|Estudiar la Biblia]]
-- [[Claudio Machado/Temas Bíblicos/Estudiar la biblia, fortalece nuestra fe\|Estudiar la biblia, fortalece nuestra fe]]
 - [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 - [[Claudio Machado/Temas Bíblicos/Eva\|Eva]]
 - [[Claudio Machado/Temas Bíblicos/Ezequiel\|Ezequiel]]
@@ -115,19 +115,19 @@
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Que nos enseña el rescate\|Que nos enseña el rescate]]
 > 
-> ![rescate-adan-jesus 1.jpg](/img/user/Personal/Im%C3%A1genes/rescate-adan-jesus%201.jpg) 
+> ![rescate-adan-jesus 1.jpg](/img/user/07%20-%20Archivo%20Personal/Im%C3%A1genes/rescate-adan-jesus%201.jpg) 
 > 
 > La muerte de Jesús no fue una muerte más, tiene un gran valor y este artículo nos explica cuál es.
 
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Alejemos la mirada de lo que es inútil\|Alejemos la mirada de lo que es inútil]]
-> ![Jw-jesus-rechaza-tentaciones.jpeg](/img/user/Personal/Im%C3%A1genes/Jw-jesus-rechaza-tentaciones.jpeg) 
+> ![Jw-jesus-rechaza-tentaciones.jpeg](/img/user/07%20-%20Archivo%20Personal/Im%C3%A1genes/Jw-jesus-rechaza-tentaciones.jpeg) 
 > 
 > Donde tenemos la mirada es hacia donde vamos, por eso debemos evitar ver lo malo 
 
 >[!nota-destacada] [[Claudio Machado/Temas Bíblicos/Rémi Pringle - Serás como un árbol grande\|Rémi Pringle - Serás como un árbol grande]]
 > 
->  ![remi-pringle-representante-regional.jpg](/img/user/03%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/remi-pringle-representante-regional.jpg)
+>  ![remi-pringle-representante-regional.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/remi-pringle-representante-regional.jpg)
 >  
 >  Discurso especial del siervo de Zona transmisión en directo desde Ezeiza 
 
