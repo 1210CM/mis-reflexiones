@@ -36,6 +36,7 @@
 - [[Claudio Machado/Temas Bíblicos/Cómo nos enseña Jesús a vencer al Odio con Amor\|Cómo nos enseña Jesús a vencer al Odio con Amor]]
 - [[Claudio Machado/Temas Bíblicos/Cómo Tomar boas decisões\|Cómo Tomar boas decisões]]
 - [[Claudio Machado/Temas Bíblicos/Conferencia especial, 2025\|Conferencia especial, 2025]]
+- [[Claudio Machado/Temas Bíblicos/Corazon\|Corazon]]
 - [[Claudio Machado/Temas Bíblicos/Cristo\|Cristo]]
 - [[Claudio Machado/Temas Bíblicos/Cuidado con los pensamientos\|Cuidado con los pensamientos]]
 - [[Claudio Machado/Temas Bíblicos/Daniel\|Daniel]]
