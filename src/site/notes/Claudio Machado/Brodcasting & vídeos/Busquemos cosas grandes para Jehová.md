@@ -27,7 +27,7 @@ Claro Baruc también se deprimia y se sentía cansado [Jeremías 45:2,3](https:/
 
 Y con nosotros es igual, Jehová sabe cómo nos sentimos y también sabe lo que pensamos. Cómo nos sentimos, con nuestro ministerio, por eso Jehová nos recuerda que todo lo que éste mundo ofrece es pasajero. Y Jehová quiere que tanto nosotros como las demás personas se salven. Por éso debemos buscar cosas grandes para Jehová no para nosotros.
 
-![Baruc-cosas_grandes-JW.jpeg](/img/user/Personal/Im%C3%A1genes/Baruc-cosas_grandes-JW.jpeg)
+![Baruc-cosas_grandes-JW.jpeg](/img/user/07%20-%20Archivo%20Personal/Im%C3%A1genes/Baruc-cosas_grandes-JW.jpeg)
 <span class="pie-foto"> Imagen de JW - Baruc pensando en cosas grandes</span>
 
 En nuestro caso vivimos en un mundo donde cuesta trabajo mantener el equilibrio, entre las cosas que necesitamos, dinero, educación, trabajo. Pero recordemos que Jehová sabe lo que necesitamos. Muchas experiencias de hermanos que buscaron, cosas grandes para si mismos, como buenos trabajos, estudios académicos, con el objetivo de tener más dinero o mejor posición. No les fue bien 
