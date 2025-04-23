@@ -4,7 +4,7 @@
 
 
 > [!nota-principal] [[Claudio Machado/Brodcasting & vídeos/El aguante de Job\|El aguante de Job]] 
-> ![Mark-Noumair.jpg](/img/user/03%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mark-Noumair.jpg)  
+> ![Mark-Noumair.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mark-Noumair.jpg)  
 >  Lo que sucedió con Job, nos da confianza en el poder de Jehová y los límites de Satanás 
 
 
@@ -33,13 +33,13 @@ Las notas que voy tomando de los vídeos de la brodcasting</p>
 
 ---
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Busquemos el reconocimiento de Jehová\|Busquemos el reconocimiento de Jehová]]
->![Cuando_hay_un_hijo_enfermo.jpg](/img/user/Personal/Im%C3%A1genes/Cuando_hay_un_hijo_enfermo.jpg)
+>![Cuando_hay_un_hijo_enfermo.jpg](/img/user/07%20-%20Archivo%20Personal/Im%C3%A1genes/Cuando_hay_un_hijo_enfermo.jpg)
 >La felicidad proviene de Jehová, no del reconocimiento de otras personas 
 
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Dios nos llena de Energía\|Dios nos llena de Energía]]
 
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeos/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
->![Baruc-cosas_grandes-JW.jpeg](/img/user/Personal/Im%C3%A1genes/Baruc-cosas_grandes-JW.jpeg)
+>![Baruc-cosas_grandes-JW.jpeg](/img/user/07%20-%20Archivo%20Personal/Im%C3%A1genes/Baruc-cosas_grandes-JW.jpeg)
 > Jehová siempre sabe lo que pensamos y lo que sentimos, por eso siempre nos aconseja para nuestro beneficio.
 
 <div class="pie-simple">
