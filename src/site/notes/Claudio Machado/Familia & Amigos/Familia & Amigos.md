@@ -23,7 +23,7 @@
 > ![20250309_192349 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250309_192349%201.jpg)
 > Conocimos la congregación en nuestro viaje a Bombinhas 2025
 
-> [! nota-destacada] [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
+> [!nota-destacada] [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
 > ![20250320_133434~2 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250320_133434~2%201.jpg)
 > Hermanos que conocí cuando visitaron a Javi 
 
