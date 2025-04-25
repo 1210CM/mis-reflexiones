@@ -4,7 +4,7 @@
 
 
 
-## No nos avergonzamos de las Buenas nuevas 
+## Asamblea - No nos avergonzamos de las Buenas nuevas 
 
 
 [Romanos 1:16](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/45/1#v=45:1:16)
