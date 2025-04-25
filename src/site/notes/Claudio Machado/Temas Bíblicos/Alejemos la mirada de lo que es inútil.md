@@ -36,7 +36,7 @@ Consejo en [Efesios 5:3,4](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/49/5#v=49:
 
 El mundo bombardea a adultos y a los jóvenes por eso debemos cuidarnos y cuidar a otros 
 
-![Jw-jesus-rechaza-tentaciones.jpeg](/img/user/Personal/Im%C3%A1genes/Jw-jesus-rechaza-tentaciones.jpeg)
+![Jw-jesus-rechaza-tentaciones.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Jw-jesus-rechaza-tentaciones.jpeg)
 <span class="pie-foto"> Imagen de JW.org</span>
 Jesús tambien tuvo su tentaciones 
 [Mateo 4:8-10](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/40/4#v=40:4:8-40:4:10) el objetivo del enemigo lograr un acto de adoración. Actitud de Jesús, vete Satanás!!
