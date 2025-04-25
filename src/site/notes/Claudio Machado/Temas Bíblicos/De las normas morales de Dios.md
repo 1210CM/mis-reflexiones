@@ -5,7 +5,7 @@
 [[Claudio Machado/Temas Bíblicos/Normas\|Normas]]
 
 
-![20250322_141050.jpg](/img/user/Personal/Im%C3%A1genes/20250322_141050.jpg)
+![20250322_141050.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250322_141050.jpg)
 Guillermo Lovato 
 
 [Hebreos 10:39](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/58/10#v=58:10:39) nosotros vamos por un carril diferente a los que transita el mundo 
