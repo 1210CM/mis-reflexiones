@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/no-nos-avergonzamos-de-las-buenas-nuevas/","tags":["asamblea","predicación","predicar"]}
 ---
 
-# Asamblea de Circuito - No nos avergonzamos de las Buenas nuevas 
+## No nos avergonzamos de las Buenas nuevas 
+
 
 [Romanos 1:16](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/45/1#v=45:1:16)
 
@@ -11,6 +12,7 @@ El Hno: Ángel Calabro*** esposa Gisell
 
 ***Superintendente del circuito:
 El Hno: Ariel Ponce***
+
 
 ![portada-asambleaBN.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/portada-asambleaBN.jpg)
 <span class="pie-foto">Presidente: Martín Casal </span>
