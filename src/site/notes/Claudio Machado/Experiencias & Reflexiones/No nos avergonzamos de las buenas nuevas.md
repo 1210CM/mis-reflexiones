@@ -35,7 +35,7 @@ Palabras claves
 
 Programa de la tarde 
 
-![[IMG-20250322-WA0003 2.jpg\|IMG-20250322-WA0003 2.jpg]]
+![IMG-20250322-WA0003.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG-20250322-WA0003.jpg)
 <span class="pie-foto">Presidente Roberto Aguirre</spam>
 
 [[Claudio Machado/Temas Bíblicos/No nos avergonzamos\|No nos avergonzamos]]
