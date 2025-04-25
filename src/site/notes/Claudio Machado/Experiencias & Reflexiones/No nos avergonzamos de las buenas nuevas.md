@@ -48,9 +48,9 @@ Programa de la tarde
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[nota 1\|nota 1]]
-> - [[nota 2\|nota 2]]
-> - [[nota 3\|nota 3]]
+> - [[Claudio Machado/Temas Bíblicos/Presuma de Jehová\|Presuma de Jehová]]
+> - [[Claudio Machado/Temas Bíblicos/Seamos trabajadores que no tenemos de que avergonzamos\|Seamos trabajadores que no tenemos de que avergonzamos]]
+> - [[Claudio Machado/Temas Bíblicos/De las normas morales de Dios\|De las normas morales de Dios]]
 
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
