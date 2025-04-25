@@ -4,7 +4,7 @@
 
 [[Claudio Machado/Temas Bíblicos/Reino de Dios\|Reino de Dios]]
 
-![20250322_142516.jpg](/img/user/Personal/Im%C3%A1genes/20250322_142516.jpg)
+![20250322_142516.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250322_142516.jpg)
 Francisco Silva 
 
 Muchos oran sobre el Reino de Dios Pero ni saben lo que es 
