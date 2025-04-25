@@ -4,7 +4,7 @@
 
 ***Representante de Sucursal: Ángel Calabro***
 
-![20250322_095951.jpg](/img/user/Personal/Im%C3%A1genes/20250322_095951.jpg)  
+![20250322_095951.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250322_095951.jpg) 
 
 >[[Claudio Machado/Temas Bíblicos/Pablo\|Pablo]] escribió en [Romanos 1:16](https://wol.jw.org/es/wol/bc/r4/lp-s/1990004/0/0) que no nos avergonzamos de las [[Claudio Machado/Temas Bíblicos/Buenas nuevas\|Buenas nuevas]] 
 
@@ -17,7 +17,7 @@ En nuestros días la mayoría de la gente considera un absurdo nuestro mensaje, 
 
 El motivo por el que Pablo no se avergonzó [Romanos 11:13](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/45/11#v=45:11:13) era un honor para par el, y estaba orgulloso y ponía todo el empeño en eso en predicar las buenas nuevas 
 
-![6.jpeg](/img/user/Personal/Im%C3%A1genes/6.jpeg)
+![6.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/6.jpeg)
 
 - Estás Buenas noticias se nos confiaron a nosotros para proclamar con la ayuda y [[Claudio Machado/Temas Bíblicos/Poder\|Poder]] de [[Claudio Machado/Temas Bíblicos/Dios\|Dios]] [2 Timoteo 1:8](https://wol.jw.org/es/wol/bc/r4/lp-s/1990004/10/0) 
 
