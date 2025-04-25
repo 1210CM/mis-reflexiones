@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/familia-and-amigos/raul-y-nancy-hermanos-de-paysandu/","tags":["Amigos","Hermanos"]}
 ---
 
-![Raúl-gladys.jpg](/img/user/Claudio%20Machado/img/destacadas/Ra%C3%BAl-gladys.jpg) 
+![Raúl-gladys.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Ra%C3%BAl-gladys.jpg) 
 
 Vinieron desde Paysandú, en su camioneta y están de paso en lo de Javier. Ellos estan viajando rumbo a Colombia, y van a dejar la camioneta en su casa. 
 
