@@ -5,7 +5,7 @@
 #  DISCURSO DE BAUTISMO Sigamos siendo “sumisos a las buenas noticias”
 ([2 Corintios 9:13;](https://wol.jw.org/es/wol/bc/r4/lp-s/1102024195/9/0) [1 Timoteo 4:12-16;](https://wol.jw.org/es/wol/bc/r4/lp-s/1102024195/9/1) [Hebreos 13:17](https://wol.jw.org/es/wol/bc/r4/lp-s/1102024195/9/2))
 
-![20240907_113511.jpg](/img/user/Personal/Im%C3%A1genes/20240907_113511.jpg)
+![20240907_113511.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20240907_113511.jpg)
 
 Ser sumisos 
 - [2 Corintios 9:13](https://wol.jw.org/es/wol/bc/r4/lp-s/1102024195/9/0) (dar glória a Dios siendo sumisos a las buenas noticias )
@@ -33,7 +33,7 @@ Consejo de Pablo [1 Timoteo 4:12-16](https://wol.jw.org/es/wol/bc/r4/lp-s/110202
 - me pongo metas y le pido ayuda para alcanzarla o servir de mejor forma. Me hago disponible para que Jehová me use donde haga falta 
 
 Dos entrevistas 
-![20240907_115702.jpg](/img/user/Personal/Im%C3%A1genes/20240907_115702.jpg)
+![20240907_115702.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20240907_115702.jpg)
 Jesús Baison 
 Fue precursor
 Ministerial
@@ -61,9 +61,9 @@ Ser sumisos a las buenas noticias nos ayudará a recibir sus bendiciones por la 
 
 
 [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
-![20250322_113009.jpg](/img/user/Personal/Im%C3%A1genes/20250322_113009.jpg)
+![20250322_113009.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250322_113009.jpg)
 Daniel Silva 2025-03-22 discurso de bautismo 
 
-![entrevista-Qintana-veronica-foliadoso.jpg](/img/user/Personal/Im%C3%A1genes/entrevista-Qintana-veronica-foliadoso.jpg) 
+
 Entrevista Alexis Quintana 
 Giovanna Foliadoso (Hija de Gastón )
