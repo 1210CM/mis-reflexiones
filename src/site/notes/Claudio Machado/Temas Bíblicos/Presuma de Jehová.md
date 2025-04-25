@@ -4,7 +4,7 @@
 
 [[Claudio Machado/Temas Bíblicos/Presumir\|Presumir]]
 
-![20250322_095951.jpg](/img/user/Personal/Im%C3%A1genes/20250322_095951.jpg) 
+![20250322_095951.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250322_095951.jpg) 
 
 Hay mucha gente creé en fantasía, mi tío es Superman (el niño tenía como tío al actor que hizo de Superman) 
 
