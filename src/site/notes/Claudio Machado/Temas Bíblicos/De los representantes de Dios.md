@@ -6,7 +6,7 @@
 [[Claudio Machado/Temas Bíblicos/Esclavo fiel\|Esclavo fiel]]
 [[Claudio Machado/Temas Bíblicos/Representante\|Representante]]
 
-![20250322_143841.jpg](/img/user/Personal/Im%C3%A1genes/20250322_143841.jpg)
+![20250322_143841.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250322_143841.jpg)
 Sergio Acosta 
 
 [Efesios 4:11,12](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/49/4#v=49:4:11-49:4:12) hombres que llevan las cosas a su lugar 
