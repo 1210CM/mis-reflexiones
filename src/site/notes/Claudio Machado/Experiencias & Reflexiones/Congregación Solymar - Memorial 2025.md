@@ -4,7 +4,7 @@
 
 El 12 de abril de 2025 se conmemora un nuevo aniversario de la muerte de Jesús y en ésta oportunidad el hermano que tuvo el privilegio y la responsabilidad de brindarnos el discurso fue Maximiliano Michelena.
 
-![Maximiliano-Michelena-20250412.jpg](/img/user/Personal/Im%C3%A1genes/Maximiliano-Michelena-20250412.jpg)
+![Maximiliano-Michelena-20250412.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Maximiliano-Michelena-20250412.jpg)
 
 ## Gracias!!
 
@@ -16,7 +16,7 @@ Y por eso ramo gracias!!
 
 Luego se realizó la ceremonia se pasó el pan, y la oración la hizo Roberto Aguirre, después el vino, la oración la hizo Pablo Varzi. Y finalmente terminó su discurso con un fuerte aplauso de todos los asistentes, que fueron muchos ya que lucho aceptaron la incorporación y vinieron, también muchos que están un poco alejados pero que a esta reunión vinieron.
 Finalmente el hermano Gabriel Cuello que presidió la reunión, leyó un anuncio final y con ello concluyó la sencilla Pero muy importante reunión 
-![Gabriel-Cuello-20250412.jpg](/img/user/Personal/Im%C3%A1genes/Gabriel-Cuello-20250412.jpg)
+![Gabriel-Cuello-20250412.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Gabriel-Cuello-20250412.jpg)
 
 
 
