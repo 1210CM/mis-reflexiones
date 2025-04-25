@@ -5,7 +5,7 @@
 21 Agosto 2017
 
 En Registro Civil Ciudad de la Costa 
-![Mi-boda-firmando.jpg](/img/user/Claudio%20Machado/img/destacadas/Mi-boda-firmando.jpg) 
+![Mi-boda-firmando.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mi-boda-firmando.jpg) 
 
 Se nos ve felices verdad?. Llevábamos poco tiempo de conocernos menos de dos años, y veníamos de un matrimonio anterior cada uno. 
 Durante ese tiempo que nos conocíamos hablamos de muchos temas, [[Claudio Machado/Temas Bíblicos/Política\|Política]], [[Claudio Machado/Temas Bíblicos/Religión\|Religión]], [[Claudio Machado/Temas Bíblicos/Familia\|Familia]], [[Claudio Machado/Temas Bíblicos/Dinero\|Dinero]], etc.
@@ -18,11 +18,11 @@ Sin embargo con el tiempo, ella comprendió un poco mejor mi forma de pensar y m
 
 Así que organizamos todo de una forma muy sencilla y discreta, en nuestra boda, no hubo casi invitados porque por mi lado no tenía amigos en ese momento, sólo Dos compañeros de trabajo que fueron mis testigos. 
 
-![IMG_20170821_101632041.jpg](/img/user/Personal/Im%C3%A1genes/IMG_20170821_101632041.jpg)
+![IMG_20170821_101632041.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG_20170821_101632041.jpg)
 Nosotros con Gabriel,  Pablo y las hijas de ambos.
 
 Y por lado de ella si vinieron algunas personas más, sus testigos, amigas de la infancia y un par de invitados más.
-![IMG-20170825-WA0052.jpg](/img/user/Personal/Im%C3%A1genes/IMG-20170825-WA0052.jpg)
+![IMG-20170825-WA0052.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG-20170825-WA0052.jpg)
 Patricia con Patricia y Mariana 
 
 Fue un momento muy especial para mí, sentí que daba el primer paso para enderezar mi vida nuevamente y con una persona increíble, por su mansedumbre, tranquilidad y humildad, cualidades que nunca logré desarrollar muy bien. Y que gracias a su ejemplo estoy cultivando cada vez mejor hasta el día de hoy.
