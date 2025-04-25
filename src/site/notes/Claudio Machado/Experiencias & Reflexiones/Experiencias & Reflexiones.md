@@ -66,7 +66,7 @@ conclusiones que la vida me enseñó</p>
 </details>
 
 ---
-> [! nota-destacada] [[Claudio Machado/Experiencias & Reflexiones/Congregación Solymar - Memorial 2025\|Congregación Solymar - Memorial 2025]]
+> [!nota-destacada] [[Claudio Machado/Experiencias & Reflexiones/Congregación Solymar - Memorial 2025\|Congregación Solymar - Memorial 2025]]
 > 
 >  ![Maximiliano-Michelena-20250412.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Maximiliano-Michelena-20250412.jpg)
 >  
