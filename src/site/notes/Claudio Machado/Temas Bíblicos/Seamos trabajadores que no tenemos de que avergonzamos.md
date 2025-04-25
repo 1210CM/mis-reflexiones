@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/seamos-trabajadores-que-no-tenemos-de-que-avergonzamos/","tags":["asamblea","predicación","predicar"]}
 ---
 
-![20250322_103127.jpg](/img/user/Personal/Im%C3%A1genes/20250322_103127.jpg)
 
 El pueblo de si está feliz y desea hablar de él, cómo dos enamorados que parece que se aceptan mutuamente 
 
