@@ -12,8 +12,8 @@ El Hno: Ángel Calabro*** esposa Gisell
 ***Superintendente del circuito:
 El Hno: Ariel Ponce***
 
-Presidente: Martín Casal 
-![20250322_105307.jpg](/img/user/Personal/Im%C3%A1genes/20250322_105307.jpg) 
+![portada-asambleaBN.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/portada-asambleaBN.jpg)
+<span class="pie-foto">Presidente: Martín Casal </span>
 
 [[Claudio Machado/Experiencias & Reflexiones/Primer asignación de Patricia\|Primer asignación de Patricia]] 
 
@@ -35,8 +35,8 @@ Palabras claves
 
 Programa de la tarde 
 
-![20250322_134254.jpg](/img/user/Personal/Im%C3%A1genes/20250322_134254.jpg)
-Presidente Roberto Aguirre 
+![[IMG-20250322-WA0003 2.jpg\|IMG-20250322-WA0003 2.jpg]]
+<span class="pie-foto">Presidente Roberto Aguirre</spam>
 
 [[Claudio Machado/Temas Bíblicos/No nos avergonzamos\|No nos avergonzamos]]
 
