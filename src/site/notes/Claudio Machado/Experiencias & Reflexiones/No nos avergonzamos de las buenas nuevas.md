@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/no-nos-avergonzamos-de-las-buenas-nuevas/","tags":["asamblea","predicación","predicar"]}
 ---
 
+
 ## No nos avergonzamos de las Buenas nuevas 
 
 
