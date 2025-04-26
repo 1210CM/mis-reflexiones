@@ -36,9 +36,9 @@ Postal de Liberia congregación de Robersport
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[nota 1\|nota 1]]
-> - [[nota 2\|nota 2]]
-> - [[nota 3\|nota 3]]
+> - [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
+> - [[Claudio Machado/Brodcasting & vídeo/Busquemos el reconocimiento de Jehová\|Busquemos el reconocimiento de Jehová]]
+> - [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]]
 
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
