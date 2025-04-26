@@ -20,9 +20,9 @@ Podremos ofrecernos como voluntario para servir donde haya necesidad, podemos ha
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[nota 1\|nota 1]]
-> - [[nota 2\|nota 2]]
-> - [[nota 3\|nota 3]]
+> - [[Claudio Machado/Brodcasting & vídeo/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
+> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
+> - [[Claudio Machado/Brodcasting & vídeo/Dios nos llena de Energía\|Dios nos llena de Energía]]
 
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
