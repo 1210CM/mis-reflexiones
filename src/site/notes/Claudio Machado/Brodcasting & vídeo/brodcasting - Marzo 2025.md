@@ -14,17 +14,17 @@ Poner a Jehová en primer lugar nos ayuda en la vida
 
 24:20
 
-## [[00 - Notas Nuevas/Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida\|Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida]]
+## [[Claudio Machado/Brodcasting & vídeo/Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida\|Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida]]
 
 29:50
-## [[00 - Notas Nuevas/Misioneros - hasta la parte más lejana de la tierra\|Misioneros - hasta la parte más lejana de la tierra]]
+## [[Claudio Machado/Brodcasting & vídeo/Misioneros - hasta la parte más lejana de la tierra\|Misioneros - hasta la parte más lejana de la tierra]]
 
 36:20
-## [[07 - Personal/Archivo/Cómo trabajar en equipo para mantener un matrimonio feliz\|Cómo trabajar en equipo para mantener un matrimonio feliz]]
+## [[Claudio Machado/Brodcasting & vídeo/Cómo trabajar en equipo para mantener un matrimonio feliz\|Cómo trabajar en equipo para mantener un matrimonio feliz]]
 
 41:35 
 
-## [[00 - Notas Nuevas/No seamos un obstáculo en la adoración a Jehová\|No seamos un obstáculo en la adoración a Jehová]] 
+## [[Claudio Machado/Brodcasting & vídeo/No seamos un obstáculo en la adoración a Jehová\|No seamos un obstáculo en la adoración a Jehová]] 
 
 51:52
 
