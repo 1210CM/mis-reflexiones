@@ -13,15 +13,15 @@ Javier me pregunto "Porque no usaste el seguro?".
 ## Fue tan simple la reparación 
 Aquí les muestro en detalle con lo que se encontró Javier al empezar el desarme, mucho de la estructura de la camioneta se torció.
 
-![Desarme del guardabarros izquierdo.jpg](/img/user/Personal/Im%C3%A1genes/Desarme%20del%20guardabarros%20izquierdo.jpg)
+![Desarme del guardabarros izquierdo.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Desarme%20del%20guardabarros%20izquierdo.jpg)
 
-![Tirante donde se fijan las ópticas torcido.jpg](/img/user/Personal/Im%C3%A1genes/Tirante%20donde%20se%20fijan%20las%20%C3%B3pticas%20torcido.jpg)
+![Tirante donde se fijan las ópticas torcido.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Tirante%20donde%20se%20fijan%20las%20%C3%B3pticas%20torcido.jpg)
 
-![Detalles de más soportes torcidos por el golpe.jpg](/img/user/Personal/Im%C3%A1genes/Detalles%20de%20m%C3%A1s%20soportes%20torcidos%20por%20el%20golpe.jpg)
+![Detalles de más soportes torcidos por el golpe.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Detalles%20de%20m%C3%A1s%20soportes%20torcidos%20por%20el%20golpe.jpg)
 
-![Mas detalles del golpe en la estructura.jpg](/img/user/Personal/Im%C3%A1genes/Mas%20detalles%20del%20golpe%20en%20la%20estructura.jpg)
+![Mas detalles del golpe en la estructura.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Mas%20detalles%20del%20golpe%20en%20la%20estructura.jpg)
 
-![Vista-camioneta-desarmada.jpg](/img/user/Personal/Im%C3%A1genes/Vista-camioneta-desarmada.jpg)  
+![Vista-camioneta-desarmada.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Vista-camioneta-desarmada.jpg)  
 
 Las imágenes son contundentes, lo que yo creía leve, no lo fue tanto. Después de ver todo esto, Javier me explico que el trabajo está pronto en una semana y el precio, fue muy menor al que me esperaba.
 
