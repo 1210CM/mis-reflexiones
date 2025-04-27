@@ -6,13 +6,13 @@ Bajamos a la playa del mercado de Pescadores en Solymar por la tardecita a tomar
 
 Vimos un Motorhome estacionado y cómo no identificaba la matrícula, me acerque a preguntar de donde eran.
 
-![20250318_191005.jpg](/img/user/Personal/Im%C3%A1genes/20250318_191005.jpg)
+![20250318_191005.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250318_191005.jpg)
 
 Y me respondieron de Alemania, entonces quise saber más pero me encontré con la barrera del lenguaje, ellos apenas hablan español, la comunicación debía ser en Inglés o alemán.
 
 Pero gracias a que estaba con Patricia y ella que si entiende ingles, pudimos saber que estarán unos días más por aquí y ya se van para Alemania. La camioneta por barco y ellos por avión.
 
-![20250318_191023 1.jpg](/img/user/Personal/Im%C3%A1genes/20250318_191023%201.jpg)
+![20250318_191023 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250318_191023%201.jpg)
 Michael Altmann y Kerstin Altmann 
 
 Nos contaron que ella trabaja en una oficina y simplemente dejo el trabajo, pues consigue otro cuando vuelva, y el trabaja en una empresa como chófer de unas máquinas, pero que en su caso pidió licencia o permiso por 2 años, así que cuando el vuelva no tendrá problema con su trabajo.
@@ -24,4 +24,4 @@ Así que si van por esa bajada y los ven quizá puedan llevarse un buen recuerdo
 También pueden visitar si quieren conocer su aventura en profundidad 
 Su sitio web www.ourtraveltime.de y verán por todos los destinos que visitaron. 
 
-![20250318_190956.jpg](/img/user/Personal/Im%C3%A1genes/20250318_190956.jpg)
+![20250318_190956.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250318_190956.jpg)
