@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/praia-sao-lourenco/","tags":["playa","Brasil","bombinhas","viajes","automóvil"]}
 ---
 
-![20250307_playa_sao_Lorenzo.jpg](/img/user/Personal/Im%C3%A1genes/20250307_playa_sao_Lorenzo.jpg) f 
+![20250307_playa_sao_Lorenzo.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250307_playa_sao_Lorenzo.jpg) f 
 
 El primer día de nuestro [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]] comenzó a las 4 de la mañana y llegamos hasta [Sao Lourenço do Sul](https://maps.app.goo.gl/Smt5V2FgvQ9YNUKx5)
 
