@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/nuestro-regreso-de-bombinhas/","tags":["vacaciones","Brasil","automóvil","bombinhas"]}
 ---
 
-![20250312_093911.jpg](/img/user/Personal/Im%C3%A1genes/20250312_093911.jpg) 
+![20250312_093911.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250312_093911.jpg) 
 
 La realidad es que disfrutamos de un [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]] increíble.
 En todo momento sentimos la bendición y el cuidado de [[Claudio Machado/Temas Bíblicos/Jehová\|Jehová]]. Nos emocionamos con tanta belleza natural, conocimos nuevos hermanos en el [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]].
