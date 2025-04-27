@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/laguna/","tags":["viajes","Brasil","automóvil","bombinhas","playa"]}
 ---
 
-![20250308_Claudio_Patricia_Laguna.jpg](/img/user/Personal/Im%C3%A1genes/20250308_Claudio_Patricia_Laguna.jpg) 
+![20250308_Claudio_Patricia_Laguna.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250308_Claudio_Patricia_Laguna.jpg) 
 
 Después de desayunar en la Posada Mar verde, nos fuimos al segundo destino programado, que es conocer [Laguna](https://maps.app.goo.gl/C2APaqcfC6GA3S6q8), un lugar que tiene varias cosas interesantes para ver. [[Claudio Machado/Experiencias & Reflexiones/Centro histórico\|Centro histórico]], [[Claudio Machado/Experiencias & Reflexiones/Piedra do Frade\|Piedra do Frade]], [[Claudio Machado/Experiencias & Reflexiones/Praia do Farol de Santa Marta\|Praia do Farol de Santa Marta]]. 
 
