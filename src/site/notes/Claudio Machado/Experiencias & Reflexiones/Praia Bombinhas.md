@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/praia-bombinhas/","tags":["viajes","Brasil","automóvil","bombinhas","playa"]}
 ---
 
-![20250311_113415.jpg](/img/user/Personal/Im%C3%A1genes/20250311_113415.jpg)  
+![20250311_113415.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250311_113415.jpg)  
 
 Ya es el quinto día de nuestro viaje y ya pasamos una noche en Bombinhas,
 Hoy lo dedicamos a recorrer la playa, la rambla donde están los comercios y tomar un poco de sol en la playa.
