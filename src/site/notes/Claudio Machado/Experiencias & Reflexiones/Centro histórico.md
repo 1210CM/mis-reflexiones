@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/centro-historico/","tags":["viajes","Brasil","bombinhas","automóvil"]}
 ---
 
-![20250309_Claudio_Mural_Centro_Historico.jpg](/img/user/Personal/Im%C3%A1genes/20250309_Claudio_Mural_Centro_Historico.jpg) 
+![20250309_Claudio_Mural_Centro_Historico.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250309_Claudio_Mural_Centro_Historico.jpg) 
 
 Siguiendo con nuestro [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]], hoy ya estamos en el tercer día. Ayer llegamos a  [[Claudio Machado/Experiencias & Reflexiones/Laguna\|Laguna]] y hoy que el día está lindo, queremos conocer el [[Claudio Machado/Experiencias & Reflexiones/Centro histórico\|Centro histórico]], la [[Claudio Machado/Experiencias & Reflexiones/Piedra do Frade\|Piedra do Frade]] y la [[Claudio Machado/Experiencias & Reflexiones/Praia do Farol de Santa Marta\|Praia do Farol de Santa Marta]] 
 
