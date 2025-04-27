@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/praia-bombas/","tags":["viajes","automóvil","Brasil","bombinhas","playa"]}
 ---
 
-![20250310_151825.jpg](/img/user/Personal/Im%C3%A1genes/20250310_151825.jpg)  
+![20250310_151825.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250310_151825.jpg)  
 
 Llegando a Bombinhas tenemos que atravesar una ciudad y luego subir como un cerro, llegando a la cima, estaban controlando el tránsito, y a nosotros nos desviaron, porque cómo extranjeros debíamos pagar una tasa por contaminación ambiental que sólo dura 24 horas y fue de unos $300.
 
