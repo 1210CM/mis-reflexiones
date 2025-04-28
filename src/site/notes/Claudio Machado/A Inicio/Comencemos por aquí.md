@@ -31,10 +31,10 @@ crecen a su ritmo.</p>
 > - [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
 > - [[Claudio Machado/Recomendaciones/Juan Fagundez - Sanitario\|Juan Fagundez - Sanitario]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Katherine\|Katherine]]
+> - [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
 > - [[Claudio Machado/Temas Bíblicos/Propiciación\|Propiciación]]
 > - [[Claudio Machado/Temas Bíblicos/Rescate\|Rescate]]
 > - [[Claudio Machado/Temas Bíblicos/Salomón\|Salomón]]
-> - [[Claudio Machado/Temas Bíblicos/Sensatez\|Sensatez]]
 > 
 { .block-language-dataview}
 
@@ -63,10 +63,9 @@ crecen a su ritmo.</p>
 > ![Javier-chspista.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Javier-chspista.jpg) 
 > Si tenés que arreglar un detalle estético en tu vehículo te recomiendo a mi amigo 
 
-
-> [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Desastres naturales - Arroja tu carga sobre Jehová\|Desastres naturales - Arroja tu carga sobre Jehová]]
-> ![Atuda-desastres-natural.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Atuda-desastres-natural.jpg) 
->Como actúan nuestros hermanos cuando surgen desastres naturales 
+>[!nota-destacada] [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
+>![20250427_almuerzo_bienvenida_carrizo 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250427_almuerzo_bienvenida_carrizo%201.jpg)
+>Almuerzo en Jureré para darle la bienvenida al grupo 4
 
 
 ---
