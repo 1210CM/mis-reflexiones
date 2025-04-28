@@ -2,22 +2,18 @@
 {"dg-publish":true,"permalink":"/claudio-machado/familia-and-amigos/familia-and-amigos/","title":"Familia y amigos","tags":["Familia","Amigos"]}
 ---
 
-> [!nota-principal] [[00 - Notas Nuevas/Bienvenida Familia Carrizo\|Bienvenida Familia Carrizo]]
+> [!nota-principal] [[Claudio Machado/Familia & Amigos/Bienvenida Familia Carrizo\|Bienvenida Familia Carrizo]]
 > ![20250410-Juan_Mara_Carrizo.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250410-Juan_Mara_Carrizo.jpg)
 > Hermanos de tantos años volvieron a Uruguay para empezar a apoyar la congregación Solymar 
 
+---
+<div class="bienvenida">
+  <p> Es bueno recordar momentos y experiencias con amigos <br>
+  En ésta sección iré compartiendo algunos buenos momentos o situaciones que quiero recordar por la alegría o el aprendizaje que me dejaron  </p>
+</div>
 
 ---
 
----
-<details>
-<summary>Ver todas las notas de la sección</summary>
-- [[Claudio Machado/Familia & Amigos/Dilan ya está en la casa\|Dilan ya está en la casa]]
-- [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
-- [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]]
-</details>
-
----
 
 > [!nota-destacada] [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]]
 > ![20250309_192349 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250309_192349%201.jpg)
@@ -26,6 +22,14 @@
 > [!nota-destacada] [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
 > ![20250320_133434~2 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250320_133434~2%201.jpg)
 > Hermanos que conocí cuando visitaron a Javi 
+
+---
+>[!nota-destacada]- Índice: Familia & Amigos:
+> - [[Claudio Machado/Familia & Amigos/Bienvenida Familia Carrizo\|Bienvenida Familia Carrizo]]
+> - [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
+> - [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]]
+> 
+{ .block-language-dataview}
 
 ---
 
