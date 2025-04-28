@@ -8,30 +8,8 @@
 >  Lo que sucedió con Job, nos da confianza en el poder de Jehová y los límites de Satanás 
 
 
-
 ---
 
-<div class="bienvenida">
-<p>Aqui encontrarás <br>
-Las notas que voy tomando de los vídeos de la brodcasting</p>
-<p>En las notas encontraremos los enlaces a los vídeos completos </p>
-</div>
-
----
-
-<details>
-<summary>Ver todas las notas de la sección</summary>
-
-- [[Claudio Machado/Brodcasting & vídeo/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
-- [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
-- [[Claudio Machado/Brodcasting & vídeo/Busquemos el reconocimiento de Jehová\|Busquemos el reconocimiento de Jehová]]
-- [[Claudio Machado/Brodcasting & vídeo/Dios nos llena de Energía\|Dios nos llena de Energía]]
-- [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]]
-
-
-</details>
-
----
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeo/Busquemos el reconocimiento de Jehová\|Busquemos el reconocimiento de Jehová]]
 >![Cuando_hay_un_hijo_enfermo.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Cuando_hay_un_hijo_enfermo.jpg)
 >La felicidad proviene de Jehová, no del reconocimiento de otras personas 
@@ -41,6 +19,23 @@ Las notas que voy tomando de los vídeos de la brodcasting</p>
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
 >![Baruc-cosas_grandes-JW.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Baruc-cosas_grandes-JW.jpeg)
 > Jehová siempre sabe lo que pensamos y lo que sentimos, por eso siempre nos aconseja para nuestro beneficio.
+
+---
+>[!nota-destacada]- Índice: Brodcasting & Video:
+> - [[Claudio Machado/Brodcasting & vídeo/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
+> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
+> - [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
+> - [[Claudio Machado/Brodcasting & vídeo/Busquemos el reconocimiento de Jehová\|Busquemos el reconocimiento de Jehová]]
+> - [[Claudio Machado/Brodcasting & vídeo/Cómo trabajar en equipo para mantener un matrimonio feliz\|Cómo trabajar en equipo para mantener un matrimonio feliz]]
+> - [[Claudio Machado/Brodcasting & vídeo/Dios nos llena de Energía\|Dios nos llena de Energía]]
+> - [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]]
+> - [[Claudio Machado/Brodcasting & vídeo/El aire tóxico\|El aire tóxico]]
+> - [[Claudio Machado/Brodcasting & vídeo/Es esta vida todo cuanto hay\|Es esta vida todo cuanto hay]]
+> - [[Claudio Machado/Brodcasting & vídeo/Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida\|Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida]]
+> - [[Claudio Machado/Brodcasting & vídeo/Misioneros - hasta la parte más lejana de la tierra\|Misioneros - hasta la parte más lejana de la tierra]]
+> - [[Claudio Machado/Brodcasting & vídeo/No seamos un obstáculo en la adoración a Jehová\|No seamos un obstáculo en la adoración a Jehová]]
+> 
+{ .block-language-dataview}
 
 <div class="pie-simple">
   <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
