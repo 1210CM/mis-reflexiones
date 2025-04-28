@@ -2,8 +2,13 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/katherine/","title":"Katherine","tags":["Amistades"]}
 ---
 
-Katherine es una vecina joven que conocimos en el barrio, cuando vivía sola con su hijo Ian y trabajaba para salir adelante. A Patricia también le cayó muy bien, y no tardamos en hacernos disponibles para ayudarla cuando hiciera falta.
-En una época estudiar para entrar a la policía y estuve ayudando a preparar su examen de ingreso relacionado con la información que debía aprender para responder un cuestionario. Lamentablemente no pudo ingresar y aunque lo volvió a intentar en el futuro, tampoco lo consiguió.
+Katherine es una vecina joven que conocimos en el barrio, cuando vivía sola con su hijo Ian y trabajaba en un Supermercado para salir adelante. 
+
+A Patricia y a mi  nos cayó muy bien, su forma de ser y de pensar y no tardamos en hacernos disponibles para ayudarla cuando hiciera falta.
+
+Y todo comenzó hace unos años que necesitaba estudiar una documentación para entrar a la policía y la  estuve ayudando a preparar su examen de ingreso. 
+
+Lamentablemente no pudo ingresar y aunque lo volvió a intentar en el futuro, tampoco lo consiguió. 
 
 ![IMG_20191120_071551.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG_20191120_071551.jpg)
 
