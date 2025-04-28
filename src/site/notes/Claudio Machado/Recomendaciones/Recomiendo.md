@@ -17,21 +17,18 @@
 
 ---
 
-<details>
-<summary>Ver todas las notas de la sección</summary>
-
-- [[Claudio Machado/Recomendaciones/Gerardo mi amigo y vecino\|Gerardo mi amigo y vecino]]
-- [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
-
-</details>
-
-
----
-
 > [!nota-destacada] [[Claudio Machado/Recomendaciones/Gerardo mi amigo y vecino\|Gerardo mi amigo y vecino]]
 > Un pintor de confianza, responsable, y con un gran corazón 
 > 
 > ![20250128_145841.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250128_145841.jpg) 
+
+---
+
+>[!nota-destacada]- Índice: Recomiendo:
+> - [[Claudio Machado/Recomendaciones/Gerardo mi amigo y vecino\|Gerardo mi amigo y vecino]]
+> - [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
+> 
+{ .block-language-dataview}
 
 ---
 
