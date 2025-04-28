@@ -13,19 +13,19 @@
 </div>
 
 ---
-
+>[!nota-destacada] [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
+>![20250427_almuerzo_bienvenida_carrizo 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250427_almuerzo_bienvenida_carrizo%201.jpg)
+>Almuerzo en Jureré para darle la bienvenida al grupo 4
 
 > [!nota-destacada] [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]]
 > ![20250309_192349 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250309_192349%201.jpg)
 > Conocimos la congregación en nuestro viaje a Bombinhas 2025
 
-> [!nota-destacada] [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
-> ![20250320_133434~2 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250320_133434~2%201.jpg)
-> Hermanos que conocí cuando visitaron a Javi 
 
 ---
 >[!nota-destacada]- Índice: Familia & Amigos:
 > - [[Claudio Machado/Familia & Amigos/Bienvenida Familia Carrizo\|Bienvenida Familia Carrizo]]
+> - [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
 > - [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
 > - [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]]
 > 
