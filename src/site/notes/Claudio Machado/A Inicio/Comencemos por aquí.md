@@ -59,9 +59,9 @@ crecen a su ritmo.</p>
 >  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 
 
-> [!nota-destacada] [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
-> ![Javier-chspista.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Javier-chspista.jpg) 
-> Si tenés que arreglar un detalle estético en tu vehículo te recomiendo a mi amigo 
+>[!nota-destacada] [[Claudio Machado/Temas Bíblicos/Sobreviveremos los últimos dias\|Sobreviveremos los últimos dias]]
+>![IMG-guerra_Sobrevivientes.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG-guerra_Sobrevivientes.jpg)
+>Mucho se habla de un final, pero¿que dice la biblia realmente? 
 
 >[!nota-destacada] [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
 >![20250427_almuerzo_bienvenida_carrizo 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250427_almuerzo_bienvenida_carrizo%201.jpg)
