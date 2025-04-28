@@ -18,6 +18,10 @@
 >![IMG-guerra_Sobrevivientes.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG-guerra_Sobrevivientes.jpg)
 >Mucho se habla de un final, pero¿que dice la biblia realmente? 
 
+>[!nota-destacada] [[Claudio Machado/Temas Bíblicos/El perdón de Jehová -  lo que significa para usted\|El perdón de Jehová -  lo que significa para usted]]
+>![Como_perdona_jehova.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Como_perdona_jehova.jpeg)
+>Resumen estudio de Atalaya 
+
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Que nos enseña el rescate\|Que nos enseña el rescate]]
 > 
@@ -84,6 +88,7 @@
 > - [[Claudio Machado/Temas Bíblicos/Ejemplos modernos de aguante\|Ejemplos modernos de aguante]]
 > - [[Claudio Machado/Temas Bíblicos/El amor es\|El amor es]]
 > - [[Claudio Machado/Temas Bíblicos/El amor no es\|El amor no es]]
+> - [[Claudio Machado/Temas Bíblicos/El perdón de Jehová -  lo que significa para usted\|El perdón de Jehová -  lo que significa para usted]]
 > - [[Claudio Machado/Temas Bíblicos/El temor de Jehová\|El temor de Jehová]]
 > - [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > - [[Claudio Machado/Temas Bíblicos/Espíritu Santo\|Espíritu Santo]]
