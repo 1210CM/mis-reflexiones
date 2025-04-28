@@ -14,6 +14,10 @@
 </div>
 
 ---
+>[!nota-destacada] [[Claudio Machado/Temas Bíblicos/Sobreviveremos los últimos dias\|Sobreviveremos los últimos dias]]
+>![IMG-guerra_Sobrevivientes.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG-guerra_Sobrevivientes.jpg)
+>Mucho se habla de un final, pero¿que dice la biblia realmente? 
+
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Que nos enseña el rescate\|Que nos enseña el rescate]]
 > 
