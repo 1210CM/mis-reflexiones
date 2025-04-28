@@ -27,6 +27,20 @@ crecen a su ritmo.</p>
 </div>
 <hr>
 
+>[!lo-nuevo]+ Mis últimas publicaciones:
+> - [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
+> - [[Claudio Machado/Recomendaciones/Juan Fagundez - Sanitario\|Juan Fagundez - Sanitario]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Katherine\|Katherine]]
+> - [[Claudio Machado/Temas Bíblicos/Propiciación\|Propiciación]]
+> - [[Claudio Machado/Temas Bíblicos/Rescate\|Rescate]]
+> - [[Claudio Machado/Temas Bíblicos/Salomón\|Salomón]]
+> - [[Claudio Machado/Temas Bíblicos/Sensatez\|Sensatez]]
+> 
+{ .block-language-dataview}
+
+---
+
+
 ## ⭐ Notas destacadas
 
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
