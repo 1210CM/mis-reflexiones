@@ -43,6 +43,10 @@ crecen a su ritmo.</p>
 
 ## ⭐ Notas destacadas
 
+>[!nota-destacada] [[Claudio Machado/Temas Bíblicos/El perdón de Jehová -  lo que significa para usted\|El perdón de Jehová -  lo que significa para usted]]
+>![Como_perdona_jehova.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Como_perdona_jehova.jpeg)
+>Resumen estudio de Atalaya 
+
 >[!nota-destacada] [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
 >![Baruc-cosas_grandes-JW.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Baruc-cosas_grandes-JW.jpeg)
 > Jehová siempre sabe lo que pensamos y lo que sentimos, por eso siempre nos aconseja para nuestro beneficio
