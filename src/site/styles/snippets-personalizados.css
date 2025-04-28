@@ -334,3 +334,39 @@ img {
   font-style: italic;
   color: #FFC53A; /* o el dorado que usás */
 }
+
+/* lo Nuevo */
+.callout[data-callout="lo-nuevo"] {
+  border: 1px solid #FFC53A;
+  background-color: transparent;
+  border-radius: 8px;
+  padding: 12px;
+  margin: 12px 0;
+  color: #FAFF81;
+}
+
+.callout[data-callout="lo-nuevo"] .callout-title {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #FFC53A;
+  display: flex;
+  align-items: center;
+}
+
+.callout[data-callout="lo-nuevo"] .callout-title::before {
+  content: "🆕"; /* Icono de nuevo */
+  margin-right: 8px;
+}
+
+.callout[data-callout="lo-nuevo"] .callout-icon {
+  display: none;
+}
+
+.callout[data-callout="lo-nuevo"] a {
+  color: #FFC53A;
+  text-decoration: underline;
+}
+
+.callout[data-callout="lo-nuevo"] a:hover {
+  color: #B26700;
+}
