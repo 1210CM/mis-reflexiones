@@ -28,13 +28,13 @@ crecen a su ritmo.</p>
 <hr>
 
 >[!lo-nuevo]+ Mis últimas publicaciones:
-> - [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
+> - [[00 - Notas Nuevas/Jonatán\|Jonatán]]
 > - [[Claudio Machado/Recomendaciones/Juan Fagundez - Sanitario\|Juan Fagundez - Sanitario]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Katherine\|Katherine]]
+> - [[Claudio Machado/Temas Bíblicos/Jonatán es valiente y leal\|Jonatán es valiente y leal]]
 > - [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
 > - [[Claudio Machado/Temas Bíblicos/Propiciación\|Propiciación]]
 > - [[Claudio Machado/Temas Bíblicos/Rescate\|Rescate]]
-> - [[Claudio Machado/Temas Bíblicos/Salomón\|Salomón]]
 > 
 { .block-language-dataview}
 
