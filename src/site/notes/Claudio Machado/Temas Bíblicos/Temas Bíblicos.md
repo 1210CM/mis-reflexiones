@@ -109,6 +109,8 @@
 > - [[Claudio Machado/Temas Bíblicos/Jesús\|Jesús]]
 > - [[Claudio Machado/Temas Bíblicos/Jezabel\|Jezabel]]
 > - [[Claudio Machado/Temas Bíblicos/Job\|Job]]
+> - [[00 - Notas Nuevas/Jonatán\|Jonatán]]
+> - [[Claudio Machado/Temas Bíblicos/Jonatán es valiente y leal\|Jonatán es valiente y leal]]
 > - [[Claudio Machado/Temas Bíblicos/Justo por Obras o por fe\|Justo por Obras o por fe]]
 > - [[Claudio Machado/Temas Bíblicos/La herida en el talón\|La herida en el talón]]
 > - [[Claudio Machado/Temas Bíblicos/La muerte de Jesús nos libera del pecado y la muerte\|La muerte de Jesús nos libera del pecado y la muerte]]
