@@ -28,13 +28,13 @@ crecen a su ritmo.</p>
 <hr>
 
 >[!lo-nuevo]+ Mis últimas publicaciones:
-> - [[00 - Notas Nuevas/Jonatán\|Jonatán]]
+> - [[Claudio Machado/Brodcasting & vídeo/Escucha activa\|Escucha activa]]
+> - [[Claudio Machado/Temas Bíblicos/Que su lengua no destruya la paz\|Que su lengua no destruya la paz]]
 > - [[Claudio Machado/Recomendaciones/Juan Fagundez - Sanitario\|Juan Fagundez - Sanitario]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Katherine\|Katherine]]
 > - [[Claudio Machado/Temas Bíblicos/Jonatán es valiente y leal\|Jonatán es valiente y leal]]
-> - [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
-> - [[Claudio Machado/Temas Bíblicos/Propiciación\|Propiciación]]
-> - [[Claudio Machado/Temas Bíblicos/Rescate\|Rescate]]
+> - [[Claudio Machado/Temas Bíblicos/Calumnia\|Calumnia]]
+> - [[Claudio Machado/Temas Bíblicos/Jonatán\|Jonatán]]
 > 
 { .block-language-dataview}
 
@@ -77,7 +77,7 @@ crecen a su ritmo.</p>
 ## 📂 Navegando por las secciones
 
 - [[Claudio Machado/A Inicio/Comencemos por aquí\|Inicio]]
-- [[Claudio Machado/Brodcasting & vídeo/Brodcasting & Video\|Brodcasting & Video]]
+- [[Claudio Machado/Brodcasting & vídeo/index\|Brodcasting & Video]]
 - [[Claudio Machado/Experiencias & Reflexiones/Experiencias & Reflexiones\|Experiencias & Reflexiones]]
 - [[Claudio Machado/Familia & Amigos/Familia & Amigos\|Familia & Amigos]]
 - [[Claudio Machado/Recomendaciones/Recomiendo\|Recomiendo]]
