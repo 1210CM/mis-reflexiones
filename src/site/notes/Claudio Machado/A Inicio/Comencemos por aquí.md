@@ -21,8 +21,8 @@ Tampoco un ensayo.</p>
 donde mis pensamientos<br>
 crecen a su ritmo.</p>
 
-<p>Te invito a leer la historia de <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/mis-apuntes/" target="_blank">Mis apuntes</a>.</p>
-<a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/mis-apuntes/" target="_blank"> <img src="https://mis-apuntes-psi.vercel.app/img/optimized/X-md_vGQfb-500.webp" alt="Mis apuntes" class="imagen-enlace">
+<p>Te invito a leer la historia de <a href="https://mis-notas-two.vercel.app/claudio-machado/a-inicio/mis-apuntes/" target="_blank">Mis apuntes</a>.</p>
+<a href="https://mis-notas-two.vercel.app/claudio-machado/a-inicio/mis-apuntes/" target="_blank"> <img src="https://raw.githubusercontent.com/1210CM/mis-reflexiones/refs/heads/main/src/site/img/user/07%20-%20Personal/Im%C3%A1genes/foto-mis-apuntes.png" alt="Mis apuntes" class="imagen-enlace">
   </a>
 </div>
 <hr>
@@ -96,8 +96,8 @@ crecen a su ritmo.</p>
 
 <div class="bienvenida">
   <h3>Sobre mí</h3>
-  <p>¿Querés saber quién está detrás de estas notas? Podés conocerme un poco más leyendo <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/quien-soy/">Quien soy</a>.</p>
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/a-inicio/quien-soy/" target="_blank"> <img src="https://mis-apuntes-psi.vercel.app/img/optimized/SwM5NH69Vp-500.webp" alt="Mis apuntes" class="imagen-enlace">
+  <p>¿Querés saber quién está detrás de estas notas? Podés conocerme un poco más leyendo <a href="https://mis-notas-two.vercel.app/claudio-machado/a-inicio/quien-soy/">Quien soy</a>.</p>
+  <a href="https://mis-notas-two.vercel.app/claudio-machado/a-inicio/quien-soy/" target="_blank"> <img src="https://raw.githubusercontent.com/1210CM/mis-reflexiones/refs/heads/main/src/site/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/claudio-patricia-betel.jpg" alt="Mis apuntes" class="imagen-enlace">
   </a>
 </div>
 <div class="avatar-bloque">
@@ -107,4 +107,3 @@ crecen a su ritmo.</p>
 ---
 
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
