@@ -1,0 +1,17 @@
+footer.pie-simple {
+  margin-top: 2rem;
+  padding: 1rem 0;
+  font-size: clamp(.8rem, 2.5vw, .95rem);
+  border-top: 3px solid var(--color-primario, #E06D06);
+}
+
+[data-theme="dark"] footer.pie-simple {
+  border-color: #B26700;
+  color: #FAFF81;
+}
+
+[data-theme="light"] footer.pie-simple {
+  border-color: #E06D06;
+  color: #161032;
+}
+
