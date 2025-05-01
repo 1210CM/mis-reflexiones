@@ -16,13 +16,4 @@ Y Jehová nos contesta de diferentes maneras
 > - [[Claudio Machado/Temas Bíblicos/Nuestro aguante es diferente\|Nuestro aguante es diferente]]
 > - [[Claudio Machado/Temas Bíblicos/Aguantar y llevar fruto\|Aguantar y llevar fruto]]
 
-<div class="pie-simple">
-  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomiendo/">Recomiendo</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
-  <br><br>
-  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
-</div>
+<%* tR += await tp.file.include("[[Pie de página]]") %>

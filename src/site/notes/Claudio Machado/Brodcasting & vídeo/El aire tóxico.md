@@ -32,15 +32,6 @@ Leamos [1 Juan 2:17](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/62/2#v=62:2:17)
 > - [[Claudio Machado/Temas Bíblicos/Espíritu Santo - La fe nos fortalece\|Espíritu Santo - La fe nos fortalece]]
 > - [[Claudio Machado/Temas Bíblicos/Demostremos un espíritu de amor, poder y buen juicio\|Demostremos un espíritu de amor, poder y buen juicio]]
 
-<div class="pie-simple">
-  <a href="https://mis-apuntes-psi.vercel.app/">Inicio</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/brodcasting-and-videos/principial-brodcasting-and-video/">Broadcasting & Video</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/">Experiencias & Reflexiones</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/familia-and-amigos/familia-and-amigos/">Familia & Amigos</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/recomendaciones/recomiendo/">Recomiendo</a> •
-  <a href="https://mis-apuntes-psi.vercel.app/claudio-machado/temas-biblicos/temas-biblicos/">Temas bíblicos</a>
-  <br><br>
-  <span class="legal">© 2025 Claudio Machado — Contenido personal y espiritual sin fines comerciales.</span>
-</div>
+<%* tR += await tp.file.include("[[Pie de página]]") %>
 
 
