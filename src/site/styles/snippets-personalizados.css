@@ -370,3 +370,15 @@ img {
 .callout[data-callout="lo-nuevo"] a:hover {
   color: #B26700;
 }
+
+/* Evitar que el gráfico de conexiones se superponga al pie */
+.graph-view-container {
+  margin-bottom: 4rem !important;
+  z-index: 0;
+}
+
+/* Asegurar que el pie esté visible arriba de cualquier superposición */
+.pie-simple {
+  position: relative;
+  z-index: 10;
+}
