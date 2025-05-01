@@ -77,7 +77,7 @@ crecen a su ritmo.</p>
 ## 📂 Navegando por las secciones
 
 - [[Claudio Machado/A Inicio/Comencemos por aquí\|Inicio]]
-- [[Claudio Machado/Brodcasting & vídeo/index\|Brodcasting & Video]]
+- [[Claudio Machado/Brodcasting & vídeo/Brodcasting & Video\|Brodcasting & Video]]
 - [[Claudio Machado/Experiencias & Reflexiones/Experiencias & Reflexiones\|Experiencias & Reflexiones]]
 - [[Claudio Machado/Familia & Amigos/Familia & Amigos\|Familia & Amigos]]
 - [[Claudio Machado/Recomendaciones/Recomiendo\|Recomiendo]]
