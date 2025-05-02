@@ -17,7 +17,3 @@ Referencia [Perspicacia](https://wol.jw.org/es/wol/d/r4/lp-s/1200002506#h=2)
 > - [[Claudio Machado/Temas Bíblicos/David\|David]]
 > - [[Claudio Machado/Temas Bíblicos/Salomón\|Salomón]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

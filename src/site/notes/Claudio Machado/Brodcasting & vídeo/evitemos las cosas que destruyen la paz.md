@@ -22,7 +22,3 @@
 > - [[Claudio Machado/Temas Bíblicos/Sensatez\|Sensatez]]
 > - [[Claudio Machado/Temas Bíblicos/Evitemos situaciones peligrosas\|Evitemos situaciones peligrosas]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

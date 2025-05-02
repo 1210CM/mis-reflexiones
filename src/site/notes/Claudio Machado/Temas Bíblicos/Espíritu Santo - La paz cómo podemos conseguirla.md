@@ -61,4 +61,4 @@ Los cristianos también contribuimos a la paz cuando nos dirigimos con respeto a
 
 Hoy día, los siervos de Dios vivimos en un paraíso espiritual en el que reina la paz.  Pero lo más importante es que Jehová nos dará su bendición y disfrutaremos de paz abundante en el nuevo mundo para siempre ([2 Ped. 3:13, 14](https://wol.jw.org/es/wol/bc/r4/lp-s/2018402/16/0)).
 
-[[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
+[[Claudio Machado/Brodcasting & vídeo/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]

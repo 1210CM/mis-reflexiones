@@ -7,4 +7,4 @@
 ![IMG-20250322-WA0006.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG-20250322-WA0006.jpg)
 ![IMG-20250322-WA0005.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG-20250322-WA0005.jpg)
 
-[[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
+[[No nos avergonzamos de las buenas nuevas mals\|No nos avergonzamos de las buenas nuevas mals]]

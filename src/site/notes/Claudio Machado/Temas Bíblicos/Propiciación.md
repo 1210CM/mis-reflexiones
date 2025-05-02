@@ -11,7 +11,3 @@ Cambiar una cosa por otra mismo significado que [[Claudio Machado/Temas Bíblico
 > - [[Claudio Machado/Temas Bíblicos/Amor de Cristo\|Amor de Cristo]]
 > - [[Claudio Machado/Temas Bíblicos/El amor leal de Jehová abre el camino a la salvación\|El amor leal de Jehová abre el camino a la salvación]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

@@ -21,14 +21,8 @@ Escuchar activamente incluye tres aspectos.
 
 
 
-
-
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Brodcasting & vídeo/El aire tóxico\|El aire tóxico]]
 > - [[Claudio Machado/Brodcasting & vídeo/No seamos un obstáculo en la adoración a Jehová\|No seamos un obstáculo en la adoración a Jehová]]
 > - [[Claudio Machado/Brodcasting & vídeo/Vengo pronto\|Vengo pronto]]
-
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
 

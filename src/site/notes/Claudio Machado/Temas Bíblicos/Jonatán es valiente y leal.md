@@ -31,11 +31,7 @@ Se preocupa por atender las necesidades de del hijo de Jonatán cómo lo había 
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[00 - Notas Nuevas/Jonatán\|Jonatán]]
+> - [[Claudio Machado/Temas Bíblicos/Jonatán\|Jonatán]]
 > - [[Claudio Machado/Temas Bíblicos/Saúl\|Saúl]]
 > - [[Claudio Machado/Temas Bíblicos/David\|David]]
-
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
 

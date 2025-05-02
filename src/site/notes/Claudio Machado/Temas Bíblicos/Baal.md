@@ -11,4 +11,3 @@ La creencia falsa decía que Eran dueños de ciertos lugares y ejercían influen
 > - [[Claudio Machado/Temas Bíblicos/Jezabel\|Jezabel]]
 > - [[Claudio Machado/Temas Bíblicos/Presuma de Jehová\|Presuma de Jehová]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

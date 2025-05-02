@@ -12,4 +12,3 @@ Según una obra de consulta “hacer que un enemigo llegue a ser un amigo” [Ro
 > - [[Claudio Machado/Temas Bíblicos/Beneficios actuales del sacrificio de Jesús\|Beneficios actuales del sacrificio de Jesús]]
 > - [[Claudio Machado/Temas Bíblicos/La muerte de Jesús nos libera del pecado y la muerte\|La muerte de Jesús nos libera del pecado y la muerte]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

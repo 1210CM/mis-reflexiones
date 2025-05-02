@@ -20,7 +20,3 @@ Los pastores de Jehová o ancianos
 > - [[Claudio Machado/Temas Bíblicos/Decisiones que agraden a Jehová\|Decisiones que agraden a Jehová]]
 > - [[Claudio Machado/Temas Bíblicos/Lealtad a los ancianos\|Lealtad a los ancianos]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

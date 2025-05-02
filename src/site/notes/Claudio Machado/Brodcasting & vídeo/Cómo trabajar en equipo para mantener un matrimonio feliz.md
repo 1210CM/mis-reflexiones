@@ -28,7 +28,3 @@
 > - [[Claudio Machado/Brodcasting & vídeo/Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida\|Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida]]
 > - [[Claudio Machado/Brodcasting & vídeo/El aire tóxico\|El aire tóxico]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

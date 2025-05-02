@@ -20,7 +20,3 @@ Porque tomamos buenas decisiones
 > - [[Claudio Machado/Brodcasting & vídeo/El aire tóxico\|El aire tóxico]]
 > - [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

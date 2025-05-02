@@ -5,7 +5,7 @@
 Dilan Ramírez es un hermano joven de la congregación que vive una condición muy diferente a la que disfrutan muchos jóvenes.
 Pero es un orgullo para la congregación, su celo por Jehová.
 
-![Dilan-lectura.jpg](/img/user/Claudio%20Machado/img/destacadas/Dilan-lectura.jpg)
+![Dilan-lectura.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Dilan-lectura.jpg)
 <span class="pie-foto">Leyendo la Biblia para la congregación</span>
 
 Su familia está compuesta por su hermano Santiago y su papá Jorge.
@@ -13,7 +13,7 @@ Por su condición, en su corta edad ha superado muchísimas intervenciones quir�
 
 Tuve el inmenso privilegio de irlo a visitar a la casa después de un grupo de predicación, gracias a que los hermanos me invitaron a ir 
 
-![20250405-Dilan-se-recupera.jpg](/img/user/Claudio%20Machado/img/destacadas/20250405-Dilan-se-recupera.jpg)
+![[20250405-Dilan-se-recupera.jpg\|20250405-Dilan-se-recupera.jpg]]
 
 Fue estimulante verlo de buen humor, le gusta dibujar, y nos contó que le hizo un dibujo a cada compañero de su clase, para decirle que los quería y que pronto estaría de vuelta con ellos. Ellos le devolvieron el gesto con un vídeo en que recibieron sus dibujo y también al final y en coro le estimularon con un grito en coro te queremos mucho, y que te mejores pronto. Muy emocionante.
 
@@ -26,4 +26,3 @@ Mientras nosotros podemos orar por ellos, hacernos disponibles, o cocinarle algo
 > - [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]]
 
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

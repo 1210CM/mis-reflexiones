@@ -12,4 +12,4 @@ En la biblia generalmente hace referencia a la persona que somos por dentro
 > - [[Claudio Machado/Temas Bíblicos/Seguír en el amor\|Seguír en el amor]]
 > - [[Claudio Machado/Temas Bíblicos/Justicia\|Justicia]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
+

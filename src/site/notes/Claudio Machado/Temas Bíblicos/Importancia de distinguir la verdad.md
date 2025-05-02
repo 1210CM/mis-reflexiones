@@ -19,4 +19,3 @@ Lo que creemos determina nuestra vida. Por éso es tán importante distinguir la
 
 
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

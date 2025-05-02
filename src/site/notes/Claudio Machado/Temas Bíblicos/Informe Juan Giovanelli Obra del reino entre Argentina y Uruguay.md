@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/informe-juan-giovanelli-obra-del-reino-entre-argentina-y-uruguay/","tags":["predicación","predicar"]}
 ---
 
-![edificio-betel-argentina.jpg](/img/user/Claudio%20Machado/img/destacadas/edificio-betel-argentina.jpg)
+![07 - Personal/Imágenes/edificio-betel-argentina.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/edificio-betel-argentina.jpg)
 [Salmo 1:3](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/1#v=19:1:3) un árbol plantado (dueño Jehová, lo cuida y lo protege, y tiene un propósito un objetivo)
 - se compara una persona que da fruto 
 - no se marchita (muchos hermanos han vuelto gracias al amor y Misericordia de Jehová )

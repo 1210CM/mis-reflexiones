@@ -6,7 +6,7 @@ Atalaya Enero 2025 [Artículo completo](https://wol.jw.org/es/wol/d/r4/lp-s/2025
 Texto principal
 “Así es como el amor de Dios fue revelado” ([1 JUAN 4:9](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/62/4#v=62:4:9))
 
-![rescate-adan-jesus.jpg](/img/user/Personal/Im%C3%A1genes/rescate-adan-jesus.jpg)
+![rescate-adan-jesus.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/rescate-adan-jesus.jpg)
 
 - [2 Corintios 9:15](https://wol.jw.org/es/wol/bc/r4/lp-s/2025243/1/0) el rescate un extraordinario regalo.
 - Una demostración del inmenso amor de dios [Romanos 5:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/45/5#v=45:5:8) 
@@ -41,4 +41,3 @@ Y entonces ellos también nos amarán más a nosotros ([Juan 14:21](https://wol.
 > - [[Claudio Machado/Temas Bíblicos/La muerte de Jesús nos libera del pecado y la muerte\|La muerte de Jesús nos libera del pecado y la muerte]]
 > - [[Claudio Machado/Temas Bíblicos/Demostremos un espíritu de amor, poder y buen juicio\|Demostremos un espíritu de amor, poder y buen juicio]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

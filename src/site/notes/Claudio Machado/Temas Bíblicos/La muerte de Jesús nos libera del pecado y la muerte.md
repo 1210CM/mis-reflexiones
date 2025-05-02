@@ -5,7 +5,7 @@
 VIDEO: 
 [¿Por qué murió Jesús?](https://www.jw.org/finder?lank=pub-lffv_271_VIDEO&wtlocale=S)
 
-![Porque-murio-jesus.jpg](/img/user/Personal/Im%C3%A1genes/Porque-murio-jesus.jpg)
+![Porque-murio-jesus.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Porque-murio-jesus.jpg)
 Para pagar el precio del rescate, se necesita otro humano perfecto que muriera como sacrificio 
 
 ¿Qué oportunidad perdió Adán cuando le desobedeció a Dios?
@@ -23,4 +23,3 @@ Somos pecadores porque lo heredamos de Adán
 > - [[Claudio Machado/Temas Bíblicos/Porque no nos avergonzamos de las buenas nuevas\|Porque no nos avergonzamos de las buenas nuevas]]
 > - [[Claudio Machado/Temas Bíblicos/Nosotros también podemos vencer al Odio con amor\|Nosotros también podemos vencer al Odio con amor]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

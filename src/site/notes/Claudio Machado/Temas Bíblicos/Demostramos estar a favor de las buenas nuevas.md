@@ -23,4 +23,4 @@ Predicar y defender la verdad con valor y nos traerá bendiciones eternas
 
 [[Claudio Machado/Temas Bíblicos/Seamos trabajadores que no tenemos de que avergonzamos\|Seamos trabajadores que no tenemos de que avergonzamos]]
 
-Asamblea [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
+Asamblea [[No nos avergonzamos de las buenas nuevas mals\|No nos avergonzamos de las buenas nuevas mals]]

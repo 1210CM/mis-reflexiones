@@ -33,4 +33,3 @@ En mi congregación se repartieron Miles de invitaciones cubriendo todo el terri
 > - [[Claudio Machado/Temas Bíblicos/Beneficios futuros del sacrificio de Jesús\|Beneficios futuros del sacrificio de Jesús]]
 > - [[Claudio Machado/Temas Bíblicos/La muerte de Jesús nos libera del pecado y la muerte\|La muerte de Jesús nos libera del pecado y la muerte]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

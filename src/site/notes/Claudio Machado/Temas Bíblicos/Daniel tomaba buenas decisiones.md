@@ -13,4 +13,3 @@ Daniel se enfrentó a muchas dificultades solo, pero oraba mucho, estudiaba las 
 > - [[Claudio Machado/Temas Bíblicos/Decisiones cotidianas\|Decisiones cotidianas]]
 > - [[Claudio Machado/Temas Bíblicos/Principios para decidir\|Principios para decidir]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

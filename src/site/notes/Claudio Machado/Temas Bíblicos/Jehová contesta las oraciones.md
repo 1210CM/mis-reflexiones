@@ -16,4 +16,3 @@ Y Jehová nos contesta de diferentes maneras
 > - [[Claudio Machado/Temas Bíblicos/Nuestro aguante es diferente\|Nuestro aguante es diferente]]
 > - [[Claudio Machado/Temas Bíblicos/Aguantar y llevar fruto\|Aguantar y llevar fruto]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

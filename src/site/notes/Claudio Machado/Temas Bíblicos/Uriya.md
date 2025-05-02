@@ -11,4 +11,3 @@ Profeta de Dios, en los días del rei [[Claudio Machado/Temas Bíblicos/Jehoiaqu
 > - [[Claudio Machado/Temas Bíblicos/Jehoiaquim\|Jehoiaquim]]
 > - [[Claudio Machado/Temas Bíblicos/David\|David]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

@@ -27,4 +27,3 @@ Pero ahora lo que sigue es conocer [[Claudio Machado/Experiencias & Reflexiones/
 > - [[Claudio Machado/Experiencias & Reflexiones/Praia Bombas\|Praia Bombas]]
 > - [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

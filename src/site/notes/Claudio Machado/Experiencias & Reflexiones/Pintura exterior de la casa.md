@@ -25,4 +25,3 @@ Cómo siempre mi amigo Gerardo nos hizo un gran trabajo
 > - [[Claudio Machado/Experiencias & Reflexiones/Reunión especial visita del superintendente de zona, en Ezeiza\|Reunión especial visita del superintendente de zona, en Ezeiza]]
 > - [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

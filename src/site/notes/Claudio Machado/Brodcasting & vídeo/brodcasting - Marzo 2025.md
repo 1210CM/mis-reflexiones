@@ -40,7 +40,3 @@ Postal de Liberia congregación de Robersport
 > - [[Claudio Machado/Brodcasting & vídeo/Busquemos el reconocimiento de Jehová\|Busquemos el reconocimiento de Jehová]]
 > - [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

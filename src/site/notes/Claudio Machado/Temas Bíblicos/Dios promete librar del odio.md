@@ -24,5 +24,3 @@ La realidad es que la descendencia de la mujer nos daría el ejemplo y la enseñ
 > - [[Claudio Machado/Temas Bíblicos/Cómo nos enseña Jesús a vencer al Odio con Amor\|Cómo nos enseña Jesús a vencer al Odio con Amor]]
 > - [[Claudio Machado/Temas Bíblicos/Que nos enseña el rescate\|Que nos enseña el rescate]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-

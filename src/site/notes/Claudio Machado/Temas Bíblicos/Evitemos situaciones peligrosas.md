@@ -31,7 +31,3 @@ Isaías 48:17](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/23/48#v=23:48:17) nos 
 > - [[nota 2\|nota 2]]
 > - [[nota 3\|nota 3]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

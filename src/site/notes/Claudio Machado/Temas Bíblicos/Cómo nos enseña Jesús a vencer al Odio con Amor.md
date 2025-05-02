@@ -16,7 +16,3 @@ Cuando [[Claudio Machado/Temas Bíblicos/Jesús\|Jesús]] estuvo en la tierra en
 > - [[Claudio Machado/Temas Bíblicos/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
 > - [[Claudio Machado/Temas Bíblicos/Seguír en el amor\|Seguír en el amor]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
-
-

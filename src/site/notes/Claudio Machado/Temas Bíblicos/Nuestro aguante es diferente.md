@@ -13,6 +13,5 @@ En cambio los adoradores de Jehová y de Cristo, aguantan pero apoyados en los c
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Aguantar y llevar fruto\|Aguantar y llevar fruto]]
 > - [[Claudio Machado/Temas Bíblicos/Aguante\|Aguante]]
-> - [[01 - Notas en desarrollo/El aguante de Job\|El aguante de Job]]
+> - [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

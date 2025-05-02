@@ -37,4 +37,4 @@ Hacemos lo contrario presumimos de Jehová [1 Corintios 1:31](https://wol.jw.org
 - alabamos a Jehová porque nos apoye y guia 
 - hablamos con orgulloso a los demás presumiendo de Jehová 
 
-Asamblea [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
+Asamblea [[No nos avergonzamos de las buenas nuevas mals\|No nos avergonzamos de las buenas nuevas mals]]

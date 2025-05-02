@@ -33,4 +33,4 @@ Porque proviene de Dios y es para la salvación de todos. Entonces le damos Glor
 [[Claudio Machado/Temas Bíblicos/Demostramos estar a favor de las buenas nuevas\|Demostramos estar a favor de las buenas nuevas]]
 
 Referencia: [Atalaya del 90](https://wol.jw.org/es/wol/d/r4/lp-s/1990004?q=no+nos+avergonzamos&p=par)
-Asamblea: [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
+Asamblea: [[No nos avergonzamos de las buenas nuevas mals\|No nos avergonzamos de las buenas nuevas mals]]

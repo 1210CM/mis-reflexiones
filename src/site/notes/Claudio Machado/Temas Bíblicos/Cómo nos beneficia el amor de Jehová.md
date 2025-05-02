@@ -12,4 +12,3 @@ Jehová nos a hecho un regalo muy valioso, el sacrificio de Jesús, ¿lo estamos
 > - [[Claudio Machado/Temas Bíblicos/Beneficios futuros del sacrificio de Jesús\|Beneficios futuros del sacrificio de Jesús]]
 > - [[Claudio Machado/Temas Bíblicos/Cómo demostrar agradecimiento por el sacrificio de Jesús\|Cómo demostrar agradecimiento por el sacrificio de Jesús]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

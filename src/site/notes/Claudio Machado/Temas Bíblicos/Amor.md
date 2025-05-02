@@ -9,5 +9,5 @@ El amor nunca [[Claudio Machado/Temas Bíblicos/Falla\|Falla]]
 [[Claudio Machado/Temas Bíblicos/El amor es\|El amor es]]
 [[Claudio Machado/Temas Bíblicos/El amor no es\|El amor no es]]
 
-
+[[Claudio Machado/Temas Bíblicos/Amamos porque Dios nos amo primero\|Amamos porque Dios nos amo primero]]
 [[Claudio Machado/Temas Bíblicos/Amor de Cristo\|Amor de Cristo]]

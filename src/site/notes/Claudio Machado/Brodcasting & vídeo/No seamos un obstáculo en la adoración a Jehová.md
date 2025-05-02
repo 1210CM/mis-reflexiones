@@ -39,9 +39,3 @@ Cuando surje un proyecto o cambio apoyemos, y si no podemos, oremos para que tod
 > - [[Claudio Machado/Brodcasting & vídeo/Cómo trabajar en equipo para mantener un matrimonio feliz\|Cómo trabajar en equipo para mantener un matrimonio feliz]]
 > - [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-
-
-

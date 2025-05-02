@@ -67,7 +67,3 @@ Que todos podamos ganar un lugar en ese nuevo mundo
 > - [[nota 2\|nota 2]]
 > - [[nota 3\|nota 3]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

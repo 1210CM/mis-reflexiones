@@ -44,16 +44,5 @@ Veamos la promesa de Jehová en En [Salmo 32:8](https://wol.jw.org/es/wol/b/r4/l
 > - [[Claudio Machado/Temas Bíblicos/Estudiar la biblia, fortalece nuestra fe\|Estudiar la biblia, fortalece nuestra fe]]
 > - [[Claudio Machado/Temas Bíblicos/Decisiones que agraden a Jehová\|Decisiones que agraden a Jehová]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
-
-
-
-
-
-
-
-
-
 
 

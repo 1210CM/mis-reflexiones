@@ -21,4 +21,3 @@ El entrego su vida perfecta como la demostración más grande de amor por la hum
 > - [[Claudio Machado/Temas Bíblicos/Jehová Todopoderoso\|Jehová Todopoderoso]]
 
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

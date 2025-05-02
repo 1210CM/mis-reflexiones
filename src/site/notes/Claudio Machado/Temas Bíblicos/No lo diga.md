@@ -19,7 +19,3 @@ Tener en cuentas los consejos de Proverbios 11 nos ayudará a mantener la Paz co
 > - [[Claudio Machado/Temas Bíblicos/Sensatez\|Sensatez]]
 > - [[Claudio Machado/Temas Bíblicos/Bondad\|bondad]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

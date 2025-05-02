@@ -24,9 +24,3 @@ Podremos ofrecernos como voluntario para servir donde haya necesidad, podemos ha
 > - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
 > - [[Claudio Machado/Brodcasting & vídeo/Dios nos llena de Energía\|Dios nos llena de Energía]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-
-
-

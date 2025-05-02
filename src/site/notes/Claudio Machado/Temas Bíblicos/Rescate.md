@@ -10,7 +10,3 @@ En la Biblia, un rescate es el precio que se paga para que haya una expiación y
 > - [[Claudio Machado/Temas Bíblicos/Redención\|Redención]]
 > - [[Claudio Machado/Temas Bíblicos/Cristo\|Cristo]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

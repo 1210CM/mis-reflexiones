@@ -16,9 +16,3 @@ El [[Claudio Machado/Temas Bíblicos/libro de Génesis\|libro de Génesis]], rel
 > - [[Claudio Machado/Temas Bíblicos/Nosotros también podemos vencer al Odio con amor\|Nosotros también podemos vencer al Odio con amor]]
 > - [[Claudio Machado/Temas Bíblicos/Cómo finalmente se vencerá al odio con el amor\|Cómo finalmente se vencerá al odio con el amor]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
-
-
-
-

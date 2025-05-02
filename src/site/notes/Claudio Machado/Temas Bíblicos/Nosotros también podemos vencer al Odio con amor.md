@@ -22,4 +22,3 @@ La predicación es una forma de demostrar que el amor nos motiva
 > - [[Claudio Machado/Temas Bíblicos/Cómo nos enseña Jesús a vencer al Odio con Amor\|Cómo nos enseña Jesús a vencer al Odio con Amor]]
 > - [[Claudio Machado/Temas Bíblicos/Cómo demostró Jesús que se puede vencer al Odio\|Cómo demostró Jesús que se puede vencer al Odio]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

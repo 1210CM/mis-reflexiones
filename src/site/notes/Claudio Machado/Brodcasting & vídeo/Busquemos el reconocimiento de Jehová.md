@@ -31,4 +31,3 @@ Y aunque ya pasaran unos años, siguen poniendo a Jehová en primer lugar, porqu
 > - [[Claudio Machado/Temas Bíblicos/Jehová Todopoderoso\|Jehová Todopoderoso]]
 > - [[Claudio Machado/Temas Bíblicos/Presuma de Jehová\|Presuma de Jehová]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

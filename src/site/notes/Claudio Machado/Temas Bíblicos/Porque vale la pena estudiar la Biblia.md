@@ -18,4 +18,3 @@ Cada vez que la estudiamos dejamos que su poder actúe en nosotros, mejorando nu
 > - [[Claudio Machado/Temas Bíblicos/Estudiar la biblia, fortalece nuestra fe\|Estudiar la biblia, fortalece nuestra fe]]
 > - [[Claudio Machado/Temas Bíblicos/Estudiar la Biblia\|Estudiar la Biblia]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

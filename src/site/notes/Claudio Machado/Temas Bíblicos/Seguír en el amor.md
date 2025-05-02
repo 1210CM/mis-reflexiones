@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/seguir-en-el-amor/","tags":["amor"]}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/seguir-en-el-amor/","title":"Seguír en el amor","tags":["amor"]}
 ---
 
 [Información de referencia](https://wol.jw.org/es/wol/d/r4/lp-s/1102002055)
@@ -21,7 +21,6 @@ Definición bíblica del [[Claudio Machado/Temas Bíblicos/Amor\|Amor]] [1 Corin
 
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Amamos porque Dios nos amo primero\|Amamos porque Dios nos amo primero]]
-> - [[Personal/Enseñanzas bíblicas/Jehová - amor\|Jehová - amor]]
-> - [[Claudio Machado/Brodcasting & vídeos/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
+> - [[07 - Personal/Enseñanzas bíblicas/Jehová - amor\|Jehová - amor]]
+> - [[Claudio Machado/Brodcasting & vídeo/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

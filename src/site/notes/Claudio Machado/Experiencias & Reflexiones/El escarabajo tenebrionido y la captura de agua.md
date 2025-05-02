@@ -9,6 +9,5 @@ El escarabajo tenebrionido del desierto de Namib utiliza una técnica ingeniosa 
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Experiencias & Reflexiones/El agua y la vida\|El agua y la vida]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Adaptaciones de los seres vivos al agua\|Adaptaciones de los seres vivos al agua]]
-> - [[La tortuga marina laúd y el manejo de la sal\|La tortuga marina laúd y el manejo de la sal]]
+> - [[Claudio Machado/Experiencias & Reflexiones/La tortuga marina laúd y el manejo de la sal\|La tortuga marina laúd y el manejo de la sal]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

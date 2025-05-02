@@ -14,4 +14,3 @@ Y en [Juan 8:44](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/43/8#v=43:8:44)  se 
 > - [[Claudio Machado/Temas Bíblicos/Demostramos estar a favor de las buenas nuevas\|Demostramos estar a favor de las buenas nuevas]]
 > - [[Claudio Machado/Temas Bíblicos/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

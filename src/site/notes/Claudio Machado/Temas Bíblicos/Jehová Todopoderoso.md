@@ -16,3 +16,9 @@
 **Fuente:** [https://wol.jw.org/es/wol/d/r4/lp-s/1102002026](https://wol.jw.org/es/wol/d/r4/lp-s/1102002026)
 
 
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/Temas Bíblicos/Decisiones que agraden a Jehová\|Decisiones que agraden a Jehová]]
+> - [[Claudio Machado/Temas Bíblicos/Desastres naturales - Arroja tu carga sobre Jehová\|Desastres naturales - Arroja tu carga sobre Jehová]]
+> - [[Claudio Machado/Temas Bíblicos/Presuma de Jehová\|Presuma de Jehová]]
+
+

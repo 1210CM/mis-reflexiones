@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/david/","tags":["Quien-es"]}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/david/","tags":["David"]}
 ---
 
 Fue elegido el segundo Rey de Israel por su fiel corazón dedicado a Jehová. Después que el primer rey de Israel [[Claudio Machado/Temas Bíblicos/Saúl\|Saúl]] pierde el favor de Jehová por su desobediencia 

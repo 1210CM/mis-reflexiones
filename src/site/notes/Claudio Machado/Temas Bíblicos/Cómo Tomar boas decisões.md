@@ -3,7 +3,7 @@
 ---
 
 Hermano Eduardo 
-![20250309_192349.jpg](/img/user/Personal/Im%C3%A1genes/20250309_192349.jpg)
+![20250309_192349.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250309_192349.jpg)
 
 Jehová nos da ajuda das simples até más difíciles [salmo 119;97](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/119#v=19:119:97)
 [Isaías 48:17](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/23/48#v=23:48:17) 

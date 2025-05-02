@@ -28,4 +28,3 @@ Finalmente el hermano Gabriel Cuello que presidió la reunión, leyó un anuncio
 > - [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > - [[Claudio Machado/Temas Bíblicos/Que nos enseña el rescate\|Que nos enseña el rescate]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

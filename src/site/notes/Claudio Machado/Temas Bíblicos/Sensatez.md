@@ -11,7 +11,3 @@ La capacidad de pensar con buen juicio
 > - [[Claudio Machado/Temas Bíblicos/Conocimiento\|Conocimiento]]
 > - [[Claudio Machado/Temas Bíblicos/Alejemos la mirada de lo que es inútil\|Alejemos la mirada de lo que es inútil]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

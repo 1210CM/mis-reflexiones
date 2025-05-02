@@ -37,4 +37,3 @@ Buscar encontrar y utilizar, la verdad nunca nos defraudará
 > - [[Claudio Machado/Temas Bíblicos/Importancia de distinguir la verdad\|Importancia de distinguir la verdad]]
 > - [[Claudio Machado/Temas Bíblicos/Cómo nos beneficia el amor de Jehová\|Cómo nos beneficia el amor de Jehová]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

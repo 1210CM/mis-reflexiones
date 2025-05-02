@@ -25,4 +25,4 @@ Hábiles manejar la palabra de dios correctamente, hacer un trabajo bien hecho.
 
 [[Claudio Machado/Temas Bíblicos/Demostremos un espíritu de amor, poder y buen juicio\|Demostremos un espíritu de amor, poder y buen juicio]]
 
-Asamblea [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
+Asamblea [[No nos avergonzamos de las buenas nuevas mals\|No nos avergonzamos de las buenas nuevas mals]]

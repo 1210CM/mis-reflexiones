@@ -14,4 +14,4 @@
 > - [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > - [[Claudio Machado/Temas Bíblicos/La muerte de Jesús nos libera del pecado y la muerte\|La muerte de Jesús nos libera del pecado y la muerte]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
+<%* tR += await tp.file.include("[[Pie de página\|Pie de página]]") %>

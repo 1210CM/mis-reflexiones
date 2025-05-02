@@ -11,4 +11,3 @@ Profeta de [[Claudio Machado/Temas Bíblicos/Jehová\|Jehová]] recibo su llamam
 > - [[Claudio Machado/Temas Bíblicos/Baal\|Baal]]
 > - [[Claudio Machado/Temas Bíblicos/Profetas\|Profetas]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

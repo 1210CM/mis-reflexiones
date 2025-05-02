@@ -91,12 +91,3 @@ Obtenderrem la bendición de vivir con paz y justicia por toda la eternidad
 > - [[Claudio Machado/Temas Bíblicos/Importancia de distinguir la verdad\|Importancia de distinguir la verdad]]
 > - [[Claudio Machado/Temas Bíblicos/Últimos días\|Últimos días]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-
-
-
-
-
-

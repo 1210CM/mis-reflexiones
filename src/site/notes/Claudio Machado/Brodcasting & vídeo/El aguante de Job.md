@@ -28,4 +28,3 @@ Tenemos la certeza qué no seremos probado más allá de lo que podemos soportar
 > [[Claudio Machado/Temas Bíblicos/Aguante\|Aguante]]
 
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

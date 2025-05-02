@@ -18,7 +18,3 @@ En nuestra con casa, a realizado la mayoría de terminaciones afuera, y muchas r
 > - [[Claudio Machado/Recomendaciones/Gerardo mi amigo y vecino\|Gerardo mi amigo y vecino]]
 > - [[Claudio Machado/Recomendaciones/Juan Fagundez - Sanitario\|Juan Fagundez - Sanitario]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

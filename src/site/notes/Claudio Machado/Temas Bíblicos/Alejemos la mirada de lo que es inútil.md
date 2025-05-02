@@ -56,5 +56,3 @@ Conservaremos la vida en el camino que conduce a vida eterna
 
 
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-

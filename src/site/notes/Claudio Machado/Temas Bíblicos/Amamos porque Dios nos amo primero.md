@@ -20,4 +20,3 @@ Y nuestra forma de responder a ese amor es
 > - [[Claudio Machado/Temas Bíblicos/El amor es\|El amor es]]
 > - [[Claudio Machado/Temas Bíblicos/Seguír en el amor\|Seguír en el amor]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

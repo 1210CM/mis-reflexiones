@@ -6,7 +6,7 @@ Un siervo de Jehová, que ayudaba a Jeremías por el año 625 Antes de nuestra e
 
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Baal\|Baal]]
-> - [[Claudio Machado/Brodcasting & vídeos/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
+> - [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
 > - [[Claudio Machado/Temas Bíblicos/Presuma de Jehová\|Presuma de Jehová]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
+

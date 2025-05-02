@@ -30,7 +30,3 @@
 > - [[Claudio Machado/Temas Bíblicos/Reino de Dios\|Reino de Dios]]
 > - [[Claudio Machado/Temas Bíblicos/De los representantes de Dios\|De los representantes de Dios]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

@@ -15,7 +15,3 @@ Se hicieron de un buen prestigio por su celo por Jehová y su hospitalidad con l
 > - [[Claudio Machado/Experiencias & Reflexiones/Congregación Solymar - Memorial 2025\|Congregación Solymar - Memorial 2025]]
 > - [[Claudio Machado/Temas Bíblicos/No nos avergonzamos\|No nos avergonzamos]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

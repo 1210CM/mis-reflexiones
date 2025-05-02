@@ -18,7 +18,3 @@ Lamentablemente no pudo ingresar y aunque lo volvió a intentar en el futuro, ta
 > - [[Claudio Machado/Familia & Amigos/Bienvenida Familia Carrizo\|Bienvenida Familia Carrizo]]
 > - [[Claudio Machado/Familia & Amigos/Salon del reino - Pescaria brava\|Salon del reino - Pescaria brava]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

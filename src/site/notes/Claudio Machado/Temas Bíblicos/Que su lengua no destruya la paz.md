@@ -19,7 +19,3 @@ Para descubrir cómo se recuperó la paz en este caso, vea el video [“Busque l
 > - [[Claudio Machado/Temas Bíblicos/Importancia de distinguir la verdad\|Importancia de distinguir la verdad]]
 > - [[Claudio Machado/Temas Bíblicos/Calumnia\|Calumnia]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

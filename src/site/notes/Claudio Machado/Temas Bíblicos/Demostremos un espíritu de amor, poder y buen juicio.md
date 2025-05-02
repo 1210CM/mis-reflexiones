@@ -43,4 +43,4 @@ Confianza en el poder de Jehová
 
 [[Claudio Machado/Temas Bíblicos/No nos avergonzamos\|No nos avergonzamos]]
 
-Asamblea [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
+Asamblea [[No nos avergonzamos de las buenas nuevas mals\|No nos avergonzamos de las buenas nuevas mals]]

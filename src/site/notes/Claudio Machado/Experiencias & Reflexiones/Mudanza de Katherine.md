@@ -7,14 +7,13 @@
   <span class="pie-foto">Dia de la mudanza Abril 2925</span>
 </div>
 
-Estuve ayudando a [[07 - Personal/Nombres/Katherine\|Katherine]] en su última mudanza, desde Atlántida donde es la imagen, hasta Solymar una casita muy bonita, pero al fondo. Ella contrato un flete, pero igual fuí por si no entraba todo, y para ayudar con la carga y descarga. Salió todo bien aunque personalmente termine muy cansado porque al descargar estaba lejos el camión de la casa, teníamos que  atravesar un corredor bastante largo. 
+Estuve ayudando a [[Claudio Machado/Experiencias & Reflexiones/Katherine\|Katherine]] en su última mudanza, desde Atlántida donde es la imagen, hasta Solymar una casita muy bonita, pero al fondo. Ella contrato un flete, pero igual fuí por si no entraba todo, y para ayudar con la carga y descarga. Salió todo bien aunque personalmente termine muy cansado porque al descargar estaba lejos el camión de la casa, teníamos que  atravesar un corredor bastante largo. 
 
 
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[07 - Personal/Nombres/Katherine\|Katherine]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Katherine\|Katherine]]
 > - [[Claudio Machado/Familia & Amigos/Bienvenida Familia Carrizo\|Bienvenida Familia Carrizo]]
 > - [[Claudio Machado/Familia & Amigos/Dilan ya está en la casa\|Dilan ya está en la casa]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

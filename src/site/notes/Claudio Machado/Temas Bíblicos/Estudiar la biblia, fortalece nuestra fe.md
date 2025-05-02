@@ -11,8 +11,7 @@ Nos ayudará nuestra [[Claudio Machado/Temas Bíblicos/Capacidad de pensar\|capa
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[00 - Notas Nuevas/Valoremos la verdad bíblica estudiando con ganas\|Valoremos la verdad bíblica estudiando con ganas]]
-> - [[00 - Notas Nuevas/Estudiar nos ayuda a tomar decisiones\|Estudiar nos ayuda a tomar decisiones]]
+> - [[Claudio Machado/Temas Bíblicos/Valoremos la verdad bíblica estudiando con ganas\|Valoremos la verdad bíblica estudiando con ganas]]
+> - [[Claudio Machado/Temas Bíblicos/Estudiar nos ayuda a tomar decisiones\|Estudiar nos ayuda a tomar decisiones]]
 > - [[Claudio Machado/Temas Bíblicos/Fe\|Fe]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

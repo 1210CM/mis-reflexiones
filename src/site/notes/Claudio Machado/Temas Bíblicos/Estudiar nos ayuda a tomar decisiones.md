@@ -18,4 +18,3 @@ Por éso consultar su palabra y estudiar profundamente en ella, nos ayudará a c
 > - [[Claudio Machado/Temas Bíblicos/Estudiar la biblia, fortalece nuestra fe\|Estudiar la biblia, fortalece nuestra fe]]
 
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

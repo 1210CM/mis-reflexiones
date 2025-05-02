@@ -14,4 +14,3 @@ Promesa de vida eterna, y cómo sabemos que cumplirá [Rom. 8:32](https://wol.jw
 > - [[Claudio Machado/Temas Bíblicos/Puede el amor vencer al odio\|Puede el amor vencer al odio]]
 > - [[Claudio Machado/Temas Bíblicos/Origen del Odio\|Origen del Odio]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

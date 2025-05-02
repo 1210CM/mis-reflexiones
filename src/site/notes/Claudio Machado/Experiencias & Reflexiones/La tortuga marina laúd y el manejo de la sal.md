@@ -11,4 +11,3 @@ La tortuga marina laúd ilustra cómo los organismos pueden adaptarse a condicio
 > - [[Claudio Machado/Experiencias & Reflexiones/El escarabajo tenebrionido y la captura de agua\|El escarabajo tenebrionido y la captura de agua]]
 > - [[Claudio Machado/Experiencias & Reflexiones/La rata canguro y su economía de agua\|La rata canguro y su economía de agua]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

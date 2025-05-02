@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/taller-de-javier/","tags":["Pintor","chapista","Javier"]}
+{"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/taller-de-javier/","title":"taller de Javier","tags":["Pintor","chapista","Javier"]}
 ---
 
 ![Javier-chspista.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Javier-chspista.jpg) 
@@ -23,3 +23,11 @@ Abajo comparto un vídeo que publique en mis redes sociales cuando tuve un toque
     frameborder="0" allowfullscreen>
   </iframe>
 </div>
+
+
+
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/Recomendaciones/Gerardo mi amigo y vecino\|Gerardo mi amigo y vecino]]
+> - [[Claudio Machado/Recomendaciones/Juan Fagundez - Sanitario\|Juan Fagundez - Sanitario]]
+> - [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
+

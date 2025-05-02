@@ -12,6 +12,5 @@
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Aguante\|Aguante]]
 > - [[Claudio Machado/Temas Bíblicos/Nuestro aguante es diferente\|Nuestro aguante es diferente]]
-> - [[01 - Notas en desarrollo/El aguante de Job\|El aguante de Job]]
+> - [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

@@ -16,4 +16,3 @@ Se necesita madurez para aplicar los principios. Por ejemplo, cuando nos enfrent
 > - [[Claudio Machado/Temas Bíblicos/Cómo Tomar boas decisões\|Cómo Tomar boas decisões]]
 > - [[Claudio Machado/Temas Bíblicos/Decisiones que agraden a Jehová\|Decisiones que agraden a Jehová]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

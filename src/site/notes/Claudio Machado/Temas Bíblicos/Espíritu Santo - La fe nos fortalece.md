@@ -87,4 +87,3 @@ En una ocasión, un hombre le dijo a Jesús: “¡Tengo fe! ¡Ayúdame donde ne
 > - [[Claudio Machado/Temas Bíblicos/Espíritu Santo\|Espíritu Santo]]
 > - [[Claudio Machado/Temas Bíblicos/Jehová\|Jehová]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

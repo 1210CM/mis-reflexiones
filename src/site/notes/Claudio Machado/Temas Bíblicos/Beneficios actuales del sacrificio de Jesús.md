@@ -12,4 +12,3 @@
 > - [[Claudio Machado/Temas Bíblicos/Cómo nos enseña Jesús a vencer al Odio con Amor\|Cómo nos enseña Jesús a vencer al Odio con Amor]]
 > - [[Claudio Machado/Temas Bíblicos/Demostramos estar a favor de las buenas nuevas\|Demostramos estar a favor de las buenas nuevas]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>

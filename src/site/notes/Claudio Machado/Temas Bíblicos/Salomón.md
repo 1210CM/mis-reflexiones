@@ -11,7 +11,3 @@ El tercer Rey de Israel Fue el ser humano imperfecto más sabio que existió y s
 > - [[Claudio Machado/Temas Bíblicos/Buenas decisiones\|Buenas decisiones]]
 > - [[Claudio Machado/Temas Bíblicos/Conocimiento\|Conocimiento]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
-
----
-

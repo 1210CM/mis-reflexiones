@@ -23,4 +23,4 @@
 
 [[Claudio Machado/Temas Bíblicos/Presuma de Jehová\|Presuma de Jehová]]
 
-Asamblea [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
+Asamblea [[No nos avergonzamos de las buenas nuevas mals\|No nos avergonzamos de las buenas nuevas mals]]

@@ -10,4 +10,3 @@ Uno de los últimos Reyes de Judá, hijo de Josias. Un reinado marcado por la in
 > - [[Claudio Machado/Temas Bíblicos/Templo\|Templo]]
 > - [[Claudio Machado/Temas Bíblicos/Jehová\|Jehová]]
 
-<%* tR += await tp.file.include("[[Pie de página]]") %>
