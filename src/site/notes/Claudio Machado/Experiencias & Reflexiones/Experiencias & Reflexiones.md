@@ -67,6 +67,8 @@ conclusiones que la vida me enseñó</p>
 > - [[Claudio Machado/Experiencias & Reflexiones/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]]
 > - [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Nuestro regreso de Bombinhas\|Nuestro regreso de Bombinhas]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Pasar página después de perdonar\|Pasar página después de perdonar]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Perdonar y manejo de sentimientos\|Perdonar y manejo de sentimientos]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Piedra do Frade\|Piedra do Frade]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Pintura exterior de la casa\|Pintura exterior de la casa]]
 > - [[Claudio Machado/Experiencias & Reflexiones/praia 4 ilhas\|praia 4 ilhas]]

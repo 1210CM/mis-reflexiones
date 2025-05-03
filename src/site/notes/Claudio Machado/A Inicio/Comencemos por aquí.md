@@ -28,13 +28,13 @@ crecen a su ritmo.</p>
 <hr>
 
 >[!lo-nuevo]+ Mis últimas publicaciones:
+> - [[Claudio Machado/Experiencias & Reflexiones/Pasar página después de perdonar\|Pasar página después de perdonar]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Perdonar y manejo de sentimientos\|Perdonar y manejo de sentimientos]]
+> - [[Claudio Machado/Temas Bíblicos/Beneficios de perdonar\|Beneficios de perdonar]]
+> - [[Claudio Machado/Temas Bíblicos/Para perdonar hay que cultivar emociones positivas\|Para perdonar hay que cultivar emociones positivas]]
+> - [[Claudio Machado/Temas Bíblicos/Perdonar con generosidad\|Perdonar con generosidad]]
 > - [[Claudio Machado/Brodcasting & vídeo/Escucha activa\|Escucha activa]]
 > - [[Claudio Machado/Temas Bíblicos/Que su lengua no destruya la paz\|Que su lengua no destruya la paz]]
-> - [[Claudio Machado/Recomendaciones/Juan Fagundez - Sanitario\|Juan Fagundez - Sanitario]]
-> - [[Claudio Machado/Experiencias & Reflexiones/Katherine\|Katherine]]
-> - [[Claudio Machado/Temas Bíblicos/Jonatán es valiente y leal\|Jonatán es valiente y leal]]
-> - [[Claudio Machado/Temas Bíblicos/Calumnia\|Calumnia]]
-> - [[Claudio Machado/Temas Bíblicos/Jonatán\|Jonatán]]
 > 
 { .block-language-dataview}
 
