@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/el-aguante-de-job/","title":"El aguante de Job","tags":["Job","poder","Jehová"]}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/el-aguante-de-job/","title":"El aguante de Job","tags":["Job","poder","Jehová","brodcasting"]}
 ---
 
 [video](https://www.jw.org/finder?srcid=jwlshare&wtlocale=S&lank=pub-jwbvod25_12_VIDEO)

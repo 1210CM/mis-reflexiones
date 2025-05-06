@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/evitemos-las-cosas-que-destruyen-la-paz/","title":"evitemos las cosas que destruyen la paz","tags":["Paz"]}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/evitemos-las-cosas-que-destruyen-la-paz/","title":"evitemos las cosas que destruyen la paz","tags":["Paz","brodcasting","chisme","lengua"]}
 ---
 
 - Clara es una precursora que usa los vídeos en las redes sociales para vender productos de belleza.

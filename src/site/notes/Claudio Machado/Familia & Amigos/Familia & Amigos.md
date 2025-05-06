@@ -24,6 +24,7 @@
 
 ---
 >[!nota-destacada]- Índice: Familia & Amigos:
+> - [[Claudio Machado/Familia & Amigos/Almuerzo en lo de Flia Carrizo\|Almuerzo en lo de Flia Carrizo]]
 > - [[Claudio Machado/Familia & Amigos/Bienvenida Familia Carrizo\|Bienvenida Familia Carrizo]]
 > - [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
 > - [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]

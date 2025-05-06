@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/el-aire-toxico/","title":"El aire tóxico","tags":["aire","tóxico","video"]}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/el-aire-toxico/","title":"El aire tóxico","tags":["aire","tóxico","video","brodcasting"]}
 ---
 
 [Ver vídeo](https://www.jw.org/finder?srcid=jwlshare&wtlocale=S&lank=pub-jwbvod25_9_VIDEO)

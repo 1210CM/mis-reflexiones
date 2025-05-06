@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/escucha-activa/","title":"Escucha activa","tags":["escuchar","Humildad","sabiduría","adoración_matutina"]}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/escucha-activa/","title":"Escucha activa","tags":["escuchar","Humildad","sabiduría","adoración_matutina","brodcasting"]}
 ---
 
 Basado en vídeo [escuchar activamente](https://www.jw.org/finder?srcid=jwlshare&wtlocale=S&lank=pub-jwbvod25_16_VIDEO) 

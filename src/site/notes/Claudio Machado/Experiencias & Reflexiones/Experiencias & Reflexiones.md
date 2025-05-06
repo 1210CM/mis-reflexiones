@@ -43,6 +43,7 @@ conclusiones que la vida me enseñó</p>
 > - [[Claudio Machado/Experiencias & Reflexiones/29 y 30 de marzo 2025 - Fin de semana con mucha actividad Especial.\|29 y 30 de marzo 2025 - Fin de semana con mucha actividad Especial.]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Adaptaciones de los seres vivos al agua\|Adaptaciones de los seres vivos al agua]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Alemanes recorren el mundo en Motorhome\|Alemanes recorren el mundo en Motorhome]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Alojamiento en casa de los Carrizo\|Alojamiento en casa de los Carrizo]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Ayuda para ser readmitido\|Ayuda para ser readmitido]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Bautismo 2024-05-26\|Bautismo 2024-05-26]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Careta del Cruze\|Careta del Cruze]]
@@ -66,7 +67,9 @@ conclusiones que la vida me enseñó</p>
 > - [[Claudio Machado/Experiencias & Reflexiones/Mudanza de Katherine\|Mudanza de Katherine]]
 > - [[Claudio Machado/Experiencias & Reflexiones/No fue grave, porque Dios cuidó a todos!!\|No fue grave, porque Dios cuidó a todos!!]]
 > - [[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Nos fuimos a Betel\|Nos fuimos a Betel]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Nuestro regreso de Bombinhas\|Nuestro regreso de Bombinhas]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Palabras con las que Jehová seca nuestras lágrimas\|Palabras con las que Jehová seca nuestras lágrimas]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Pasar página después de perdonar\|Pasar página después de perdonar]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Perdonar y manejo de sentimientos\|Perdonar y manejo de sentimientos]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Piedra do Frade\|Piedra do Frade]]
@@ -84,6 +87,8 @@ conclusiones que la vida me enseñó</p>
 > - [[Claudio Machado/Experiencias & Reflexiones/Reunión especial visita del superintendente de zona, en Ezeiza\|Reunión especial visita del superintendente de zona, en Ezeiza]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Unas palabras\|Unas palabras]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Visita al museo del holocausto\|Visita al museo del holocausto]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Visitamos betel Argentina\|Visitamos betel Argentina]]
 > 
 { .block-language-dataview}
 

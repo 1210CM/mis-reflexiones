@@ -28,13 +28,13 @@ crecen a su ritmo.</p>
 <hr>
 
 >[!lo-nuevo]+ Mis últimas publicaciones:
-> - [[Claudio Machado/Experiencias & Reflexiones/Pasar página después de perdonar\|Pasar página después de perdonar]]
-> - [[Claudio Machado/Experiencias & Reflexiones/Perdonar y manejo de sentimientos\|Perdonar y manejo de sentimientos]]
-> - [[Claudio Machado/Temas Bíblicos/Beneficios de perdonar\|Beneficios de perdonar]]
-> - [[Claudio Machado/Temas Bíblicos/Para perdonar hay que cultivar emociones positivas\|Para perdonar hay que cultivar emociones positivas]]
-> - [[Claudio Machado/Temas Bíblicos/Perdonar con generosidad\|Perdonar con generosidad]]
-> - [[Claudio Machado/Brodcasting & vídeo/Escucha activa\|Escucha activa]]
-> - [[Claudio Machado/Temas Bíblicos/Que su lengua no destruya la paz\|Que su lengua no destruya la paz]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Visitamos betel Argentina\|Visitamos betel Argentina]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Nos fuimos a Betel\|Nos fuimos a Betel]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Alojamiento en casa de los Carrizo\|Alojamiento en casa de los Carrizo]]
+> - [[Claudio Machado/Temas Bíblicos/Festo\|Festo]]
+> - [[Claudio Machado/Temas Bíblicos/Mical\|Mical]]
+> - [[Claudio Machado/Temas Bíblicos/Absalón\|Absalón]]
+> - [[Claudio Machado/Temas Bíblicos/Ahitofel\|Ahitofel]]
 > 
 { .block-language-dataview}
 

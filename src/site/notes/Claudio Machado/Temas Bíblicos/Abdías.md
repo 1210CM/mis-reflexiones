@@ -11,5 +11,5 @@ Era un homenaje muy temeroso de Dios. Durante ése tiempo el escondió y aliment
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Acab\|Acab]]
 > - [[Claudio Machado/Temas Bíblicos/Jezabel\|Jezabel]]
-> - [[07 - Personal/Archivo/Jehová fortalece a Elías\|Jehová fortalece a Elías]]
+> - [[Claudio Machado/Temas Bíblicos/Jehová fortalece a Elías\|Jehová fortalece a Elías]]
 

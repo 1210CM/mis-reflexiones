@@ -30,7 +30,6 @@
 > - [[Claudio Machado/Brodcasting & vídeo/Dios nos llena de Energía\|Dios nos llena de Energía]]
 > - [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]]
 > - [[Claudio Machado/Brodcasting & vídeo/El aire tóxico\|El aire tóxico]]
-> - [[Claudio Machado/Brodcasting & vídeo/Es esta vida todo cuanto hay\|Es esta vida todo cuanto hay]]
 > - [[Claudio Machado/Brodcasting & vídeo/Escucha activa\|Escucha activa]]
 > - [[Claudio Machado/Brodcasting & vídeo/evitemos las cosas que destruyen la paz\|evitemos las cosas que destruyen la paz]]
 > - [[Claudio Machado/Brodcasting & vídeo/Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida\|Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida]]

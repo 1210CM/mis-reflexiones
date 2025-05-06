@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/como-trabajar-en-equipo-para-mantener-un-matrimonio-feliz/","title":"Cómo trabajar en equipo para mantener un matrimonio feliz","tags":["Matrimonio"]}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/como-trabajar-en-equipo-para-mantener-un-matrimonio-feliz/","title":"Cómo trabajar en equipo para mantener un matrimonio feliz","tags":["Matrimonio","brodcasting"]}
 ---
 
 [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025 - Jehová en primer lugar\|brodcasting - Marzo 2025 - Jehová en primer lugar]]

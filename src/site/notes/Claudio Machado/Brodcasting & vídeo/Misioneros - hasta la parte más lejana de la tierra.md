@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/misioneros-hasta-la-parte-mas-lejana-de-la-tierra/","title":"Misioneros - hasta la parte más lejana de la tierra","tags":["predicar","misioneros"]}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/misioneros-hasta-la-parte-mas-lejana-de-la-tierra/","title":"Misioneros - hasta la parte más lejana de la tierra","tags":["predicar","misioneros","brodc","brodcasting"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/no-seamos-un-obstaculo-en-la-adoracion-a-jehova/","title":"No seamos un obstáculo en la adoración a Jehová"}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/no-seamos-un-obstaculo-en-la-adoracion-a-jehova/","title":"No seamos un obstáculo en la adoración a Jehová","tags":["brodcasting","consejo"]}
 ---
 
 [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025 - Jehová en primer lugar\|brodcasting - Marzo 2025 - Jehová en primer lugar]]

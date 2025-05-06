@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/busquemos-cosas-grandes-para-jehova/","title":"Busquemos cosas grandes para Jehová","tags":["Jeremías","Baruc"]}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/busquemos-cosas-grandes-para-jehova/","title":"Busquemos cosas grandes para Jehová","tags":["Jeremías","Baruc","brodcasting"]}
 ---
 
 Discurso basado en el ejemplo de un siervo de [[Claudio Machado/Temas Bíblicos/Jehová\|Jehová]] llamado [[Claudio Machado/Temas Bíblicos/Baruc\|Baruc]]  que era secretario de durante unos 18 años [[Claudio Machado/Temas Bíblicos/Jeremías\|Jeremías]] [Jer. 45:1](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/24/45#v=24:45:1) hasta la destrucción de Jerusalén en el 607

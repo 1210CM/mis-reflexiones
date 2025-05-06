@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/busquemos-el-reconocimiento-de-jehova/","title":"Busquemos el reconocimiento de Jehová","tags":["experiencia","Matrimonio","Enfermedad","Sufrimiento","reconocimiento"]}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/busquemos-el-reconocimiento-de-jehova/","title":"Busquemos el reconocimiento de Jehová","tags":["experiencia","Matrimonio","Enfermedad","Sufrimiento","reconocimiento","brodcasting"]}
 ---
 
 ![Jehová_todo_lo_ve-viuda_en_el_templo-JW.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Jehov%C3%A1_todo_lo_ve-viuda_en_el_templo-JW.jpeg)
