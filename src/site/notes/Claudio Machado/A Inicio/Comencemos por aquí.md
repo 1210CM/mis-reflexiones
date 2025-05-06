@@ -31,9 +31,9 @@ crecen a su ritmo.</p>
 > - [[Claudio Machado/Experiencias & Reflexiones/Visitamos betel Argentina\|Visitamos betel Argentina]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Nos fuimos a Betel\|Nos fuimos a Betel]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Alojamiento en casa de los Carrizo\|Alojamiento en casa de los Carrizo]]
-> - [[Claudio Machado/Temas Bíblicos/Festo\|Festo]]
 > - [[Claudio Machado/Temas Bíblicos/Mical\|Mical]]
 > - [[Claudio Machado/Temas Bíblicos/Absalón\|Absalón]]
+> - [[Claudio Machado/Temas Bíblicos/Festo\|Festo]]
 > - [[Claudio Machado/Temas Bíblicos/Ahitofel\|Ahitofel]]
 > 
 { .block-language-dataview}

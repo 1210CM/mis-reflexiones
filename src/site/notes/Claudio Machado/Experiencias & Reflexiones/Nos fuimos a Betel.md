@@ -14,8 +14,8 @@ Fue un lindo viaje, lo organizaron los hermanos de nuestra congregación Solymar
 <span class = "pie-foto"> Todo el grupo almorzando juntos el  día que volvimos </span>
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Experiencias & Reflexiones/Visita al museo del holocausto\|Visita al museo del holocausto]]
-> - [[nota 2\|nota 2]]
-> - [[nota 3\|nota 3]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Alojamiento en casa de los Carrizo\|Alojamiento en casa de los Carrizo]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Visitamos betel Argentina\|Visitamos betel Argentina]]
 
 
 
