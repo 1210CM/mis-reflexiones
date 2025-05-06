@@ -23,7 +23,7 @@ Con el tiempo tuvieron otra niña que también fué una bendición.
 
 Y aunque ya pasaran unos años, siguen poniendo a Jehová en primer lugar, porque saben que el si está conciente de todo su sufrimiento y por éso pueden ver las bendiciones que Jehová les está dando. La esposa cuenta que escribe cada cosa que entiende es una bendición de Jehová, éso le ayuda a seguir estando agradecida. Y ve el amor de Jehová en circunstancias tan difíciles 
 
-[[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
+[[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025 - Jehová en primer lugar\|brodcasting - Marzo 2025 - Jehová en primer lugar]]
 
 
 > [!notasrelacionadas] Notas relacionadas

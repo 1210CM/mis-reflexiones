@@ -4,7 +4,7 @@
 
 Sobre las noticias que escuchamos, serán todas ciertas, y nos dejan muchas dudas. Nosotros queremos la verdad 
 
-![noticias-verdad-mentira.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/noticias-verdad-mentira.jpg)
+![noticias-verdad-mentira.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/noticias-verdad-mentira.jpg)
 
 [2 Timoteo 3:1,](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/55/3#v=55:3:1)  [13](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/55/3#v=55:3:13) muchos creerán engañosa 
 [Proverbios 14:15](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/20/14#v=20:14:15) por eso es bueno confirmar 

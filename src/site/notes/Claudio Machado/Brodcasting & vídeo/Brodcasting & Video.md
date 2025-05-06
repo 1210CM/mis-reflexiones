@@ -4,7 +4,7 @@
 
 
 > [!nota-principal] [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]] 
-> ![Mark-Noumair.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mark-Noumair.jpg)  
+> ![Mark-Noumair.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mark-Noumair.jpg)  
 >  Lo que sucedió con Job, nos da confianza en el poder de Jehová y los límites de Satanás 
 
 
@@ -23,7 +23,7 @@
 ---
 >[!nota-destacada]- Índice: Brodcasting & Video:
 > - [[Claudio Machado/Brodcasting & vídeo/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
-> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
+> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025 - Jehová en primer lugar\|brodcasting - Marzo 2025 - Jehová en primer lugar]]
 > - [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
 > - [[Claudio Machado/Brodcasting & vídeo/Busquemos el reconocimiento de Jehová\|Busquemos el reconocimiento de Jehová]]
 > - [[Claudio Machado/Brodcasting & vídeo/Cómo trabajar en equipo para mantener un matrimonio feliz\|Cómo trabajar en equipo para mantener un matrimonio feliz]]

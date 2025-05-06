@@ -58,7 +58,7 @@ crecen a su ritmo.</p>
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
 > 
->  ![noticias-verdad-mentira.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/noticias-verdad-mentira.jpg)
+>  ![noticias-verdad-mentira.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/noticias-verdad-mentira.jpg)
 >  
 >  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 
@@ -88,7 +88,7 @@ crecen a su ritmo.</p>
 ## ⏳ Rincón del tiempo
 
 > [!nota-destacada] 💍[[Claudio Machado/Experiencias & Reflexiones/Mi boda\|Mi boda]]
-> ![Mi-boda-firmando.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mi-boda-firmando.jpg)
+> ![Mi-boda-firmando.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mi-boda-firmando.jpg)
 > Hoy quiero destacar el momento de mi boda 
 
 ---

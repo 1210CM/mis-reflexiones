@@ -5,7 +5,7 @@
 [video](https://www.jw.org/finder?srcid=jwlshare&wtlocale=S&lank=pub-jwbvod25_12_VIDEO)
 Mark Noumair: El relato de Job nos ayuda a aguantar (Rom. 15:4)
 
-![Mark-Noumair.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mark-Noumair.jpg)
+![Mark-Noumair.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mark-Noumair.jpg)
 
 ## La autoridad de Jehová y su poder nos debe dar confianza 
 

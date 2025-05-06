@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/gerardo-mi-amigo-y-vecino/","tags":["Pintor","Gerardo"]}
+{"dg-publish":true,"permalink":"/claudio-machado/recomendaciones/gerardo-mi-amigo-y-vecino/","title":"Gerardo mi amigo y vecino","tags":["Pintor","Gerardo"]}
 ---
 
 ![20250128_145841.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250128_145841.jpg)  
@@ -9,5 +9,20 @@ A Gerardo lo conocí cuando nos mudamos para Montes de Solymar. Es pintor de pro
 
 Yo lo recomiendo cómo pintor y cómo persona, es muy buena persona, responsable con su trabajo, y su precio es muy razonable.
 
-Pero lo que más aprecio de él es el cariño por los animales, en especial por mis tres perritas, cada ves que nos sale una oportunidad de viajar el se preocupa de darles de comer y atenderlas con el mismo cariño que atiende sus propias mascotas.
+Pero lo que más aprecio de él es el cariño por los animales, en especial por mis tres perritas, cada ves que nos sale una oportunidad de viajar el se preocupa de darles de comer y atenderlas con el mismo cariño que atiende sus propias mascotas. 
+
+
+> [!notasrelacionadas] Notas relacionadas
+> - [[Claudio Machado/Recomendaciones/Juan Fagundez - Sanitario\|Juan Fagundez - Sanitario]]
+> - [[Claudio Machado/Recomendaciones/taller de Javier\|taller de Javier]]
+
+
+
+
+---
+
+
+
+
+---
 

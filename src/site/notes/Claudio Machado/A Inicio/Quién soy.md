@@ -4,7 +4,7 @@
 
 
 ***Soy Claudio Machado***
-![claudio-patricia-betel.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/claudio-patricia-betel.jpg) 
+![claudio-patricia-betel.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/claudio-patricia-betel.jpg) 
 <span class="pie-foto">Junto a mi esposa Patricia en Betel Argentina (Febrero 2025)</span>
 
 ---

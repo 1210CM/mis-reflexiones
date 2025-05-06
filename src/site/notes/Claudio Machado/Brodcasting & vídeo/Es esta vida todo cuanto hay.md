@@ -3,9 +3,6 @@
 ---
 
 
-Orador::
-Categoría:: [[Conferencia\|Conferencia]]
-Fecha:: 2025-03-02
 
 ## Ideas principales 
 
@@ -58,7 +55,7 @@ Fundamentemos nuestra creencia con la enseñanza bíblica, el estudio nos consue
 
 Que todos podamos ganar un lugar en ese nuevo mundo 
 
-[[Prueba de templater\|Prueba de templater]]
+
 
 
 

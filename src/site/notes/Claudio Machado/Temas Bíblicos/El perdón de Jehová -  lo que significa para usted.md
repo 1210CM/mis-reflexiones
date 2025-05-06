@@ -30,5 +30,5 @@ El que se nos perdone, o que alivia nuestra carga genera un gran alivio [Salmo 2
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/El amor leal de Jehová abre el camino a la salvación\|El amor leal de Jehová abre el camino a la salvación]]
 > - [[Claudio Machado/Temas Bíblicos/La muerte de Jesús nos libera del pecado y la muerte\|La muerte de Jesús nos libera del pecado y la muerte]]
-> - [[Claudio Machado/Temas Bíblicos/Sea siempre leal a Jehová\|Sea siempre leal a Jehová]]
+> - [[07 - Personal/Archivo/Sea siempre leal a Jehová\|Sea siempre leal a Jehová]]
 

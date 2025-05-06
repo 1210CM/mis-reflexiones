@@ -16,7 +16,7 @@ Porque tomamos buenas decisiones
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
+> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025 - Jehová en primer lugar\|brodcasting - Marzo 2025 - Jehová en primer lugar]]
 > - [[Claudio Machado/Brodcasting & vídeo/El aire tóxico\|El aire tóxico]]
 > - [[Claudio Machado/Brodcasting & vídeo/El aguante de Job\|El aguante de Job]]
 

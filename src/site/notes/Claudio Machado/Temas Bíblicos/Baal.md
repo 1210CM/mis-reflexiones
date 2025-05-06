@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/baal/","title":"Baal","tags":["baal"]}
+{"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/baal/","title":"Baal","tags":["baal","Dios_falso"]}
 ---
 
 Dios de la lluvia y la fertilidad.

@@ -23,7 +23,7 @@ Por ese motivo queremos invitar a todos los más que sea posible a que participe
 
 En mi congregación se repartieron Miles de invitaciones cubriendo todo el territorio asignado y mi esposa Patricia y yo participamos activamente durante este mes porque no queríamos perdernos la oportunidad de invitar a la mayor cantidad  de personas posibles, a la que es la reunión más importante del año para nosotros.
 
-![Invitación-memorial-2025.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Invitaci%C3%B3n-memorial-2025.jpg)
+![Invitación-memorial-2025.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Invitaci%C3%B3n-memorial-2025.jpg)
 [Ver invitación digital](https://www.jw.org/es/testigos-de-jehov%C3%A1/conmemoracion/)
 
 

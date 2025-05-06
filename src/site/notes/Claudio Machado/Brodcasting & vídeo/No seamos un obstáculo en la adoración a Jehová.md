@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/no-seamos-un-obstaculo-en-la-adoracion-a-jehova/","title":"No seamos un obstáculo en la adoración a Jehová"}
 ---
 
-[[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
+[[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025 - Jehová en primer lugar\|brodcasting - Marzo 2025 - Jehová en primer lugar]]
 
 La palabra de Dios está viva y actúa con poder.... Esto aplica a la biblia.
 Pero antes de la escritura ya existía la comunicación.
@@ -35,7 +35,7 @@ Cuando surje un proyecto o cambio apoyemos, y si no podemos, oremos para que tod
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
+> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025 - Jehová en primer lugar\|brodcasting - Marzo 2025 - Jehová en primer lugar]]
 > - [[Claudio Machado/Brodcasting & vídeo/Cómo trabajar en equipo para mantener un matrimonio feliz\|Cómo trabajar en equipo para mantener un matrimonio feliz]]
 > - [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
 

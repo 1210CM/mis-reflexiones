@@ -3,7 +3,7 @@
 ---
 
 **Programa especial**
-![remi-pringle-representante-regional.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/remi-pringle-representante-regional.jpg) 
+![remi-pringle-representante-regional.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/remi-pringle-representante-regional.jpg) 
 
 
 [Hechos 13:15](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/44/13#v=44:13:15) necesitábamos mucho ánimo y estímulo, debido a las circunstancias que nos rodea en este mundo, reuniones como está podemos sentir algo muy diferente, el pueblo de Jehová, como si fuera de otro mundo. (La Sociedad del nuevo mundo, así se conocían los testigos, hace muchos años) aman a Jehová, a Jesús y nos amamos entre nosotros. Por éso miramos con optimización el futuro, bajo el gobierno de Dios. Adiós a muchas cosas, muerte, dolor, hambre, injusticia, enfermedad, sufrimiento. Y muchas adioses más 

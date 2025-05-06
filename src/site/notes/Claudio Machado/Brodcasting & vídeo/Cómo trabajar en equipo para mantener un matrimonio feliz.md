@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/como-trabajar-en-equipo-para-mantener-un-matrimonio-feliz/","title":"Cómo trabajar en equipo para mantener un matrimonio feliz","tags":["Matrimonio"]}
 ---
 
-[[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
+[[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025 - Jehová en primer lugar\|brodcasting - Marzo 2025 - Jehová en primer lugar]]
 
 - en una familia hay mucho que hacer cada día y todos los días 
 - ponerse de acuerdo en que hacer y cómo hacerlo puede ser un verdadero desafío 

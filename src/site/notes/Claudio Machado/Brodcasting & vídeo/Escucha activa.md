@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/escucha-activa/","title":"Escucha activa","tags":["escuchar","Humildad","sabiduría"]}
+{"dg-publish":true,"permalink":"/claudio-machado/brodcasting-and-video/escucha-activa/","title":"Escucha activa","tags":["escuchar","Humildad","sabiduría","adoración_matutina"]}
 ---
 
 Basado en vídeo [escuchar activamente](https://www.jw.org/finder?srcid=jwlshare&wtlocale=S&lank=pub-jwbvod25_16_VIDEO) 
@@ -24,5 +24,5 @@ Escuchar activamente incluye tres aspectos.
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Brodcasting & vídeo/El aire tóxico\|El aire tóxico]]
 > - [[Claudio Machado/Brodcasting & vídeo/No seamos un obstáculo en la adoración a Jehová\|No seamos un obstáculo en la adoración a Jehová]]
-> - [[Claudio Machado/Brodcasting & vídeo/Vengo pronto\|Vengo pronto]]
+> - [[07 - Personal/Archivo/Vengo pronto\|Vengo pronto]]
 

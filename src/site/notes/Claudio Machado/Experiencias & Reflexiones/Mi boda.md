@@ -5,7 +5,7 @@
 21 Agosto 2017
 
 En Registro Civil Ciudad de la Costa 
-![Mi-boda-firmando.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mi-boda-firmando.jpg) 
+![Mi-boda-firmando.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Mi-boda-firmando.jpg) 
 
 Se nos ve felices verdad?. Llevábamos poco tiempo de conocernos menos de dos años, y veníamos de un matrimonio anterior cada uno. 
 Durante ese tiempo que nos conocíamos hablamos de muchos temas, [[Claudio Machado/Temas Bíblicos/Política\|Política]], [[Claudio Machado/Temas Bíblicos/Religión\|Religión]], [[Claudio Machado/Temas Bíblicos/Familia\|Familia]], [[Claudio Machado/Temas Bíblicos/Dinero\|Dinero]], etc.

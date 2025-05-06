@@ -5,7 +5,7 @@
 Dilan Ramírez es un hermano joven de la congregación que vive una condición muy diferente a la que disfrutan muchos jóvenes.
 Pero es un orgullo para la congregación, su celo por Jehová.
 
-![Dilan-lectura.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2004%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Dilan-lectura.jpg)
+![Dilan-lectura.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/Dilan-lectura.jpg)
 <span class="pie-foto">Leyendo la Biblia para la congregación</span>
 
 Su familia está compuesta por su hermano Santiago y su papá Jorge.

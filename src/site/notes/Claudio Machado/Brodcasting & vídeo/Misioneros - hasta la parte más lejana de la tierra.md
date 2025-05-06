@@ -21,6 +21,6 @@ Podremos ofrecernos como voluntario para servir donde haya necesidad, podemos ha
 
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Brodcasting & vídeo/2025 Informe 2 - Cuerpo Gobernante\|2025 Informe 2 - Cuerpo Gobernante]]
-> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025\|brodcasting - Marzo 2025]]
+> - [[Claudio Machado/Brodcasting & vídeo/brodcasting - Marzo 2025 - Jehová en primer lugar\|brodcasting - Marzo 2025 - Jehová en primer lugar]]
 > - [[Claudio Machado/Brodcasting & vídeo/Dios nos llena de Energía\|Dios nos llena de Energía]]
 
