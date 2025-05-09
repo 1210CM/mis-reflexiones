@@ -6,7 +6,7 @@ El espíritu fomentado por el Diablo, y es contrario a Dios, fomenta el material
 
 
 > [!notasrelacionadas] Notas relacionadas
-> - [[Claudio Machado/Temas Bíblicos/Abraham\|Abraham]]
+> - [[Claudio Machado/Temas Bíblicos/Abraham es para borrar\|Abraham es para borrar]]
 > - [[Claudio Machado/Temas Bíblicos/Alejemos la mirada de lo que es inútil\|Alejemos la mirada de lo que es inútil]]
 > - [[Claudio Machado/Temas Bíblicos/Importancia de distinguir la verdad\|Importancia de distinguir la verdad]]
 
