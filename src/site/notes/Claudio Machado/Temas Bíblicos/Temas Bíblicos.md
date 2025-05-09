@@ -48,7 +48,6 @@
 > - [[Claudio Machado/Temas Bíblicos/144 mil\|144 mil]]
 > - [[Claudio Machado/Temas Bíblicos/Abdías\|Abdías]]
 > - [[Claudio Machado/Temas Bíblicos/Abigail\|Abigail]]
-> - [[Claudio Machado/Temas Bíblicos/Abraham\|Abraham]]
 > - [[Claudio Machado/Temas Bíblicos/Abrahám\|Abrahám]]
 > - [[Claudio Machado/Temas Bíblicos/Absalón\|Absalón]]
 > - [[Claudio Machado/Temas Bíblicos/Acab\|Acab]]

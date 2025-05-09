@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/claudio-machado/temas-biblicos/abraham/","title":"Abrahán, amigo de Dios","tags":["Amigo","Amistad","Abraham"]}
 ---
 
+Amigo de Dios el padre de la nación de Israel
 Abrahán es un ejemplo de fe y obediencia, siendo llamado amigo de Dios por su relación cercana y su disposición a seguir Su voluntad.
 
 > [!notasrelacionadas] Notas relacionadas
