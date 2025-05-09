@@ -32,6 +32,7 @@
 > - [[Claudio Machado/Brodcasting & vídeo/El aire tóxico\|El aire tóxico]]
 > - [[Claudio Machado/Brodcasting & vídeo/Escucha activa\|Escucha activa]]
 > - [[Claudio Machado/Brodcasting & vídeo/evitemos las cosas que destruyen la paz\|evitemos las cosas que destruyen la paz]]
+> - [[Claudio Machado/Brodcasting & vídeo/Jehová cubrirá nuestras necesidades\|Jehová cubrirá nuestras necesidades]]
 > - [[Claudio Machado/Brodcasting & vídeo/Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida\|Jóvenes - Principios bíblicos ayudan a escoger tu camino en la vida]]
 > - [[Claudio Machado/Brodcasting & vídeo/Misioneros - hasta la parte más lejana de la tierra\|Misioneros - hasta la parte más lejana de la tierra]]
 > - [[Claudio Machado/Brodcasting & vídeo/No seamos un obstáculo en la adoración a Jehová\|No seamos un obstáculo en la adoración a Jehová]]

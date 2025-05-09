@@ -28,13 +28,13 @@ crecen a su ritmo.</p>
 <hr>
 
 >[!lo-nuevo]+ Mis últimas publicaciones:
-> - [[Claudio Machado/Experiencias & Reflexiones/Visitamos betel Argentina\|Visitamos betel Argentina]]
-> - [[Claudio Machado/Experiencias & Reflexiones/Nos fuimos a Betel\|Nos fuimos a Betel]]
-> - [[Claudio Machado/Experiencias & Reflexiones/Alojamiento en casa de los Carrizo\|Alojamiento en casa de los Carrizo]]
-> - [[Claudio Machado/Temas Bíblicos/Mical\|Mical]]
-> - [[Claudio Machado/Temas Bíblicos/Absalón\|Absalón]]
-> - [[Claudio Machado/Temas Bíblicos/Festo\|Festo]]
-> - [[Claudio Machado/Temas Bíblicos/Ahitofel\|Ahitofel]]
+> - [[Claudio Machado/Brodcasting & vídeo/Jehová cubrirá nuestras necesidades\|Jehová cubrirá nuestras necesidades]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Trabajo duro\|Trabajo duro]]
+> - [[Claudio Machado/Temas Bíblicos/Afronte los problemas económicos con la ayuda de Jehová\|Afronte los problemas económicos con la ayuda de Jehová]]
+> - [[Claudio Machado/Temas Bíblicos/Jehová - Legislador Supremo\|Jehová - Legislador Supremo]]
+> - [[Claudio Machado/Temas Bíblicos/Ley y Santidad del Pueblo de Dios\|Ley y Santidad del Pueblo de Dios]]
+> - [[Claudio Machado/Temas Bíblicos/La Regulación de la Poligamia y el Divorcio en la Ley\|La Regulación de la Poligamia y el Divorcio en la Ley]]
+> - [[Claudio Machado/Temas Bíblicos/Ley judía y los Fariseos\|Ley judía y los Fariseos]]
 > 
 { .block-language-dataview}
 

@@ -85,6 +85,7 @@ conclusiones que la vida me enseñó</p>
 > - [[Claudio Machado/Experiencias & Reflexiones/Reparando la camioneta\|Reparando la camioneta]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Repartiendo invitaciones 2025\|Repartiendo invitaciones 2025]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Reunión especial visita del superintendente de zona, en Ezeiza\|Reunión especial visita del superintendente de zona, en Ezeiza]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Trabajo duro\|Trabajo duro]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Unas palabras\|Unas palabras]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Visita al museo del holocausto\|Visita al museo del holocausto]]

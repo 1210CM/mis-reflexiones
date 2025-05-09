@@ -6,7 +6,7 @@ Importante secta religiosa del judaísmo en el siglo primero. No descendían de 
 
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Engañar\|Engañar]]
-> - [[Claudio Machado/Temas Bíblicos/“La Ley De Jehová Es Perfecta” Cap.13\|“La Ley De Jehová Es Perfecta” Cap.13]]
+> - [[07 - Personal/Archivo/“La Ley De Jehová Es Perfecta” Cap.13\|“La Ley De Jehová Es Perfecta” Cap.13]]
 > - [[Claudio Machado/Temas Bíblicos/Jesucristo\|Jesucristo]]
 
 
