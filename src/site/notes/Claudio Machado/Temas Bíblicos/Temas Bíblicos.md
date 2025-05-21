@@ -3,11 +3,11 @@
 ---
 
 
-> [!nota-principal] [[Claudio Machado/Temas Bíblicos/Es posible encontrar la verdad\|Es posible encontrar la verdad]]
+> [!nota-principal] [[Claudio Machado/Temas Bíblicos/Afronte los problemas económicos con la ayuda de Jehová\|Afronte los problemas económicos con la ayuda de Jehová]]
 > 
->  ![noticias-verdad-mentira.jpg](/img/user/03%20-%20Jard%C3%ADn%20digital/03%20-%2005%20-%20Imagen/AC%20im%C3%A1genes%20subidas/noticias-verdad-mentira.jpg)
+>  ![trabajador_jw.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/trabajador_jw.jpg)
 >  
->  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
+> Vivimos en un mundo cambiante y el trabajo es fundamental para cubrir nuestras necesidades básicas 
 ---
 <div class="bienvenida">
 <p>Sección dedicada a temas de estudio bíblicos <br>con algunas conferencia destacadas </p>
@@ -46,11 +46,14 @@
 
 >[!nota-destacada]- Índice: Temas Bíblicos:
 > - [[Claudio Machado/Temas Bíblicos/144 mil\|144 mil]]
+> - [[Claudio Machado/Temas Bíblicos/7 pasos para ser amigo de Dios\|7 pasos para ser amigo de Dios]]
 > - [[Claudio Machado/Temas Bíblicos/Abdías\|Abdías]]
 > - [[Claudio Machado/Temas Bíblicos/Abigail\|Abigail]]
 > - [[Claudio Machado/Temas Bíblicos/Abrahám\|Abrahám]]
 > - [[Claudio Machado/Temas Bíblicos/Absalón\|Absalón]]
 > - [[Claudio Machado/Temas Bíblicos/Acab\|Acab]]
+> - [[Claudio Machado/Temas Bíblicos/Actitud mental\|Actitud mental]]
+> - [[Claudio Machado/Temas Bíblicos/Actitud mental y humildad\|Actitud mental y humildad]]
 > - [[Claudio Machado/Temas Bíblicos/Adán\|Adán]]
 > - [[Claudio Machado/Temas Bíblicos/Afronte los problemas económicos con la ayuda de Jehová\|Afronte los problemas económicos con la ayuda de Jehová]]
 > - [[Claudio Machado/Temas Bíblicos/Agripa\|Agripa]]
@@ -146,6 +149,7 @@
 > - [[Claudio Machado/Temas Bíblicos/Job\|Job]]
 > - [[Claudio Machado/Temas Bíblicos/Jonatán\|Jonatán]]
 > - [[Claudio Machado/Temas Bíblicos/Jonatán es valiente y leal\|Jonatán es valiente y leal]]
+> - [[Claudio Machado/Temas Bíblicos/Judíos no usan el Nombre de Dios\|Judíos no usan el Nombre de Dios]]
 > - [[Claudio Machado/Temas Bíblicos/Justo por Obras o por fe\|Justo por Obras o por fe]]
 > - [[Claudio Machado/Temas Bíblicos/La herida en el talón\|La herida en el talón]]
 > - [[Claudio Machado/Temas Bíblicos/La higuera que no produce fruto\|La higuera que no produce fruto]]
@@ -189,6 +193,8 @@
 > - [[Claudio Machado/Temas Bíblicos/Origen del Odio\|Origen del Odio]]
 > - [[Claudio Machado/Temas Bíblicos/Pablo\|Pablo]]
 > - [[Claudio Machado/Temas Bíblicos/Para perdonar hay que cultivar emociones positivas\|Para perdonar hay que cultivar emociones positivas]]
+> - [[Claudio Machado/Temas Bíblicos/Pedro aprendió buen juicio\|Pedro aprendió buen juicio]]
+> - [[Claudio Machado/Temas Bíblicos/Pensemos cómo Jehová\|Pensemos cómo Jehová]]
 > - [[Claudio Machado/Temas Bíblicos/Perdonar con generosidad\|Perdonar con generosidad]]
 > - [[Claudio Machado/Temas Bíblicos/Por qué no hay que presumir\|Por qué no hay que presumir]]
 > - [[Claudio Machado/Temas Bíblicos/Porque no nos avergonzamos de las buenas nuevas\|Porque no nos avergonzamos de las buenas nuevas]]

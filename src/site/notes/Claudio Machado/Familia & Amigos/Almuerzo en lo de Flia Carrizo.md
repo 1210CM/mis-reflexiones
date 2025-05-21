@@ -18,7 +18,7 @@ La verdad es que Carlos y Mara se siguen acomodando a Uruguay. Y por ahora les p
 > [!notasrelacionadas] Notas relacionadas
 > - [[Claudio Machado/Temas Bíblicos/Amamos porque Dios nos amo primero\|Amamos porque Dios nos amo primero]]
 > - [[Claudio Machado/Temas Bíblicos/Dios quiere Ayudarnos\|Dios quiere Ayudarnos]]
-> - [[Claudio Machado/Familia & Amigos/Raúl y Nancy - Hermanos de Paysandú\|Raúl y Nancy - Hermanos de Paysandú]]
+> - [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
 
 
 

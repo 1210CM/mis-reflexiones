@@ -60,7 +60,7 @@ Ser sumisos a las buenas noticias nos ayudará a recibir sus bendiciones por la 
 - [x] Revisar ésta información para ver de qué forma puedo aplicarlo 📅 2024-09-09 ✅ 2024-10-04
 
 
-[[No nos avergonzamos de las buenas nuevas mals\|No nos avergonzamos de las buenas nuevas mals]]
+[[Claudio Machado/Experiencias & Reflexiones/No nos avergonzamos de las buenas nuevas\|No nos avergonzamos de las buenas nuevas]]
 ![20250322_113009.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250322_113009.jpg)
 Daniel Silva 2025-03-22 discurso de bautismo 
 

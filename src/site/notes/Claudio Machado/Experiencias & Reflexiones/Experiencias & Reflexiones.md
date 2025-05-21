@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/claudio-machado/experiencias-and-reflexiones/experiencias-and-reflexiones/","title":"Experiencias & Reflexiones","tags":["experiencia"]}
 ---
 
-> [!nota-destacada] ✨ [[Claudio Machado/Experiencias & Reflexiones/Repartiendo invitaciones 2025\|Repartiendo invitaciones 2025]] 
-> ![IMG-20250412-WA0004.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG-20250412-WA0004.jpg)
-> Un gran acontecimiento, un gran apoyo, y se logro cubrir todo el territorio
+> [!nota-destacada] ✨ [[Claudio Machado/Experiencias & Reflexiones/Cómo me siento en la congregación\|Cómo me siento en la congregación]]
+> ![20250430_con_patrcia_banner.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250430_con_patrcia_banner.jpg)
+> Reflexión sobre mi crecimiento, participación y sentimientos en la congregación tras un año de reestablecimiento.
 
 
 ---
@@ -49,13 +49,16 @@ conclusiones que la vida me enseñó</p>
 > - [[Claudio Machado/Experiencias & Reflexiones/Careta del Cruze\|Careta del Cruze]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Casualidad o diseño en la naturaleza\|Casualidad o diseño en la naturaleza]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Centro histórico\|Centro histórico]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Claves para alcanzar nuestras metas\|Claves para alcanzar nuestras metas]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Como dar honra a mi esposa\|Como dar honra a mi esposa]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Cómo me siento en la congregación\|Cómo me siento en la congregación]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Congregación Solymar - Memorial 2025\|Congregación Solymar - Memorial 2025]]
 > - [[Claudio Machado/Experiencias & Reflexiones/DISCURSO DE BAUTISMO Sigamos siendo “sumisos a las buenas noticias”\|DISCURSO DE BAUTISMO Sigamos siendo “sumisos a las buenas noticias”]]
 > - [[Claudio Machado/Experiencias & Reflexiones/El agua y la vida\|El agua y la vida]]
 > - [[Claudio Machado/Experiencias & Reflexiones/El escarabajo tenebrionido y la captura de agua\|El escarabajo tenebrionido y la captura de agua]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Estoy dándole Honra a mi esposa\|Estoy dándole Honra a mi esposa]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Honrar a mi matrimonio\|Honrar a mi matrimonio]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Importancia de tener metas\|Importancia de tener metas]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Katherine\|Katherine]]
 > - [[Claudio Machado/Experiencias & Reflexiones/La camioneta - Cómo nueva otra vez\|La camioneta - Cómo nueva otra vez]]
 > - [[Claudio Machado/Experiencias & Reflexiones/La rata canguro y su economía de agua\|La rata canguro y su economía de agua]]
@@ -85,6 +88,7 @@ conclusiones que la vida me enseñó</p>
 > - [[Claudio Machado/Experiencias & Reflexiones/Reparando la camioneta\|Reparando la camioneta]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Repartiendo invitaciones 2025\|Repartiendo invitaciones 2025]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Reunión especial visita del superintendente de zona, en Ezeiza\|Reunión especial visita del superintendente de zona, en Ezeiza]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Seamos amigos de Jehová, nuestras metas\|Seamos amigos de Jehová, nuestras metas]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Trabajo duro\|Trabajo duro]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Unas palabras\|Unas palabras]]
 > - [[Claudio Machado/Experiencias & Reflexiones/Viaje en auto a Bombinhas\|Viaje en auto a Bombinhas]]

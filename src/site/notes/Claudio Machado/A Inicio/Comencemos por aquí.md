@@ -5,11 +5,11 @@
 
 # 🌐 Llegaste a "Mis Notas Personales" 
 
-> [!nota-principal] [[Claudio Machado/Experiencias & Reflexiones/Congregación Solymar - Memorial 2025\|Congregación Solymar - Memorial 2025]]
+> [!nota-principal] [[Claudio Machado/Familia & Amigos/Almuerzo en lo de Flia Carrizo\|Almuerzo en lo de Flia Carrizo]]
 > 
->  ![Maximiliano-Michelena-20250412.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/Maximiliano-Michelena-20250412.jpg)
+>  ![20250504-esperando_asado_familia_carrizo.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250504-esperando_asado_familia_carrizo.jpg)
 >  
->  12 de Abril 2025, una ceremonia sencilla que agradecemos por el inmenso significado que tiene para nosotros individualmente 
+>  El domingo después de la reunión, la familia Carrizo nos invitó un asado donde conocimos a su hija Dalila y su esposo Gustavo  
 
 ---
 <hr>
@@ -28,13 +28,13 @@ crecen a su ritmo.</p>
 <hr>
 
 >[!lo-nuevo]+ Mis últimas publicaciones:
-> - [[Claudio Machado/Brodcasting & vídeo/Jehová cubrirá nuestras necesidades\|Jehová cubrirá nuestras necesidades]]
-> - [[Claudio Machado/Experiencias & Reflexiones/Trabajo duro\|Trabajo duro]]
-> - [[Claudio Machado/Temas Bíblicos/Afronte los problemas económicos con la ayuda de Jehová\|Afronte los problemas económicos con la ayuda de Jehová]]
-> - [[Claudio Machado/Temas Bíblicos/Jehová - Legislador Supremo\|Jehová - Legislador Supremo]]
-> - [[Claudio Machado/Temas Bíblicos/Ley y Santidad del Pueblo de Dios\|Ley y Santidad del Pueblo de Dios]]
-> - [[Claudio Machado/Temas Bíblicos/La Regulación de la Poligamia y el Divorcio en la Ley\|La Regulación de la Poligamia y el Divorcio en la Ley]]
-> - [[Claudio Machado/Temas Bíblicos/Ley judía y los Fariseos\|Ley judía y los Fariseos]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Importancia de tener metas\|Importancia de tener metas]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Seamos amigos de Jehová, nuestras metas\|Seamos amigos de Jehová, nuestras metas]]
+> - [[Claudio Machado/Experiencias & Reflexiones/Claves para alcanzar nuestras metas\|Claves para alcanzar nuestras metas]]
+> - [[Claudio Machado/Temas Bíblicos/7 pasos para ser amigo de Dios\|7 pasos para ser amigo de Dios]]
+> - [[Claudio Machado/Temas Bíblicos/Actitud mental y humildad\|Actitud mental y humildad]]
+> - [[Claudio Machado/Temas Bíblicos/Pensemos cómo Jehová\|Pensemos cómo Jehová]]
+> - [[Claudio Machado/Temas Bíblicos/Pedro aprendió buen juicio\|Pedro aprendió buen juicio]]
 > 
 { .block-language-dataview}
 
@@ -47,9 +47,9 @@ crecen a su ritmo.</p>
 >![Como_perdona_jehova.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Como_perdona_jehova.jpeg)
 >Resumen estudio de Atalaya 
 
->[!nota-destacada] [[Claudio Machado/Brodcasting & vídeo/Busquemos cosas grandes para Jehová\|Busquemos cosas grandes para Jehová]]
->![Baruc-cosas_grandes-JW.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Baruc-cosas_grandes-JW.jpeg)
-> Jehová siempre sabe lo que pensamos y lo que sentimos, por eso siempre nos aconseja para nuestro beneficio
+> [!nota-destacada] ✨ [[Claudio Machado/Experiencias & Reflexiones/Cómo me siento en la congregación\|Cómo me siento en la congregación]]
+> ![20250430_con_patrcia_banner.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250430_con_patrcia_banner.jpg)
+> Reflexión sobre mi crecimiento, participación y sentimientos en la congregación tras un año de reestablecimiento
 
 > [!nota-destacada] [[Claudio Machado/Temas Bíblicos/Alejemos la mirada de lo que es inútil\|Alejemos la mirada de lo que es inútil]]
 > ![Jw-jesus-rechaza-tentaciones.jpeg](/img/user/07%20-%20Personal/Im%C3%A1genes/Jw-jesus-rechaza-tentaciones.jpeg) 
@@ -62,14 +62,6 @@ crecen a su ritmo.</p>
 >  
 >  No podemos confiar en todo lo que escuchamos, o leemos, pero ¿hay forma de encontrar la verdad? 
 
-
->[!nota-destacada] [[Claudio Machado/Temas Bíblicos/Sobreviveremos los últimos dias\|Sobreviveremos los últimos dias]]
->![IMG-guerra_Sobrevivientes.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/IMG-guerra_Sobrevivientes.jpg)
->Mucho se habla de un final, pero¿que dice la biblia realmente? 
-
->[!nota-destacada] [[Claudio Machado/Familia & Amigos/Familia Carrizo Bienvenida al centro 4\|Familia Carrizo Bienvenida al centro 4]]
->![20250427_almuerzo_bienvenida_carrizo 1.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/20250427_almuerzo_bienvenida_carrizo%201.jpg)
->Almuerzo en Jureré para darle la bienvenida al grupo 4
 
 
 ---

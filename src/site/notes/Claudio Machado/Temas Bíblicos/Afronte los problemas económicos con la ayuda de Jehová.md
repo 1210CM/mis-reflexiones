@@ -3,6 +3,7 @@
 ---
 
 [Guía de estudio](https://wol.jw.org/es/wol/meetings/r4/lp-s/2025/19) 
+![trabajador_jw.jpg](/img/user/07%20-%20Personal/Im%C3%A1genes/trabajador_jw.jpg)
 Vivimos en un sistema con mucha inestabilidad, donde nada es seguro,  y podemos perder nuestros trabajos y con ello la seguridad económica. 
 [Video **_Jehová nunca nos ha fallado_**](https://www.jw.org/finder?wtlocale=S&lank=pub-lffv_454_VIDEO)
 Cómo Jehová nos ayuda en estas circunstancias. 

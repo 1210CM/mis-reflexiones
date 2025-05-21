@@ -32,7 +32,7 @@ Y con nosotros es igual, Jehová sabe cómo nos sentimos y también sabe lo que 
 
 En nuestro caso vivimos en un mundo donde cuesta trabajo mantener el equilibrio, entre las cosas que necesitamos, dinero, educación, trabajo. Pero recordemos que Jehová sabe lo que necesitamos. Muchas experiencias de hermanos que buscaron, cosas grandes para si mismos, como buenos trabajos, estudios académicos, con el objetivo de tener más dinero o mejor posición. No les fue bien 
 
-Veamos la promesa de Jehová en En [Salmo 32:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/32#v=19:32:8) por éso debemos ser humildes y valientes como Baruc, el acepto el consejo, el quiere lo mejor para nosotros, el mundo controlado por Satanás está lleno de sufrimiento, disfrazado de felicidad. En cambio buscar cosas grandes para Jehová, es poner a Jehová en primer lugar y sabemos que el hará cosas grandes por nosotros, la bendición de Jehová es lo que enriquece...
+Veamos la promesa de Jehová en En {[Salmo 32:8](https://wol.jw.org/es/wol/b/r4/lp-s/nwtsty/19/32#v=19:32:8)} por éso debemos ser humildes y valientes como Baruc, el acepto el consejo, el quiere lo mejor para nosotros, el mundo controlado por Satanás está lleno de sufrimiento, disfrazado de felicidad. En cambio buscar cosas grandes para Jehová, es poner a Jehová en primer lugar y sabemos que el hará cosas grandes por nosotros, la bendición de Jehová es lo que enriquece...
 
 
 [brodcasting - Marzo 2025](https://www.jw.org/finder?srcid=jwlshare&wtlocale=S&lank=pub-jwb-123_1_VIDEO)
