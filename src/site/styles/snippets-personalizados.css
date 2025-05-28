@@ -370,15 +370,64 @@ img {
 .callout[data-callout="lo-nuevo"] a:hover {
   color: #B26700;
 }
+/* -------------------- */
+/* ESTILOS PARA PIE SIMPLE GLOBAL */
+/* -------------------- */
 
-/* Evitar que el gráfico de conexiones se superponga al pie */
-.graph-view-container {
-  margin-bottom: 4rem !important;
-  z-index: 0;
-}
-
-/* Asegurar que el pie esté visible arriba de cualquier superposición */
 .pie-simple {
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  margin: 30px auto 80px auto;
+  line-height: 1.4;
   position: relative;
   z-index: 10;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+/* Estilo de enlaces */
+.pie-simple a {
+  color: #FFC53A;
+  text-decoration: underline;
+}
+.pie-simple a:hover {
+  color: #B26700;
+}
+
+/* Colores y bordes según modo de tema */
+[data-theme="dark"] .pie-simple {
+  color: #FAFF81;
+  border-top: 2px solid #B26700;
+}
+[data-theme="light"] .pie-simple {
+  color: #161032;
+  border-top: 2px solid #E06D06;
+}
+
+/* === ESTILOS SOLO DE COLOR (sin fondo) === */
+.resaltado {
+  font-weight: bold;
+  font-style: italic;
+  padding: 0 2px;
+}
+
+/* Amarillo suave para destacar */
+.resaltado.amarillo {
+  color: #FFC53A;
+}
+
+/* Verde calma */
+.resaltado.verde {
+  color: #9DDCAB;
+}
+
+/* Azul reflexivo */
+.resaltado.azul {
+  color: #A0C8F0;
+}
+
+/* Rojo suave */
+.resaltado.rojo {
+  color: #F28C8C;
 }
